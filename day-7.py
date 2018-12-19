@@ -74,11 +74,5 @@ while letters_done != []:
                     worker.letter = letter
                     break
     t += 1
-    print(t - 1, end='\t')
-    for worker in elves:
-        print(worker.letter, end='\t')
-    print(''.join(letters_used))
 
 print("Part 2: {}".format(t - 1))
-for recipe in recipe_dict:
-    print(recipe, recipe_dict[recipe])
