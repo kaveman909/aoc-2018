@@ -1,0 +1,9164 @@
+digraph tree {
+    "Node: 0
+Value: 21502";
+    "Node: 1
+Value: 2410";
+    "Node: 2
+Value: 2197";
+    "Node: 3
+Value: 387";
+    "Node: 4
+Value: 84";
+    "Node: 5
+Value: 28";
+    "Node: 6
+Value: 96";
+    "Node: 7
+Value: 48";
+    "Node: 8
+Value: 27";
+    "Node: 9
+Value: 27";
+    "Node: 10
+Value: 438";
+    "Node: 11
+Value: 141";
+    "Node: 12
+Value: 47";
+    "Node: 13
+Value: 141";
+    "Node: 14
+Value: 47";
+    "Node: 15
+Value: 99";
+    "Node: 16
+Value: 33";
+    "Node: 17
+Value: 552";
+    "Node: 18
+Value: 76";
+    "Node: 19
+Value: 38";
+    "Node: 20
+Value: 93";
+    "Node: 21
+Value: 31";
+    "Node: 22
+Value: 184";
+    "Node: 23
+Value: 46";
+    "Node: 24
+Value: 985";
+    "Node: 25
+Value: 136";
+    "Node: 26
+Value: 34";
+    "Node: 27
+Value: 180";
+    "Node: 28
+Value: 36";
+    "Node: 29
+Value: 129";
+    "Node: 30
+Value: 43";
+    "Node: 31
+Value: 1305";
+    "Node: 32
+Value: 210";
+    "Node: 33
+Value: 105";
+    "Node: 34
+Value: 35";
+    "Node: 35
+Value: 58";
+    "Node: 36
+Value: 29";
+    "Node: 37
+Value: 122";
+    "Node: 38
+Value: 61";
+    "Node: 39
+Value: 183";
+    "Node: 40
+Value: 100";
+    "Node: 41
+Value: 50";
+    "Node: 42
+Value: 78";
+    "Node: 43
+Value: 39";
+    "Node: 44
+Value: 105";
+    "Node: 45
+Value: 35";
+    "Node: 46
+Value: 378";
+    "Node: 47
+Value: 96";
+    "Node: 48
+Value: 48";
+    "Node: 49
+Value: 90";
+    "Node: 50
+Value: 30";
+    "Node: 51
+Value: 168";
+    "Node: 52
+Value: 42";
+    "Node: 53
+Value: 315";
+    "Node: 54
+Value: 123";
+    "Node: 55
+Value: 41";
+    "Node: 56
+Value: 69";
+    "Node: 57
+Value: 23";
+    "Node: 58
+Value: 141";
+    "Node: 59
+Value: 47";
+    "Node: 60
+Value: 516";
+    "Node: 61
+Value: 120";
+    "Node: 62
+Value: 40";
+    "Node: 63
+Value: 156";
+    "Node: 64
+Value: 39";
+    "Node: 65
+Value: 93";
+    "Node: 66
+Value: 31";
+    "Node: 67
+Value: 1196";
+    "Node: 68
+Value: 312";
+    "Node: 69
+Value: 104";
+    "Node: 70
+Value: 26";
+    "Node: 71
+Value: 240";
+    "Node: 72
+Value: 48";
+    "Node: 73
+Value: 170";
+    "Node: 74
+Value: 34";
+    "Node: 75
+Value: 245";
+    "Node: 76
+Value: 129";
+    "Node: 77
+Value: 43";
+    "Node: 78
+Value: 165";
+    "Node: 79
+Value: 33";
+    "Node: 80
+Value: 80";
+    "Node: 81
+Value: 20";
+    "Node: 82
+Value: 362";
+    "Node: 83
+Value: 81";
+    "Node: 84
+Value: 27";
+    "Node: 85
+Value: 200";
+    "Node: 86
+Value: 50";
+    "Node: 87
+Value: 36";
+    "Node: 88
+Value: 36";
+    "Node: 89
+Value: 299";
+    "Node: 90
+Value: 159";
+    "Node: 91
+Value: 53";
+    "Node: 92
+Value: 54";
+    "Node: 93
+Value: 27";
+    "Node: 94
+Value: 86";
+    "Node: 95
+Value: 43";
+    "Node: 96
+Value: 912";
+    "Node: 97
+Value: 618";
+    "Node: 98
+Value: 168";
+    "Node: 99
+Value: 42";
+    "Node: 100
+Value: 150";
+    "Node: 101
+Value: 50";
+    "Node: 102
+Value: 96";
+    "Node: 103
+Value: 48";
+    "Node: 104
+Value: 346";
+    "Node: 105
+Value: 94";
+    "Node: 106
+Value: 47";
+    "Node: 107
+Value: 60";
+    "Node: 108
+Value: 20";
+    "Node: 109
+Value: 192";
+    "Node: 110
+Value: 48";
+    "Node: 111
+Value: 382";
+    "Node: 112
+Value: 252";
+    "Node: 113
+Value: 42";
+    "Node: 114
+Value: 140";
+    "Node: 115
+Value: 35";
+    "Node: 116
+Value: 51";
+    "Node: 117
+Value: 17";
+    "Node: 118
+Value: 414";
+    "Node: 119
+Value: 132";
+    "Node: 120
+Value: 44";
+    "Node: 121
+Value: 180";
+    "Node: 122
+Value: 45";
+    "Node: 123
+Value: 102";
+    "Node: 124
+Value: 51";
+    "Node: 125
+Value: 152";
+    "Node: 126
+Value: 195";
+    "Node: 127
+Value: 39";
+    "Node: 128
+Value: 92";
+    "Node: 129
+Value: 23";
+    "Node: 130
+Value: 60";
+    "Node: 131
+Value: 30";
+    "Node: 132
+Value: 1205";
+    "Node: 133
+Value: 65";
+    "Node: 134
+Value: 88";
+    "Node: 135
+Value: 22";
+    "Node: 136
+Value: 30";
+    "Node: 137
+Value: 30";
+    "Node: 138
+Value: 35";
+    "Node: 139
+Value: 35";
+    "Node: 140
+Value: 228";
+    "Node: 141
+Value: 49";
+    "Node: 142
+Value: 49";
+    "Node: 143
+Value: 70";
+    "Node: 144
+Value: 35";
+    "Node: 145
+Value: 60";
+    "Node: 146
+Value: 30";
+    "Node: 147
+Value: 620";
+    "Node: 148
+Value: 92";
+    "Node: 149
+Value: 23";
+    "Node: 150
+Value: 132";
+    "Node: 151
+Value: 44";
+    "Node: 152
+Value: 132";
+    "Node: 153
+Value: 33";
+    "Node: 154
+Value: 468";
+    "Node: 155
+Value: 86";
+    "Node: 156
+Value: 43";
+    "Node: 157
+Value: 150";
+    "Node: 158
+Value: 30";
+    "Node: 159
+Value: 82";
+    "Node: 160
+Value: 41";
+    "Node: 161
+Value: 357";
+    "Node: 162
+Value: 45";
+    "Node: 163
+Value: 45";
+    "Node: 164
+Value: 50";
+    "Node: 165
+Value: 25";
+    "Node: 166
+Value: 212";
+    "Node: 167
+Value: 53";
+    "Node: 168
+Value: 1196";
+    "Node: 169
+Value: 306";
+    "Node: 170
+Value: 216";
+    "Node: 171
+Value: 54";
+    "Node: 172
+Value: 84";
+    "Node: 173
+Value: 42";
+    "Node: 174
+Value: 30";
+    "Node: 175
+Value: 15";
+    "Node: 176
+Value: 291";
+    "Node: 177
+Value: 117";
+    "Node: 178
+Value: 39";
+    "Node: 179
+Value: 108";
+    "Node: 180
+Value: 27";
+    "Node: 181
+Value: 66";
+    "Node: 182
+Value: 33";
+    "Node: 183
+Value: 348";
+    "Node: 184
+Value: 42";
+    "Node: 185
+Value: 21";
+    "Node: 186
+Value: 144";
+    "Node: 187
+Value: 48";
+    "Node: 188
+Value: 68";
+    "Node: 189
+Value: 34";
+    "Node: 190
+Value: 852";
+    "Node: 191
+Value: 18";
+    "Node: 192
+Value: 18";
+    "Node: 193
+Value: 300";
+    "Node: 194
+Value: 60";
+    "Node: 195
+Value: 84";
+    "Node: 196
+Value: 42";
+    "Node: 197
+Value: 848";
+    "Node: 198
+Value: 132";
+    "Node: 199
+Value: 33";
+    "Node: 200
+Value: 165";
+    "Node: 201
+Value: 55";
+    "Node: 202
+Value: 259";
+    "Node: 203
+Value: 37";
+    "Node: 204
+Value: 1179";
+    "Node: 205
+Value: 170";
+    "Node: 206
+Value: 96";
+    "Node: 207
+Value: 32";
+    "Node: 208
+Value: 60";
+    "Node: 209
+Value: 30";
+    "Node: 210
+Value: 110";
+    "Node: 211
+Value: 22";
+    "Node: 212
+Value: 648";
+    "Node: 213
+Value: 96";
+    "Node: 214
+Value: 48";
+    "Node: 215
+Value: 104";
+    "Node: 216
+Value: 26";
+    "Node: 217
+Value: 120";
+    "Node: 218
+Value: 40";
+    "Node: 219
+Value: 335";
+    "Node: 220
+Value: 144";
+    "Node: 221
+Value: 48";
+    "Node: 222
+Value: 153";
+    "Node: 223
+Value: 51";
+    "Node: 224
+Value: 38";
+    "Node: 225
+Value: 19";
+    "Node: 226
+Value: 422";
+    "Node: 227
+Value: 192";
+    "Node: 228
+Value: 48";
+    "Node: 229
+Value: 58";
+    "Node: 230
+Value: 29";
+    "Node: 231
+Value: 230";
+    "Node: 232
+Value: 46";
+    "Node: 233
+Value: 2649";
+    "Node: 234
+Value: 1032";
+    "Node: 235
+Value: 242";
+    "Node: 236
+Value: 104";
+    "Node: 237
+Value: 52";
+    "Node: 238
+Value: 57";
+    "Node: 239
+Value: 19";
+    "Node: 240
+Value: 81";
+    "Node: 241
+Value: 27";
+    "Node: 242
+Value: 615";
+    "Node: 243
+Value: 129";
+    "Node: 244
+Value: 43";
+    "Node: 245
+Value: 123";
+    "Node: 246
+Value: 41";
+    "Node: 247
+Value: 240";
+    "Node: 248
+Value: 48";
+    "Node: 249
+Value: 318";
+    "Node: 250
+Value: 51";
+    "Node: 251
+Value: 51";
+    "Node: 252
+Value: 72";
+    "Node: 253
+Value: 24";
+    "Node: 254
+Value: 129";
+    "Node: 255
+Value: 43";
+    "Node: 256
+Value: 222";
+    "Node: 257
+Value: 210";
+    "Node: 258
+Value: 35";
+    "Node: 259
+Value: 192";
+    "Node: 260
+Value: 48";
+    "Node: 261
+Value: 30";
+    "Node: 262
+Value: 30";
+    "Node: 263
+Value: 246";
+    "Node: 264
+Value: 84";
+    "Node: 265
+Value: 42";
+    "Node: 266
+Value: 110";
+    "Node: 267
+Value: 55";
+    "Node: 268
+Value: 68";
+    "Node: 269
+Value: 34";
+    "Node: 270
+Value: 789";
+    "Node: 271
+Value: 150";
+    "Node: 272
+Value: 75";
+    "Node: 273
+Value: 25";
+    "Node: 274
+Value: 98";
+    "Node: 275
+Value: 49";
+    "Node: 276
+Value: 84";
+    "Node: 277
+Value: 42";
+    "Node: 278
+Value: 258";
+    "Node: 279
+Value: 126";
+    "Node: 280
+Value: 42";
+    "Node: 281
+Value: 33";
+    "Node: 282
+Value: 33";
+    "Node: 283
+Value: 132";
+    "Node: 284
+Value: 44";
+    "Node: 285
+Value: 480";
+    "Node: 286
+Value: 264";
+    "Node: 287
+Value: 44";
+    "Node: 288
+Value: 27";
+    "Node: 289
+Value: 27";
+    "Node: 290
+Value: 108";
+    "Node: 291
+Value: 54";
+    "Node: 292
+Value: 131";
+    "Node: 293
+Value: 19";
+    "Node: 294
+Value: 19";
+    "Node: 295
+Value: 48";
+    "Node: 296
+Value: 24";
+    "Node: 297
+Value: 64";
+    "Node: 298
+Value: 32";
+    "Node: 299
+Value: 400";
+    "Node: 300
+Value: 116";
+    "Node: 301
+Value: 29";
+    "Node: 302
+Value: 168";
+    "Node: 303
+Value: 42";
+    "Node: 304
+Value: 70";
+    "Node: 305
+Value: 35";
+    "Node: 306
+Value: 1268";
+    "Node: 307
+Value: 620";
+    "Node: 308
+Value: 100";
+    "Node: 309
+Value: 25";
+    "Node: 310
+Value: 195";
+    "Node: 311
+Value: 39";
+    "Node: 312
+Value: 230";
+    "Node: 313
+Value: 46";
+    "Node: 314
+Value: 324";
+    "Node: 315
+Value: 105";
+    "Node: 316
+Value: 35";
+    "Node: 317
+Value: 42";
+    "Node: 318
+Value: 21";
+    "Node: 319
+Value: 72";
+    "Node: 320
+Value: 36";
+    "Node: 321
+Value: 362";
+    "Node: 322
+Value: 140";
+    "Node: 323
+Value: 28";
+    "Node: 324
+Value: 108";
+    "Node: 325
+Value: 36";
+    "Node: 326
+Value: 82";
+    "Node: 327
+Value: 41";
+    "Node: 328
+Value: 792";
+    "Node: 329
+Value: 141";
+    "Node: 330
+Value: 47";
+    "Node: 331
+Value: 84";
+    "Node: 332
+Value: 28";
+    "Node: 333
+Value: 144";
+    "Node: 334
+Value: 24";
+    "Node: 335
+Value: 953";
+    "Node: 336
+Value: 537";
+    "Node: 337
+Value: 102";
+    "Node: 338
+Value: 34";
+    "Node: 339
+Value: 111";
+    "Node: 340
+Value: 37";
+    "Node: 341
+Value: 72";
+    "Node: 342
+Value: 18";
+    "Node: 343
+Value: 503";
+    "Node: 344
+Value: 111";
+    "Node: 345
+Value: 37";
+    "Node: 346
+Value: 196";
+    "Node: 347
+Value: 49";
+    "Node: 348
+Value: 165";
+    "Node: 349
+Value: 55";
+    "Node: 350
+Value: 794";
+    "Node: 351
+Value: 220";
+    "Node: 352
+Value: 44";
+    "Node: 353
+Value: 57";
+    "Node: 354
+Value: 57";
+    "Node: 355
+Value: 120";
+    "Node: 356
+Value: 40";
+    "Node: 357
+Value: 288";
+    "Node: 358
+Value: 162";
+    "Node: 359
+Value: 54";
+    "Node: 360
+Value: 63";
+    "Node: 361
+Value: 21";
+    "Node: 362
+Value: 140";
+    "Node: 363
+Value: 35";
+    "Node: 364
+Value: 416";
+    "Node: 365
+Value: 50";
+    "Node: 366
+Value: 25";
+    "Node: 367
+Value: 40";
+    "Node: 368
+Value: 20";
+    "Node: 369
+Value: 138";
+    "Node: 370
+Value: 46";
+    "Node: 371
+Value: 2760";
+    "Node: 372
+Value: 420";
+    "Node: 373
+Value: 155";
+    "Node: 374
+Value: 31";
+    "Node: 375
+Value: 210";
+    "Node: 376
+Value: 42";
+    "Node: 377
+Value: 54";
+    "Node: 378
+Value: 54";
+    "Node: 379
+Value: 1380";
+    "Node: 380
+Value: 329";
+    "Node: 381
+Value: 47";
+    "Node: 382
+Value: 22";
+    "Node: 383
+Value: 22";
+    "Node: 384
+Value: 42";
+    "Node: 385
+Value: 21";
+    "Node: 386
+Value: 628";
+    "Node: 387
+Value: 98";
+    "Node: 388
+Value: 49";
+    "Node: 389
+Value: 120";
+    "Node: 390
+Value: 30";
+    "Node: 391
+Value: 265";
+    "Node: 392
+Value: 53";
+    "Node: 393
+Value: 488";
+    "Node: 394
+Value: 312";
+    "Node: 395
+Value: 52";
+    "Node: 396
+Value: 128";
+    "Node: 397
+Value: 32";
+    "Node: 398
+Value: 180";
+    "Node: 399
+Value: 45";
+    "Node: 400
+Value: 752";
+    "Node: 401
+Value: 310";
+    "Node: 402
+Value: 62";
+    "Node: 403
+Value: 29";
+    "Node: 404
+Value: 29";
+    "Node: 405
+Value: 66";
+    "Node: 406
+Value: 22";
+    "Node: 407
+Value: 907";
+    "Node: 408
+Value: 268";
+    "Node: 409
+Value: 100";
+    "Node: 410
+Value: 50";
+    "Node: 411
+Value: 28";
+    "Node: 412
+Value: 28";
+    "Node: 413
+Value: 120";
+    "Node: 414
+Value: 30";
+    "Node: 415
+Value: 342";
+    "Node: 416
+Value: 74";
+    "Node: 417
+Value: 37";
+    "Node: 418
+Value: 114";
+    "Node: 419
+Value: 57";
+    "Node: 420
+Value: 37";
+    "Node: 421
+Value: 37";
+    "Node: 422
+Value: 472";
+    "Node: 423
+Value: 96";
+    "Node: 424
+Value: 24";
+    "Node: 425
+Value: 48";
+    "Node: 426
+Value: 16";
+    "Node: 427
+Value: 184";
+    "Node: 428
+Value: 46";
+    "Node: 429
+Value: 404";
+    "Node: 430
+Value: 88";
+    "Node: 431
+Value: 22";
+    "Node: 432
+Value: 114";
+    "Node: 433
+Value: 38";
+    "Node: 434
+Value: 34";
+    "Node: 435
+Value: 34";
+    "Node: 436
+Value: 93";
+    "Node: 437
+Value: 72";
+    "Node: 438
+Value: 36";
+    "Node: 439
+Value: 29";
+    "Node: 440
+Value: 29";
+    "Node: 441
+Value: 64";
+    "Node: 442
+Value: 32";
+    "Node: 443
+Value: 1767";
+    "Node: 444
+Value: 1767";
+    "Node: 445
+Value: 291";
+    "Node: 446
+Value: 66";
+    "Node: 447
+Value: 33";
+    "Node: 448
+Value: 81";
+    "Node: 449
+Value: 27";
+    "Node: 450
+Value: 72";
+    "Node: 451
+Value: 36";
+    "Node: 452
+Value: 418";
+    "Node: 453
+Value: 94";
+    "Node: 454
+Value: 47";
+    "Node: 455
+Value: 41";
+    "Node: 456
+Value: 41";
+    "Node: 457
+Value: 108";
+    "Node: 458
+Value: 36";
+    "Node: 459
+Value: 212";
+    "Node: 460
+Value: 130";
+    "Node: 461
+Value: 26";
+    "Node: 462
+Value: 43";
+    "Node: 463
+Value: 43";
+    "Node: 464
+Value: 126";
+    "Node: 465
+Value: 42";
+    "Node: 466
+Value: 1052";
+    "Node: 467
+Value: 69";
+    "Node: 468
+Value: 23";
+    "Node: 469
+Value: 232";
+    "Node: 470
+Value: 58";
+    "Node: 471
+Value: 62";
+    "Node: 472
+Value: 31";
+    "Node: 473
+Value: 263";
+    "Node: 474
+Value: 78";
+    "Node: 475
+Value: 26";
+    "Node: 476
+Value: 128";
+    "Node: 477
+Value: 32";
+    "Node: 478
+Value: 57";
+    "Node: 479
+Value: 19";
+    "Node: 480
+Value: 1088";
+    "Node: 481
+Value: 375";
+    "Node: 482
+Value: 183";
+    "Node: 483
+Value: 61";
+    "Node: 484
+Value: 72";
+    "Node: 485
+Value: 36";
+    "Node: 486
+Value: 120";
+    "Node: 487
+Value: 60";
+    "Node: 488
+Value: 334";
+    "Node: 489
+Value: 54";
+    "Node: 490
+Value: 54";
+    "Node: 491
+Value: 140";
+    "Node: 492
+Value: 35";
+    "Node: 493
+Value: 54";
+    "Node: 494
+Value: 27";
+    "Node: 495
+Value: 390";
+    "Node: 496
+Value: 126";
+    "Node: 497
+Value: 42";
+    "Node: 498
+Value: 132";
+    "Node: 499
+Value: 33";
+    "Node: 500
+Value: 150";
+    "Node: 501
+Value: 25";
+    "Node: 502
+Value: 108";
+    "Node: 503
+Value: 60";
+    "Node: 504
+Value: 30";
+    "Node: 505
+Value: 54";
+    "Node: 506
+Value: 27";
+    "Node: 507
+Value: 87";
+    "Node: 508
+Value: 29";
+    "Node: 509
+Value: 490";
+    "Node: 510
+Value: 20";
+    "Node: 511
+Value: 20";
+    "Node: 512
+Value: 128";
+    "Node: 513
+Value: 32";
+    "Node: 514
+Value: 117";
+    "Node: 515
+Value: 39";
+    "Node: 516
+Value: 1234";
+    "Node: 517
+Value: 230";
+    "Node: 518
+Value: 80";
+    "Node: 519
+Value: 20";
+    "Node: 520
+Value: 180";
+    "Node: 521
+Value: 45";
+    "Node: 522
+Value: 75";
+    "Node: 523
+Value: 25";
+    "Node: 524
+Value: 330";
+    "Node: 525
+Value: 54";
+    "Node: 526
+Value: 18";
+    "Node: 527
+Value: 111";
+    "Node: 528
+Value: 37";
+    "Node: 529
+Value: 155";
+    "Node: 530
+Value: 31";
+    "Node: 531
+Value: 235";
+    "Node: 532
+Value: 69";
+    "Node: 533
+Value: 23";
+    "Node: 534
+Value: 70";
+    "Node: 535
+Value: 35";
+    "Node: 536
+Value: 96";
+    "Node: 537
+Value: 32";
+    "Node: 538
+Value: 452";
+    "Node: 539
+Value: 36";
+    "Node: 540
+Value: 36";
+    "Node: 541
+Value: 82";
+    "Node: 542
+Value: 41";
+    "Node: 543
+Value: 72";
+    "Node: 544
+Value: 18";
+    "Node: 545
+Value: 1532";
+    "Node: 546
+Value: 684";
+    "Node: 547
+Value: 54";
+    "Node: 548
+Value: 27";
+    "Node: 549
+Value: 126";
+    "Node: 550
+Value: 63";
+    "Node: 551
+Value: 102";
+    "Node: 552
+Value: 34";
+    "Node: 553
+Value: 164";
+    "Node: 554
+Value: 60";
+    "Node: 555
+Value: 30";
+    "Node: 556
+Value: 52";
+    "Node: 557
+Value: 26";
+    "Node: 558
+Value: 84";
+    "Node: 559
+Value: 28";
+    "Node: 560
+Value: 448";
+    "Node: 561
+Value: 124";
+    "Node: 562
+Value: 62";
+    "Node: 563
+Value: 112";
+    "Node: 564
+Value: 28";
+    "Node: 565
+Value: 124";
+    "Node: 566
+Value: 31";
+    "Node: 567
+Value: 508";
+    "Node: 568
+Value: 160";
+    "Node: 569
+Value: 40";
+    "Node: 570
+Value: 184";
+    "Node: 571
+Value: 46";
+    "Node: 572
+Value: 70";
+    "Node: 573
+Value: 35";
+    "Node: 574
+Value: 684";
+    "Node: 575
+Value: 98";
+    "Node: 576
+Value: 49";
+    "Node: 577
+Value: 180";
+    "Node: 578
+Value: 60";
+    "Node: 579
+Value: 126";
+    "Node: 580
+Value: 42";
+    "Node: 581
+Value: 591";
+    "Node: 582
+Value: 312";
+    "Node: 583
+Value: 60";
+    "Node: 584
+Value: 20";
+    "Node: 585
+Value: 96";
+    "Node: 586
+Value: 48";
+    "Node: 587
+Value: 60";
+    "Node: 588
+Value: 30";
+    "Node: 589
+Value: 470";
+    "Node: 590
+Value: 185";
+    "Node: 591
+Value: 37";
+    "Node: 592
+Value: 87";
+    "Node: 593
+Value: 29";
+    "Node: 594
+Value: 100";
+    "Node: 595
+Value: 50";
+    "Node: 596
+Value: 599";
+    "Node: 597
+Value: 156";
+    "Node: 598
+Value: 52";
+    "Node: 599
+Value: 75";
+    "Node: 600
+Value: 25";
+    "Node: 601
+Value: 184";
+    "Node: 602
+Value: 46";
+    "Node: 603
+Value: 148";
+    "Node: 604
+Value: 148";
+    "Node: 605
+Value: 37";
+    "Node: 606
+Value: 76";
+    "Node: 607
+Value: 38";
+    "Node: 608
+Value: 100";
+    "Node: 609
+Value: 50";
+    "Node: 610
+Value: 279";
+    "Node: 611
+Value: 162";
+    "Node: 612
+Value: 54";
+    "Node: 613
+Value: 180";
+    "Node: 614
+Value: 36";
+    "Node: 615
+Value: 33";
+    "Node: 616
+Value: 33";
+    "Node: 617
+Value: 864";
+    "Node: 618
+Value: 336";
+    "Node: 619
+Value: 84";
+    "Node: 620
+Value: 42";
+    "Node: 621
+Value: 56";
+    "Node: 622
+Value: 28";
+    "Node: 623
+Value: 42";
+    "Node: 624
+Value: 42";
+    "Node: 625
+Value: 575";
+    "Node: 626
+Value: 93";
+    "Node: 627
+Value: 31";
+    "Node: 628
+Value: 105";
+    "Node: 629
+Value: 35";
+    "Node: 630
+Value: 260";
+    "Node: 631
+Value: 52";
+    "Node: 632
+Value: 252";
+    "Node: 633
+Value: 96";
+    "Node: 634
+Value: 32";
+    "Node: 635
+Value: 21";
+    "Node: 636
+Value: 21";
+    "Node: 637
+Value: 105";
+    "Node: 638
+Value: 35";
+    "Node: 639
+Value: 528";
+    "Node: 640
+Value: 228";
+    "Node: 641
+Value: 57";
+    "Node: 642
+Value: 72";
+    "Node: 643
+Value: 36";
+    "Node: 644
+Value: 152";
+    "Node: 645
+Value: 38";
+    "Node: 646
+Value: 392";
+    "Node: 647
+Value: 76";
+    "Node: 648
+Value: 19";
+    "Node: 649
+Value: 104";
+    "Node: 650
+Value: 52";
+    "Node: 651
+Value: 68";
+    "Node: 652
+Value: 34";
+    "Node: 653
+Value: 800";
+    "Node: 654
+Value: 140";
+    "Node: 655
+Value: 44";
+    "Node: 656
+Value: 44";
+    "Node: 657
+Value: 96";
+    "Node: 658
+Value: 32";
+    "Node: 659
+Value: 36";
+    "Node: 660
+Value: 36";
+    "Node: 661
+Value: 504";
+    "Node: 662
+Value: 156";
+    "Node: 663
+Value: 52";
+    "Node: 664
+Value: 140";
+    "Node: 665
+Value: 35";
+    "Node: 666
+Value: 48";
+    "Node: 667
+Value: 24";
+    "Node: 668
+Value: 108";
+    "Node: 669
+Value: 108";
+    "Node: 670
+Value: 36";
+    "Node: 671
+Value: 124";
+    "Node: 672
+Value: 62";
+    "Node: 673
+Value: 117";
+    "Node: 674
+Value: 39";
+    "Node: 675
+Value: 224";
+    "Node: 676
+Value: 78";
+    "Node: 677
+Value: 26";
+    "Node: 678
+Value: 68";
+    "Node: 679
+Value: 34";
+    "Node: 680
+Value: 114";
+    "Node: 681
+Value: 19";
+    "Node: 682
+Value: 330";
+    "Node: 683
+Value: 78";
+    "Node: 684
+Value: 26";
+    "Node: 685
+Value: 138";
+    "Node: 686
+Value: 46";
+    "Node: 687
+Value: 96";
+    "Node: 688
+Value: 48";
+    "Node: 689
+Value: 1239";
+    "Node: 690
+Value: 448";
+    "Node: 691
+Value: 52";
+    "Node: 692
+Value: 105";
+    "Node: 693
+Value: 35";
+    "Node: 694
+Value: 120";
+    "Node: 695
+Value: 40";
+    "Node: 696
+Value: 52";
+    "Node: 697
+Value: 26";
+    "Node: 698
+Value: 396";
+    "Node: 699
+Value: 96";
+    "Node: 700
+Value: 32";
+    "Node: 701
+Value: 46";
+    "Node: 702
+Value: 46";
+    "Node: 703
+Value: 112";
+    "Node: 704
+Value: 28";
+    "Node: 705
+Value: 412";
+    "Node: 706
+Value: 81";
+    "Node: 707
+Value: 27";
+    "Node: 708
+Value: 120";
+    "Node: 709
+Value: 30";
+    "Node: 710
+Value: 86";
+    "Node: 711
+Value: 43";
+    "Node: 712
+Value: 347";
+    "Node: 713
+Value: 215";
+    "Node: 714
+Value: 43";
+    "Node: 715
+Value: 132";
+    "Node: 716
+Value: 44";
+    "Node: 717
+Value: 29";
+    "Node: 718
+Value: 29";
+    "Node: 719
+Value: 1239";
+    "Node: 720
+Value: 476";
+    "Node: 721
+Value: 82";
+    "Node: 722
+Value: 41";
+    "Node: 723
+Value: 135";
+    "Node: 724
+Value: 45";
+    "Node: 725
+Value: 156";
+    "Node: 726
+Value: 26";
+    "Node: 727
+Value: 262";
+    "Node: 728
+Value: 180";
+    "Node: 729
+Value: 36";
+    "Node: 730
+Value: 32";
+    "Node: 731
+Value: 32";
+    "Node: 732
+Value: 82";
+    "Node: 733
+Value: 41";
+    "Node: 734
+Value: 396";
+    "Node: 735
+Value: 66";
+    "Node: 736
+Value: 33";
+    "Node: 737
+Value: 228";
+    "Node: 738
+Value: 57";
+    "Node: 739
+Value: 84";
+    "Node: 740
+Value: 42";
+    "Node: 741
+Value: 447";
+    "Node: 742
+Value: 99";
+    "Node: 743
+Value: 33";
+    "Node: 744
+Value: 108";
+    "Node: 745
+Value: 36";
+    "Node: 746
+Value: 80";
+    "Node: 747
+Value: 40";
+    "Node: 748
+Value: 412";
+    "Node: 749
+Value: 42";
+    "Node: 750
+Value: 42";
+    "Node: 751
+Value: 100";
+    "Node: 752
+Value: 25";
+    "Node: 753
+Value: 90";
+    "Node: 754
+Value: 18";
+    "Node: 755
+Value: 814";
+    "Node: 756
+Value: 429";
+    "Node: 757
+Value: 33";
+    "Node: 758
+Value: 33";
+    "Node: 759
+Value: 102";
+    "Node: 760
+Value: 34";
+    "Node: 761
+Value: 147";
+    "Node: 762
+Value: 49";
+    "Node: 763
+Value: 492";
+    "Node: 764
+Value: 52";
+    "Node: 765
+Value: 26";
+    "Node: 766
+Value: 72";
+    "Node: 767
+Value: 36";
+    "Node: 768
+Value: 220";
+    "Node: 769
+Value: 44";
+    "Node: 770
+Value: 234";
+    "Node: 771
+Value: 54";
+    "Node: 772
+Value: 27";
+    "Node: 773
+Value: 108";
+    "Node: 774
+Value: 27";
+    "Node: 775
+Value: 126";
+    "Node: 776
+Value: 42";
+    "Node: 777
+Value: 152";
+    "Node: 778
+Value: 86";
+    "Node: 779
+Value: 43";
+    "Node: 780
+Value: 90";
+    "Node: 781
+Value: 30";
+    "Node: 782
+Value: 66";
+    "Node: 783
+Value: 22";
+    "Node: 784
+Value: 88";
+    "Node: 785
+Value: 44";
+    "Node: 786
+Value: 44";
+    "Node: 787
+Value: 208";
+    "Node: 788
+Value: 52";
+    "Node: 789
+Value: 53";
+    "Node: 790
+Value: 53";
+    "Node: 791
+Value: 1694";
+    "Node: 792
+Value: 174";
+    "Node: 793
+Value: 102";
+    "Node: 794
+Value: 34";
+    "Node: 795
+Value: 46";
+    "Node: 796
+Value: 23";
+    "Node: 797
+Value: 36";
+    "Node: 798
+Value: 36";
+    "Node: 799
+Value: 236";
+    "Node: 800
+Value: 60";
+    "Node: 801
+Value: 30";
+    "Node: 802
+Value: 184";
+    "Node: 803
+Value: 46";
+    "Node: 804
+Value: 176";
+    "Node: 805
+Value: 44";
+    "Node: 806
+Value: 248";
+    "Node: 807
+Value: 82";
+    "Node: 808
+Value: 41";
+    "Node: 809
+Value: 84";
+    "Node: 810
+Value: 28";
+    "Node: 811
+Value: 164";
+    "Node: 812
+Value: 41";
+    "Node: 813
+Value: 760";
+    "Node: 814
+Value: 138";
+    "Node: 815
+Value: 46";
+    "Node: 816
+Value: 210";
+    "Node: 817
+Value: 42";
+    "Node: 818
+Value: 64";
+    "Node: 819
+Value: 32";
+    "Node: 820
+Value: 516";
+    "Node: 821
+Value: 195";
+    "Node: 822
+Value: 39";
+    "Node: 823
+Value: 165";
+    "Node: 824
+Value: 33";
+    "Node: 825
+Value: 52";
+    "Node: 826
+Value: 52";
+    "Node: 827
+Value: 1644";
+    "Node: 828
+Value: 164";
+    "Node: 829
+Value: 152";
+    "Node: 830
+Value: 38";
+    "Node: 831
+Value: 68";
+    "Node: 832
+Value: 34";
+    "Node: 833
+Value: 28";
+    "Node: 834
+Value: 28";
+    "Node: 835
+Value: 360";
+    "Node: 836
+Value: 145";
+    "Node: 837
+Value: 29";
+    "Node: 838
+Value: 132";
+    "Node: 839
+Value: 44";
+    "Node: 840
+Value: 90";
+    "Node: 841
+Value: 15";
+    "Node: 842
+Value: 778";
+    "Node: 843
+Value: 86";
+    "Node: 844
+Value: 43";
+    "Node: 845
+Value: 120";
+    "Node: 846
+Value: 40";
+    "Node: 847
+Value: 200";
+    "Node: 848
+Value: 40";
+    "Node: 849
+Value: 438";
+    "Node: 850
+Value: 120";
+    "Node: 851
+Value: 30";
+    "Node: 852
+Value: 78";
+    "Node: 853
+Value: 26";
+    "Node: 854
+Value: 123";
+    "Node: 855
+Value: 41";
+    "Node: 856
+Value: 264";
+    "Node: 857
+Value: 90";
+    "Node: 858
+Value: 45";
+    "Node: 859
+Value: 174";
+    "Node: 860
+Value: 29";
+    "Node: 861
+Value: 87";
+    "Node: 862
+Value: 29";
+    "Node: 863
+Value: 2884";
+    "Node: 864
+Value: 992";
+    "Node: 865
+Value: 183";
+    "Node: 866
+Value: 61";
+    "Node: 867
+Value: 54";
+    "Node: 868
+Value: 27";
+    "Node: 869
+Value: 248";
+    "Node: 870
+Value: 62";
+    "Node: 871
+Value: 528";
+    "Node: 872
+Value: 144";
+    "Node: 873
+Value: 36";
+    "Node: 874
+Value: 123";
+    "Node: 875
+Value: 41";
+    "Node: 876
+Value: 117";
+    "Node: 877
+Value: 39";
+    "Node: 878
+Value: 372";
+    "Node: 879
+Value: 42";
+    "Node: 880
+Value: 21";
+    "Node: 881
+Value: 140";
+    "Node: 882
+Value: 35";
+    "Node: 883
+Value: 50";
+    "Node: 884
+Value: 25";
+    "Node: 885
+Value: 306";
+    "Node: 886
+Value: 108";
+    "Node: 887
+Value: 27";
+    "Node: 888
+Value: 112";
+    "Node: 889
+Value: 56";
+    "Node: 890
+Value: 102";
+    "Node: 891
+Value: 34";
+    "Node: 892
+Value: 2328";
+    "Node: 893
+Value: 2106";
+    "Node: 894
+Value: 604";
+    "Node: 895
+Value: 48";
+    "Node: 896
+Value: 24";
+    "Node: 897
+Value: 164";
+    "Node: 898
+Value: 41";
+    "Node: 899
+Value: 64";
+    "Node: 900
+Value: 32";
+    "Node: 901
+Value: 570";
+    "Node: 902
+Value: 150";
+    "Node: 903
+Value: 50";
+    "Node: 904
+Value: 114";
+    "Node: 905
+Value: 38";
+    "Node: 906
+Value: 120";
+    "Node: 907
+Value: 30";
+    "Node: 908
+Value: 966";
+    "Node: 909
+Value: 96";
+    "Node: 910
+Value: 24";
+    "Node: 911
+Value: 41";
+    "Node: 912
+Value: 41";
+    "Node: 913
+Value: 258";
+    "Node: 914
+Value: 43";
+    "Node: 915
+Value: 570";
+    "Node: 916
+Value: 190";
+    "Node: 917
+Value: 38";
+    "Node: 918
+Value: 84";
+    "Node: 919
+Value: 21";
+    "Node: 920
+Value: 225";
+    "Node: 921
+Value: 45";
+    "Node: 922
+Value: 156";
+    "Node: 923
+Value: 32";
+    "Node: 924
+Value: 32";
+    "Node: 925
+Value: 70";
+    "Node: 926
+Value: 35";
+    "Node: 927
+Value: 54";
+    "Node: 928
+Value: 27";
+    "Node: 929
+Value: 486";
+    "Node: 930
+Value: 1096";
+    "Node: 931
+Value: 88";
+    "Node: 932
+Value: 44";
+    "Node: 933
+Value: 170";
+    "Node: 934
+Value: 34";
+    "Node: 935
+Value: 252";
+    "Node: 936
+Value: 63";
+    "Node: 937
+Value: 776";
+    "Node: 938
+Value: 62";
+    "Node: 939
+Value: 31";
+    "Node: 940
+Value: 212";
+    "Node: 941
+Value: 53";
+    "Node: 942
+Value: 78";
+    "Node: 943
+Value: 26";
+    "Node: 944
+Value: 252";
+    "Node: 945
+Value: 46";
+    "Node: 946
+Value: 23";
+    "Node: 947
+Value: 160";
+    "Node: 948
+Value: 40";
+    "Node: 949
+Value: 100";
+    "Node: 950
+Value: 25";
+    "Node: 951
+Value: 234";
+    "Node: 952
+Value: 60";
+    "Node: 953
+Value: 30";
+    "Node: 954
+Value: 36";
+    "Node: 955
+Value: 36";
+    "Node: 956
+Value: 102";
+    "Node: 957
+Value: 34";
+    "Node: 958
+Value: 190";
+    "Node: 959
+Value: 80";
+    "Node: 960
+Value: 20";
+    "Node: 961
+Value: 265";
+    "Node: 962
+Value: 53";
+    "Node: 963
+Value: 30";
+    "Node: 964
+Value: 30";
+    "Node: 965
+Value: 1776";
+    "Node: 966
+Value: 345";
+    "Node: 967
+Value: 46";
+    "Node: 968
+Value: 23";
+    "Node: 969
+Value: 115";
+    "Node: 970
+Value: 23";
+    "Node: 971
+Value: 38";
+    "Node: 972
+Value: 38";
+    "Node: 973
+Value: 272";
+    "Node: 974
+Value: 51";
+    "Node: 975
+Value: 51";
+    "Node: 976
+Value: 80";
+    "Node: 977
+Value: 40";
+    "Node: 978
+Value: 136";
+    "Node: 979
+Value: 34";
+    "Node: 980
+Value: 278";
+    "Node: 981
+Value: 90";
+    "Node: 982
+Value: 30";
+    "Node: 983
+Value: 98";
+    "Node: 984
+Value: 49";
+    "Node: 985
+Value: 141";
+    "Node: 986
+Value: 47";
+    "Node: 987
+Value: 613";
+    "Node: 988
+Value: 117";
+    "Node: 989
+Value: 39";
+    "Node: 990
+Value: 120";
+    "Node: 991
+Value: 40";
+    "Node: 992
+Value: 136";
+    "Node: 993
+Value: 34";
+    "Node: 994
+Value: 136";
+    "Node: 995
+Value: 220";
+    "Node: 996
+Value: 55";
+    "Node: 997
+Value: 42";
+    "Node: 998
+Value: 42";
+    "Node: 999
+Value: 26";
+    "Node: 1000
+Value: 13";
+    "Node: 1001
+Value: 1378";
+    "Node: 1002
+Value: 607";
+    "Node: 1003
+Value: 29";
+    "Node: 1004
+Value: 29";
+    "Node: 1005
+Value: 102";
+    "Node: 1006
+Value: 34";
+    "Node: 1007
+Value: 272";
+    "Node: 1008
+Value: 68";
+    "Node: 1009
+Value: 708";
+    "Node: 1010
+Value: 108";
+    "Node: 1011
+Value: 36";
+    "Node: 1012
+Value: 96";
+    "Node: 1013
+Value: 32";
+    "Node: 1014
+Value: 204";
+    "Node: 1015
+Value: 68";
+    "Node: 1016
+Value: 164";
+    "Node: 1017
+Value: 80";
+    "Node: 1018
+Value: 40";
+    "Node: 1019
+Value: 34";
+    "Node: 1020
+Value: 34";
+    "Node: 1021
+Value: 82";
+    "Node: 1022
+Value: 41";
+    "Node: 1023
+Value: 452";
+    "Node: 1024
+Value: 136";
+    "Node: 1025
+Value: 34";
+    "Node: 1026
+Value: 188";
+    "Node: 1027
+Value: 47";
+    "Node: 1028
+Value: 132";
+    "Node: 1029
+Value: 33";
+    "Node: 1030
+Value: 744";
+    "Node: 1031
+Value: 114";
+    "Node: 1032
+Value: 38";
+    "Node: 1033
+Value: 144";
+    "Node: 1034
+Value: 36";
+    "Node: 1035
+Value: 42";
+    "Node: 1036
+Value: 21";
+    "Node: 1037
+Value: 1854";
+    "Node: 1038
+Value: 378";
+    "Node: 1039
+Value: 81";
+    "Node: 1040
+Value: 27";
+    "Node: 1041
+Value: 40";
+    "Node: 1042
+Value: 40";
+    "Node: 1043
+Value: 108";
+    "Node: 1044
+Value: 36";
+    "Node: 1045
+Value: 588";
+    "Node: 1046
+Value: 270";
+    "Node: 1047
+Value: 54";
+    "Node: 1048
+Value: 48";
+    "Node: 1049
+Value: 24";
+    "Node: 1050
+Value: 47";
+    "Node: 1051
+Value: 47";
+    "Node: 1052
+Value: 490";
+    "Node: 1053
+Value: 80";
+    "Node: 1054
+Value: 40";
+    "Node: 1055
+Value: 76";
+    "Node: 1056
+Value: 38";
+    "Node: 1057
+Value: 138";
+    "Node: 1058
+Value: 46";
+    "Node: 1059
+Value: 436";
+    "Node: 1060
+Value: 156";
+    "Node: 1061
+Value: 52";
+    "Node: 1062
+Value: 136";
+    "Node: 1063
+Value: 34";
+    "Node: 1064
+Value: 144";
+    "Node: 1065
+Value: 36";
+    "Node: 1066
+Value: 888";
+    "Node: 1067
+Value: 50";
+    "Node: 1068
+Value: 25";
+    "Node: 1069
+Value: 140";
+    "Node: 1070
+Value: 35";
+    "Node: 1071
+Value: 152";
+    "Node: 1072
+Value: 38";
+    "Node: 1073
+Value: 2098";
+    "Node: 1074
+Value: 557";
+    "Node: 1075
+Value: 160";
+    "Node: 1076
+Value: 32";
+    "Node: 1077
+Value: 159";
+    "Node: 1078
+Value: 53";
+    "Node: 1079
+Value: 78";
+    "Node: 1080
+Value: 39";
+    "Node: 1081
+Value: 600";
+    "Node: 1082
+Value: 196";
+    "Node: 1083
+Value: 49";
+    "Node: 1084
+Value: 188";
+    "Node: 1085
+Value: 47";
+    "Node: 1086
+Value: 108";
+    "Node: 1087
+Value: 36";
+    "Node: 1088
+Value: 599";
+    "Node: 1089
+Value: 25";
+    "Node: 1090
+Value: 25";
+    "Node: 1091
+Value: 162";
+    "Node: 1092
+Value: 54";
+    "Node: 1093
+Value: 88";
+    "Node: 1094
+Value: 44";
+    "Node: 1095
+Value: 450";
+    "Node: 1096
+Value: 114";
+    "Node: 1097
+Value: 57";
+    "Node: 1098
+Value: 64";
+    "Node: 1099
+Value: 32";
+    "Node: 1100
+Value: 80";
+    "Node: 1101
+Value: 40";
+    "Node: 1102
+Value: 470";
+    "Node: 1103
+Value: 66";
+    "Node: 1104
+Value: 33";
+    "Node: 1105
+Value: 105";
+    "Node: 1106
+Value: 21";
+    "Node: 1107
+Value: 235";
+    "Node: 1108
+Value: 47";
+    "Node: 1109
+Value: 2328";
+    "Node: 1110
+Value: 351";
+    "Node: 1111
+Value: 117";
+    "Node: 1112
+Value: 39";
+    "Node: 1113
+Value: 94";
+    "Node: 1114
+Value: 47";
+    "Node: 1115
+Value: 288";
+    "Node: 1116
+Value: 48";
+    "Node: 1117
+Value: 267";
+    "Node: 1118
+Value: 270";
+    "Node: 1119
+Value: 54";
+    "Node: 1120
+Value: 39";
+    "Node: 1121
+Value: 39";
+    "Node: 1122
+Value: 75";
+    "Node: 1123
+Value: 15";
+    "Node: 1124
+Value: 654";
+    "Node: 1125
+Value: 210";
+    "Node: 1126
+Value: 42";
+    "Node: 1127
+Value: 93";
+    "Node: 1128
+Value: 31";
+    "Node: 1129
+Value: 24";
+    "Node: 1130
+Value: 24";
+    "Node: 1131
+Value: 522";
+    "Node: 1132
+Value: 135";
+    "Node: 1133
+Value: 45";
+    "Node: 1134
+Value: 66";
+    "Node: 1135
+Value: 33";
+    "Node: 1136
+Value: 93";
+    "Node: 1137
+Value: 31";
+    "Node: 1138
+Value: 801";
+    "Node: 1139
+Value: 81";
+    "Node: 1140
+Value: 27";
+    "Node: 1141
+Value: 148";
+    "Node: 1142
+Value: 37";
+    "Node: 1143
+Value: 212";
+    "Node: 1144
+Value: 53";
+    "Node: 1145
+Value: 3253";
+    "Node: 1146
+Value: 1213";
+    "Node: 1147
+Value: 220";
+    "Node: 1148
+Value: 26";
+    "Node: 1149
+Value: 26";
+    "Node: 1150
+Value: 84";
+    "Node: 1151
+Value: 28";
+    "Node: 1152
+Value: 245";
+    "Node: 1153
+Value: 49";
+    "Node: 1154
+Value: 296";
+    "Node: 1155
+Value: 68";
+    "Node: 1156
+Value: 34";
+    "Node: 1157
+Value: 135";
+    "Node: 1158
+Value: 45";
+    "Node: 1159
+Value: 80";
+    "Node: 1160
+Value: 40";
+    "Node: 1161
+Value: 414";
+    "Node: 1162
+Value: 102";
+    "Node: 1163
+Value: 34";
+    "Node: 1164
+Value: 88";
+    "Node: 1165
+Value: 44";
+    "Node: 1166
+Value: 34";
+    "Node: 1167
+Value: 34";
+    "Node: 1168
+Value: 483";
+    "Node: 1169
+Value: 160";
+    "Node: 1170
+Value: 40";
+    "Node: 1171
+Value: 120";
+    "Node: 1172
+Value: 30";
+    "Node: 1173
+Value: 43";
+    "Node: 1174
+Value: 43";
+    "Node: 1175
+Value: 96";
+    "Node: 1176
+Value: 36";
+    "Node: 1177
+Value: 36";
+    "Node: 1178
+Value: 66";
+    "Node: 1179
+Value: 33";
+    "Node: 1180
+Value: 60";
+    "Node: 1181
+Value: 30";
+    "Node: 1182
+Value: 914";
+    "Node: 1183
+Value: 546";
+    "Node: 1184
+Value: 98";
+    "Node: 1185
+Value: 49";
+    "Node: 1186
+Value: 189";
+    "Node: 1187
+Value: 63";
+    "Node: 1188
+Value: 70";
+    "Node: 1189
+Value: 35";
+    "Node: 1190
+Value: 358";
+    "Node: 1191
+Value: 288";
+    "Node: 1192
+Value: 48";
+    "Node: 1193
+Value: 70";
+    "Node: 1194
+Value: 35";
+    "Node: 1195
+Value: 64";
+    "Node: 1196
+Value: 32";
+    "Node: 1197
+Value: 282";
+    "Node: 1198
+Value: 60";
+    "Node: 1199
+Value: 20";
+    "Node: 1200
+Value: 114";
+    "Node: 1201
+Value: 57";
+    "Node: 1202
+Value: 84";
+    "Node: 1203
+Value: 42";
+    "Node: 1204
+Value: 368";
+    "Node: 1205
+Value: 58";
+    "Node: 1206
+Value: 29";
+    "Node: 1207
+Value: 84";
+    "Node: 1208
+Value: 28";
+    "Node: 1209
+Value: 88";
+    "Node: 1210
+Value: 44";
+    "Node: 1211
+Value: 1250";
+    "Node: 1212
+Value: 858";
+    "Node: 1213
+Value: 204";
+    "Node: 1214
+Value: 51";
+    "Node: 1215
+Value: 225";
+    "Node: 1216
+Value: 45";
+    "Node: 1217
+Value: 204";
+    "Node: 1218
+Value: 34";
+    "Node: 1219
+Value: 271";
+    "Node: 1220
+Value: 104";
+    "Node: 1221
+Value: 52";
+    "Node: 1222
+Value: 105";
+    "Node: 1223
+Value: 35";
+    "Node: 1224
+Value: 62";
+    "Node: 1225
+Value: 62";
+    "Node: 1226
+Value: 490";
+    "Node: 1227
+Value: 50";
+    "Node: 1228
+Value: 50";
+    "Node: 1229
+Value: 50";
+    "Node: 1230
+Value: 25";
+    "Node: 1231
+Value: 130";
+    "Node: 1232
+Value: 26";
+    "Node: 1233
+Value: 489";
+    "Node: 1234
+Value: 129";
+    "Node: 1235
+Value: 43";
+    "Node: 1236
+Value: 76";
+    "Node: 1237
+Value: 19";
+    "Node: 1238
+Value: 104";
+    "Node: 1239
+Value: 52";
+    "Node: 1240
+Value: 2010";
+    "Node: 1241
+Value: 643";
+    "Node: 1242
+Value: 138";
+    "Node: 1243
+Value: 46";
+    "Node: 1244
+Value: 175";
+    "Node: 1245
+Value: 35";
+    "Node: 1246
+Value: 192";
+    "Node: 1247
+Value: 48";
+    "Node: 1248
+Value: 159";
+    "Node: 1249
+Value: 75";
+    "Node: 1250
+Value: 25";
+    "Node: 1251
+Value: 84";
+    "Node: 1252
+Value: 28";
+    "Node: 1253
+Value: 84";
+    "Node: 1254
+Value: 42";
+    "Node: 1255
+Value: 311";
+    "Node: 1256
+Value: 84";
+    "Node: 1257
+Value: 42";
+    "Node: 1258
+Value: 33";
+    "Node: 1259
+Value: 33";
+    "Node: 1260
+Value: 110";
+    "Node: 1261
+Value: 55";
+    "Node: 1262
+Value: 908";
+    "Node: 1263
+Value: 168";
+    "Node: 1264
+Value: 56";
+    "Node: 1265
+Value: 62";
+    "Node: 1266
+Value: 31";
+    "Node: 1267
+Value: 255";
+    "Node: 1268
+Value: 51";
+    "Node: 1269
+Value: 564";
+    "Node: 1270
+Value: 102";
+    "Node: 1271
+Value: 34";
+    "Node: 1272
+Value: 138";
+    "Node: 1273
+Value: 46";
+    "Node: 1274
+Value: 162";
+    "Node: 1275
+Value: 27";
+    "Node: 1276
+Value: 1243";
+    "Node: 1277
+Value: 437";
+    "Node: 1278
+Value: 50";
+    "Node: 1279
+Value: 25";
+    "Node: 1280
+Value: 129";
+    "Node: 1281
+Value: 43";
+    "Node: 1282
+Value: 144";
+    "Node: 1283
+Value: 48";
+    "Node: 1284
+Value: 236";
+    "Node: 1285
+Value: 64";
+    "Node: 1286
+Value: 32";
+    "Node: 1287
+Value: 78";
+    "Node: 1288
+Value: 26";
+    "Node: 1289
+Value: 94";
+    "Node: 1290
+Value: 47";
+    "Node: 1291
+Value: 570";
+    "Node: 1292
+Value: 126";
+    "Node: 1293
+Value: 42";
+    "Node: 1294
+Value: 52";
+    "Node: 1295
+Value: 26";
+    "Node: 1296
+Value: 96";
+    "Node: 1297
+Value: 32";
+    "Node: 1298
+Value: 715";
+    "Node: 1299
+Value: 120";
+    "Node: 1300
+Value: 40";
+    "Node: 1301
+Value: 175";
+    "Node: 1302
+Value: 35";
+    "Node: 1303
+Value: 70";
+    "Node: 1304
+Value: 35";
+    "Node: 1305
+Value: 676";
+    "Node: 1306
+Value: 38";
+    "Node: 1307
+Value: 19";
+    "Node: 1308
+Value: 108";
+    "Node: 1309
+Value: 54";
+    "Node: 1310
+Value: 230";
+    "Node: 1311
+Value: 46";
+    "Node: 1312
+Value: 877";
+    "Node: 1313
+Value: 195";
+    "Node: 1314
+Value: 60";
+    "Node: 1315
+Value: 30";
+    "Node: 1316
+Value: 114";
+    "Node: 1317
+Value: 38";
+    "Node: 1318
+Value: 81";
+    "Node: 1319
+Value: 27";
+    "Node: 1320
+Value: 138";
+    "Node: 1321
+Value: 32";
+    "Node: 1322
+Value: 16";
+    "Node: 1323
+Value: 74";
+    "Node: 1324
+Value: 37";
+    "Node: 1325
+Value: 135";
+    "Node: 1326
+Value: 45";
+    "Node: 1327
+Value: 468";
+    "Node: 1328
+Value: 102";
+    "Node: 1329
+Value: 34";
+    "Node: 1330
+Value: 88";
+    "Node: 1331
+Value: 44";
+    "Node: 1332
+Value: 138";
+    "Node: 1333
+Value: 46";
+    "Node: 1334
+Value: 214";
+    "Node: 1335
+Value: 105";
+    "Node: 1336
+Value: 35";
+    "Node: 1337
+Value: 34";
+    "Node: 1338
+Value: 34";
+    "Node: 1339
+Value: 112";
+    "Node: 1340
+Value: 56";
+    "Node: 1341
+Value: 148";
+    "Node: 1342
+Value: 82";
+    "Node: 1343
+Value: 41";
+    "Node: 1344
+Value: 66";
+    "Node: 1345
+Value: 33";
+    "Node: 1346
+Value: 66";
+    "Node: 1347
+Value: 33";
+    "Node: 1348
+Value: 917";
+    "Node: 1349
+Value: 168";
+    "Node: 1350
+Value: 168";
+    "Node: 1351
+Value: 56";
+    "Node: 1352
+Value: 28";
+    "Node: 1353
+Value: 28";
+    "Node: 1354
+Value: 112";
+    "Node: 1355
+Value: 56";
+    "Node: 1356
+Value: 749";
+    "Node: 1357
+Value: 246";
+    "Node: 1358
+Value: 41";
+    "Node: 1359
+Value: 117";
+    "Node: 1360
+Value: 39";
+    "Node: 1361
+Value: 140";
+    "Node: 1362
+Value: 35";
+    "Node: 1363
+Value: 365";
+    "Node: 1364
+Value: 230";
+    "Node: 1365
+Value: 46";
+    "Node: 1366
+Value: 93";
+    "Node: 1367
+Value: 31";
+    "Node: 1368
+Value: 135";
+    "Node: 1369
+Value: 45";
+    "Node: 1370
+Value: 62";
+    "Node: 1371
+Value: 70";
+    "Node: 1372
+Value: 35";
+    "Node: 1373
+Value: 160";
+    "Node: 1374
+Value: 32";
+    "Node: 1375
+Value: 62";
+    "Node: 1376
+Value: 31";
+    "Node: 1377
+Value: 384";
+    "Node: 1378
+Value: 106";
+    "Node: 1379
+Value: 53";
+    "Node: 1380
+Value: 192";
+    "Node: 1381
+Value: 32";
+    "Node: 1382
+Value: 50";
+    "Node: 1383
+Value: 50";
+    "Node: 1384
+Value: 1515";
+    "Node: 1385
+Value: 1354";
+    "Node: 1386
+Value: 299";
+    "Node: 1387
+Value: 80";
+    "Node: 1388
+Value: 20";
+    "Node: 1389
+Value: 195";
+    "Node: 1390
+Value: 39";
+    "Node: 1391
+Value: 52";
+    "Node: 1392
+Value: 52";
+    "Node: 1393
+Value: 597";
+    "Node: 1394
+Value: 52";
+    "Node: 1395
+Value: 26";
+    "Node: 1396
+Value: 141";
+    "Node: 1397
+Value: 47";
+    "Node: 1398
+Value: 152";
+    "Node: 1399
+Value: 38";
+    "Node: 1400
+Value: 354";
+    "Node: 1401
+Value: 88";
+    "Node: 1402
+Value: 22";
+    "Node: 1403
+Value: 138";
+    "Node: 1404
+Value: 46";
+    "Node: 1405
+Value: 64";
+    "Node: 1406
+Value: 32";
+    "Node: 1407
+Value: 862";
+    "Node: 1408
+Value: 260";
+    "Node: 1409
+Value: 52";
+    "Node: 1410
+Value: 94";
+    "Node: 1411
+Value: 47";
+    "Node: 1412
+Value: 248";
+    "Node: 1413
+Value: 62";
+    "Node: 1414
+Value: 138";
+    "Node: 1415
+Value: 138";
+    "Node: 1416
+Value: 46";
+    "Node: 1417
+Value: 56";
+    "Node: 1418
+Value: 28";
+    "Node: 1419
+Value: 180";
+    "Node: 1420
+Value: 36";
+    "Node: 1421
+Value: 1009";
+    "Node: 1422
+Value: 279";
+    "Node: 1423
+Value: 111";
+    "Node: 1424
+Value: 37";
+    "Node: 1425
+Value: 162";
+    "Node: 1426
+Value: 54";
+    "Node: 1427
+Value: 84";
+    "Node: 1428
+Value: 42";
+    "Node: 1429
+Value: 705";
+    "Node: 1430
+Value: 111";
+    "Node: 1431
+Value: 37";
+    "Node: 1432
+Value: 234";
+    "Node: 1433
+Value: 39";
+    "Node: 1434
+Value: 180";
+    "Node: 1435
+Value: 45";
+    "Node: 1436
+Value: 411";
+    "Node: 1437
+Value: 183";
+    "Node: 1438
+Value: 61";
+    "Node: 1439
+Value: 123";
+    "Node: 1440
+Value: 41";
+    "Node: 1441
+Value: 45";
+    "Node: 1442
+Value: 45";
+    "Node: 1443
+Value: 304";
+    "Node: 1444
+Value: 152";
+    "Node: 1445
+Value: 38";
+    "Node: 1446
+Value: 104";
+    "Node: 1447
+Value: 26";
+    "Node: 1448
+Value: 32";
+    "Node: 1449
+Value: 32";
+    "Node: 1450
+Value: 1284";
+    "Node: 1451
+Value: 716";
+    "Node: 1452
+Value: 236";
+    "Node: 1453
+Value: 59";
+    "Node: 1454
+Value: 144";
+    "Node: 1455
+Value: 48";
+    "Node: 1456
+Value: 50";
+    "Node: 1457
+Value: 50";
+    "Node: 1458
+Value: 256";
+    "Node: 1459
+Value: 58";
+    "Node: 1460
+Value: 29";
+    "Node: 1461
+Value: 96";
+    "Node: 1462
+Value: 32";
+    "Node: 1463
+Value: 102";
+    "Node: 1464
+Value: 34";
+    "Node: 1465
+Value: 212";
+    "Node: 1466
+Value: 96";
+    "Node: 1467
+Value: 32";
+    "Node: 1468
+Value: 170";
+    "Node: 1469
+Value: 34";
+    "Node: 1470
+Value: 42";
+    "Node: 1471
+Value: 21";
+    "Node: 1472
+Value: 304";
+    "Node: 1473
+Value: 32";
+    "Node: 1474
+Value: 32";
+    "Node: 1475
+Value: 105";
+    "Node: 1476
+Value: 35";
+    "Node: 1477
+Value: 62";
+    "Node: 1478
+Value: 31";
+    "Node: 1479
+Value: 326";
+    "Node: 1480
+Value: 82";
+    "Node: 1481
+Value: 41";
+    "Node: 1482
+Value: 94";
+    "Node: 1483
+Value: 47";
+    "Node: 1484
+Value: 150";
+    "Node: 1485
+Value: 30";
+    "Node: 1486
+Value: 1117";
+    "Node: 1487
+Value: 356";
+    "Node: 1488
+Value: 141";
+    "Node: 1489
+Value: 47";
+    "Node: 1490
+Value: 74";
+    "Node: 1491
+Value: 37";
+    "Node: 1492
+Value: 171";
+    "Node: 1493
+Value: 57";
+    "Node: 1494
+Value: 385";
+    "Node: 1495
+Value: 135";
+    "Node: 1496
+Value: 27";
+    "Node: 1497
+Value: 49";
+    "Node: 1498
+Value: 49";
+    "Node: 1499
+Value: 76";
+    "Node: 1500
+Value: 38";
+    "Node: 1501
+Value: 596";
+    "Node: 1502
+Value: 72";
+    "Node: 1503
+Value: 36";
+    "Node: 1504
+Value: 116";
+    "Node: 1505
+Value: 58";
+    "Node: 1506
+Value: 112";
+    "Node: 1507
+Value: 56";
+    "Node: 1508
+Value: 376";
+    "Node: 1509
+Value: 76";
+    "Node: 1510
+Value: 38";
+    "Node: 1511
+Value: 148";
+    "Node: 1512
+Value: 37";
+    "Node: 1513
+Value: 63";
+    "Node: 1514
+Value: 21";
+    "Node: 1515
+Value: 552";
+    "Node: 1516
+Value: 81";
+    "Node: 1517
+Value: 27";
+    "Node: 1518
+Value: 132";
+    "Node: 1519
+Value: 33";
+    "Node: 1520
+Value: 45";
+    "Node: 1521
+Value: 45";
+    "Node: 1522
+Value: 1515";
+    "Node: 1523
+Value: 382";
+    "Node: 1524
+Value: 82";
+    "Node: 1525
+Value: 41";
+    "Node: 1526
+Value: 240";
+    "Node: 1527
+Value: 48";
+    "Node: 1528
+Value: 60";
+    "Node: 1529
+Value: 30";
+    "Node: 1530
+Value: 743";
+    "Node: 1531
+Value: 160";
+    "Node: 1532
+Value: 40";
+    "Node: 1533
+Value: 28";
+    "Node: 1534
+Value: 28";
+    "Node: 1535
+Value: 141";
+    "Node: 1536
+Value: 47";
+    "Node: 1537
+Value: 356";
+    "Node: 1538
+Value: 82";
+    "Node: 1539
+Value: 41";
+    "Node: 1540
+Value: 96";
+    "Node: 1541
+Value: 48";
+    "Node: 1542
+Value: 162";
+    "Node: 1543
+Value: 54";
+    "Node: 1544
+Value: 528";
+    "Node: 1545
+Value: 88";
+    "Node: 1546
+Value: 44";
+    "Node: 1547
+Value: 123";
+    "Node: 1548
+Value: 41";
+    "Node: 1549
+Value: 36";
+    "Node: 1550
+Value: 36";
+    "Node: 1551
+Value: 416";
+    "Node: 1552
+Value: 116";
+    "Node: 1553
+Value: 29";
+    "Node: 1554
+Value: 44";
+    "Node: 1555
+Value: 22";
+    "Node: 1556
+Value: 92";
+    "Node: 1557
+Value: 23";
+    "Node: 1558
+Value: 2465";
+    "Node: 1559
+Value: 766";
+    "Node: 1560
+Value: 135";
+    "Node: 1561
+Value: 45";
+    "Node: 1562
+Value: 27";
+    "Node: 1563
+Value: 27";
+    "Node: 1564
+Value: 275";
+    "Node: 1565
+Value: 55";
+    "Node: 1566
+Value: 933";
+    "Node: 1567
+Value: 41";
+    "Node: 1568
+Value: 41";
+    "Node: 1569
+Value: 76";
+    "Node: 1570
+Value: 38";
+    "Node: 1571
+Value: 270";
+    "Node: 1572
+Value: 45";
+    "Node: 1573
+Value: 132";
+    "Node: 1574
+Value: 192";
+    "Node: 1575
+Value: 48";
+    "Node: 1576
+Value: 164";
+    "Node: 1577
+Value: 41";
+    "Node: 1578
+Value: 132";
+    "Node: 1579
+Value: 44";
+    "Node: 1580
+Value: 162";
+    "Node: 1581
+Value: 60";
+    "Node: 1582
+Value: 20";
+    "Node: 1583
+Value: 153";
+    "Node: 1584
+Value: 51";
+    "Node: 1585
+Value: 102";
+    "Node: 1586
+Value: 34";
+    "Node: 1587
+Value: 3279";
+    "Node: 1588
+Value: 1439";
+    "Node: 1589
+Value: 341";
+    "Node: 1590
+Value: 50";
+    "Node: 1591
+Value: 25";
+    "Node: 1592
+Value: 225";
+    "Node: 1593
+Value: 45";
+    "Node: 1594
+Value: 66";
+    "Node: 1595
+Value: 33";
+    "Node: 1596
+Value: 334";
+    "Node: 1597
+Value: 86";
+    "Node: 1598
+Value: 43";
+    "Node: 1599
+Value: 156";
+    "Node: 1600
+Value: 52";
+    "Node: 1601
+Value: 124";
+    "Node: 1602
+Value: 31";
+    "Node: 1603
+Value: 198";
+    "Node: 1604
+Value: 20";
+    "Node: 1605
+Value: 20";
+    "Node: 1606
+Value: 60";
+    "Node: 1607
+Value: 30";
+    "Node: 1608
+Value: 69";
+    "Node: 1609
+Value: 23";
+    "Node: 1610
+Value: 232";
+    "Node: 1611
+Value: 171";
+    "Node: 1612
+Value: 57";
+    "Node: 1613
+Value: 172";
+    "Node: 1614
+Value: 43";
+    "Node: 1615
+Value: 60";
+    "Node: 1616
+Value: 30";
+    "Node: 1617
+Value: 980";
+    "Node: 1618
+Value: 486";
+    "Node: 1619
+Value: 126";
+    "Node: 1620
+Value: 42";
+    "Node: 1621
+Value: 108";
+    "Node: 1622
+Value: 36";
+    "Node: 1623
+Value: 210";
+    "Node: 1624
+Value: 42";
+    "Node: 1625
+Value: 390";
+    "Node: 1626
+Value: 78";
+    "Node: 1627
+Value: 26";
+    "Node: 1628
+Value: 78";
+    "Node: 1629
+Value: 26";
+    "Node: 1630
+Value: 40";
+    "Node: 1631
+Value: 20";
+    "Node: 1632
+Value: 753";
+    "Node: 1633
+Value: 189";
+    "Node: 1634
+Value: 63";
+    "Node: 1635
+Value: 92";
+    "Node: 1636
+Value: 46";
+    "Node: 1637
+Value: 188";
+    "Node: 1638
+Value: 47";
+    "Node: 1639
+Value: 104";
+    "Node: 1640
+Value: 70";
+    "Node: 1641
+Value: 35";
+    "Node: 1642
+Value: 62";
+    "Node: 1643
+Value: 31";
+    "Node: 1644
+Value: 34";
+    "Node: 1645
+Value: 34";
+    "Node: 1646
+Value: 537";
+    "Node: 1647
+Value: 72";
+    "Node: 1648
+Value: 36";
+    "Node: 1649
+Value: 130";
+    "Node: 1650
+Value: 26";
+    "Node: 1651
+Value: 205";
+    "Node: 1652
+Value: 41";
+    "Node: 1653
+Value: 373";
+    "Node: 1654
+Value: 373";
+    "Node: 1655
+Value: 175";
+    "Node: 1656
+Value: 35";
+    "Node: 1657
+Value: 99";
+    "Node: 1658
+Value: 33";
+    "Node: 1659
+Value: 34";
+    "Node: 1660
+Value: 34";
+    "Node: 1661
+Value: 342";
+    "Node: 1662
+Value: 27";
+    "Node: 1663
+Value: 27";
+    "Node: 1664
+Value: 108";
+    "Node: 1665
+Value: 36";
+    "Node: 1666
+Value: 78";
+    "Node: 1667
+Value: 39";
+    "Node: 1668
+Value: 534";
+    "Node: 1669
+Value: 102";
+    "Node: 1670
+Value: 51";
+    "Node: 1671
+Value: 144";
+    "Node: 1672
+Value: 48";
+    "Node: 1673
+Value: 88";
+    "Node: 1674
+Value: 44";
+    "Node: 1675
+Value: 276";
+    "Node: 1676
+Value: 69";
+    "Node: 1677
+Value: 23";
+    "Node: 1678
+Value: 124";
+    "Node: 1679
+Value: 31";
+    "Node: 1680
+Value: 102";
+    "Node: 1681
+Value: 51";
+    "Node: 1682
+Value: 551";
+    "Node: 1683
+Value: 34";
+    "Node: 1684
+Value: 34";
+    "Node: 1685
+Value: 192";
+    "Node: 1686
+Value: 48";
+    "Node: 1687
+Value: 99";
+    "Node: 1688
+Value: 33";
+    "Node: 1689
+Value: 280";
+    "Node: 1690
+Value: 387";
+    "Node: 1691
+Value: 132";
+    "Node: 1692
+Value: 44";
+    "Node: 1693
+Value: 70";
+    "Node: 1694
+Value: 35";
+    "Node: 1695
+Value: 123";
+    "Node: 1696
+Value: 41";
+    "Node: 1697
+Value: 516";
+    "Node: 1698
+Value: 210";
+    "Node: 1699
+Value: 35";
+    "Node: 1700
+Value: 138";
+    "Node: 1701
+Value: 46";
+    "Node: 1702
+Value: 153";
+    "Node: 1703
+Value: 51";
+    "Node: 1704
+Value: 234";
+    "Node: 1705
+Value: 37";
+    "Node: 1706
+Value: 37";
+    "Node: 1707
+Value: 52";
+    "Node: 1708
+Value: 26";
+    "Node: 1709
+Value: 80";
+    "Node: 1710
+Value: 20";
+    "Node: 1711
+Value: 424";
+    "Node: 1712
+Value: 30";
+    "Node: 1713
+Value: 30";
+    "Node: 1714
+Value: 212";
+    "Node: 1715
+Value: 53";
+    "Node: 1716
+Value: 104";
+    "Node: 1717
+Value: 26";
+    "Node: 1718
+Value: 140";
+    "Node: 1719
+Value: 88";
+    "Node: 1720
+Value: 44";
+    "Node: 1721
+Value: 70";
+    "Node: 1722
+Value: 35";
+    "Node: 1723
+Value: 56";
+    "Node: 1724
+Value: 56";
+    "Node: 1725
+Value: 1038";
+    "Node: 1726
+Value: 210";
+    "Node: 1727
+Value: 74";
+    "Node: 1728
+Value: 37";
+    "Node: 1729
+Value: 62";
+    "Node: 1730
+Value: 31";
+    "Node: 1731
+Value: 74";
+    "Node: 1732
+Value: 37";
+    "Node: 1733
+Value: 1001";
+    "Node: 1734
+Value: 111";
+    "Node: 1735
+Value: 37";
+    "Node: 1736
+Value: 29";
+    "Node: 1737
+Value: 29";
+    "Node: 1738
+Value: 250";
+    "Node: 1739
+Value: 50";
+    "Node: 1740
+Value: 1275";
+    "Node: 1741
+Value: 120";
+    "Node: 1742
+Value: 40";
+    "Node: 1743
+Value: 54";
+    "Node: 1744
+Value: 27";
+    "Node: 1745
+Value: 385";
+    "Node: 1746
+Value: 55";
+    "Node: 1747
+Value: 546";
+    "Node: 1748
+Value: 141";
+    "Node: 1749
+Value: 47";
+    "Node: 1750
+Value: 186";
+    "Node: 1751
+Value: 62";
+    "Node: 1752
+Value: 41";
+    "Node: 1753
+Value: 41";
+    "Node: 1754
+Value: 246";
+    "Node: 1755
+Value: 102";
+    "Node: 1756
+Value: 51";
+    "Node: 1757
+Value: 144";
+    "Node: 1758
+Value: 48";
+    "Node: 1759
+Value: 45";
+    "Node: 1760
+Value: 45";
+    "Node: 1761
+Value: 1424";
+    "Node: 1762
+Value: 376";
+    "Node: 1763
+Value: 132";
+    "Node: 1764
+Value: 44";
+    "Node: 1765
+Value: 122";
+    "Node: 1766
+Value: 61";
+    "Node: 1767
+Value: 112";
+    "Node: 1768
+Value: 28";
+    "Node: 1769
+Value: 183";
+    "Node: 1770
+Value: 35";
+    "Node: 1771
+Value: 35";
+    "Node: 1772
+Value: 165";
+    "Node: 1773
+Value: 55";
+    "Node: 1774
+Value: 148";
+    "Node: 1775
+Value: 37";
+    "Node: 1776
+Value: 831";
+    "Node: 1777
+Value: 224";
+    "Node: 1778
+Value: 56";
+    "Node: 1779
+Value: 135";
+    "Node: 1780
+Value: 45";
+    "Node: 1781
+Value: 248";
+    "Node: 1782
+Value: 62";
+    "Node: 1783
+Value: 524";
+    "Node: 1784
+Value: 208";
+    "Node: 1785
+Value: 52";
+    "Node: 1786
+Value: 82";
+    "Node: 1787
+Value: 41";
+    "Node: 1788
+Value: 76";
+    "Node: 1789
+Value: 38";
+    "Node: 1790
+Value: 441";
+    "Node: 1791
+Value: 132";
+    "Node: 1792
+Value: 44";
+    "Node: 1793
+Value: 156";
+    "Node: 1794
+Value: 39";
+    "Node: 1795
+Value: 147";
+    "Node: 1796
+Value: 49";
+    "Node: 1797
+Value: 2241";
+    "Node: 1798
+Value: 698";
+    "Node: 1799
+Value: 90";
+    "Node: 1800
+Value: 30";
+    "Node: 1801
+Value: 196";
+    "Node: 1802
+Value: 49";
+    "Node: 1803
+Value: 102";
+    "Node: 1804
+Value: 34";
+    "Node: 1805
+Value: 577";
+    "Node: 1806
+Value: 117";
+    "Node: 1807
+Value: 39";
+    "Node: 1808
+Value: 148";
+    "Node: 1809
+Value: 37";
+    "Node: 1810
+Value: 82";
+    "Node: 1811
+Value: 41";
+    "Node: 1812
+Value: 708";
+    "Node: 1813
+Value: 69";
+    "Node: 1814
+Value: 23";
+    "Node: 1815
+Value: 190";
+    "Node: 1816
+Value: 38";
+    "Node: 1817
+Value: 132";
+    "Node: 1818
+Value: 44";
+    "Node: 1819
+Value: 478";
+    "Node: 1820
+Value: 195";
+    "Node: 1821
+Value: 39";
+    "Node: 1822
+Value: 44";
+    "Node: 1823
+Value: 22";
+    "Node: 1824
+Value: 84";
+    "Node: 1825
+Value: 28";
+    "Node: 1826
+Value: 254";
+    "Node: 1827
+Value: 60";
+    "Node: 1828
+Value: 60";
+    "Node: 1829
+Value: 50";
+    "Node: 1830
+Value: 25";
+    "Node: 1831
+Value: 102";
+    "Node: 1832
+Value: 34";
+    "Node: 0
+Value: 21502" -> "Node: 1
+Value: 2410";
+    "Node: 0
+Value: 21502" -> "Node: 233
+Value: 2649";
+    "Node: 0
+Value: 21502" -> "Node: 443
+Value: 1767";
+    "Node: 0
+Value: 21502" -> "Node: 689
+Value: 1239";
+    "Node: 0
+Value: 21502" -> "Node: 892
+Value: 2328";
+    "Node: 0
+Value: 21502" -> "Node: 1145
+Value: 3253";
+    "Node: 0
+Value: 21502" -> "Node: 1384
+Value: 1515";
+    "Node: 0
+Value: 21502" -> "Node: 1587
+Value: 3279";
+    "Node: 1
+Value: 2410" -> "Node: 2
+Value: 2197";
+    "Node: 1
+Value: 2410" -> "Node: 31
+Value: 1305";
+    "Node: 1
+Value: 2410" -> "Node: 67
+Value: 1196";
+    "Node: 1
+Value: 2410" -> "Node: 96
+Value: 912";
+    "Node: 1
+Value: 2410" -> "Node: 132
+Value: 1205";
+    "Node: 1
+Value: 2410" -> "Node: 168
+Value: 1196";
+    "Node: 1
+Value: 2410" -> "Node: 204
+Value: 1179";
+    "Node: 2
+Value: 2197" -> "Node: 3
+Value: 387";
+    "Node: 2
+Value: 2197" -> "Node: 10
+Value: 438";
+    "Node: 2
+Value: 2197" -> "Node: 17
+Value: 552";
+    "Node: 2
+Value: 2197" -> "Node: 24
+Value: 985";
+    "Node: 3
+Value: 387" -> "Node: 4
+Value: 84";
+    "Node: 3
+Value: 387" -> "Node: 6
+Value: 96";
+    "Node: 3
+Value: 387" -> "Node: 8
+Value: 27";
+    "Node: 4
+Value: 84" -> "Node: 5
+Value: 28";
+    "Node: 6
+Value: 96" -> "Node: 7
+Value: 48";
+    "Node: 8
+Value: 27" -> "Node: 9
+Value: 27";
+    "Node: 10
+Value: 438" -> "Node: 11
+Value: 141";
+    "Node: 10
+Value: 438" -> "Node: 13
+Value: 141";
+    "Node: 10
+Value: 438" -> "Node: 15
+Value: 99";
+    "Node: 11
+Value: 141" -> "Node: 12
+Value: 47";
+    "Node: 13
+Value: 141" -> "Node: 14
+Value: 47";
+    "Node: 15
+Value: 99" -> "Node: 16
+Value: 33";
+    "Node: 17
+Value: 552" -> "Node: 18
+Value: 76";
+    "Node: 17
+Value: 552" -> "Node: 20
+Value: 93";
+    "Node: 17
+Value: 552" -> "Node: 22
+Value: 184";
+    "Node: 18
+Value: 76" -> "Node: 19
+Value: 38";
+    "Node: 20
+Value: 93" -> "Node: 21
+Value: 31";
+    "Node: 22
+Value: 184" -> "Node: 23
+Value: 46";
+    "Node: 24
+Value: 985" -> "Node: 25
+Value: 136";
+    "Node: 24
+Value: 985" -> "Node: 27
+Value: 180";
+    "Node: 24
+Value: 985" -> "Node: 29
+Value: 129";
+    "Node: 25
+Value: 136" -> "Node: 26
+Value: 34";
+    "Node: 27
+Value: 180" -> "Node: 28
+Value: 36";
+    "Node: 29
+Value: 129" -> "Node: 30
+Value: 43";
+    "Node: 31
+Value: 1305" -> "Node: 32
+Value: 210";
+    "Node: 31
+Value: 1305" -> "Node: 39
+Value: 183";
+    "Node: 31
+Value: 1305" -> "Node: 46
+Value: 378";
+    "Node: 31
+Value: 1305" -> "Node: 53
+Value: 315";
+    "Node: 31
+Value: 1305" -> "Node: 60
+Value: 516";
+    "Node: 32
+Value: 210" -> "Node: 33
+Value: 105";
+    "Node: 32
+Value: 210" -> "Node: 35
+Value: 58";
+    "Node: 32
+Value: 210" -> "Node: 37
+Value: 122";
+    "Node: 33
+Value: 105" -> "Node: 34
+Value: 35";
+    "Node: 35
+Value: 58" -> "Node: 36
+Value: 29";
+    "Node: 37
+Value: 122" -> "Node: 38
+Value: 61";
+    "Node: 39
+Value: 183" -> "Node: 40
+Value: 100";
+    "Node: 39
+Value: 183" -> "Node: 42
+Value: 78";
+    "Node: 39
+Value: 183" -> "Node: 44
+Value: 105";
+    "Node: 40
+Value: 100" -> "Node: 41
+Value: 50";
+    "Node: 42
+Value: 78" -> "Node: 43
+Value: 39";
+    "Node: 44
+Value: 105" -> "Node: 45
+Value: 35";
+    "Node: 46
+Value: 378" -> "Node: 47
+Value: 96";
+    "Node: 46
+Value: 378" -> "Node: 49
+Value: 90";
+    "Node: 46
+Value: 378" -> "Node: 51
+Value: 168";
+    "Node: 47
+Value: 96" -> "Node: 48
+Value: 48";
+    "Node: 49
+Value: 90" -> "Node: 50
+Value: 30";
+    "Node: 51
+Value: 168" -> "Node: 52
+Value: 42";
+    "Node: 53
+Value: 315" -> "Node: 54
+Value: 123";
+    "Node: 53
+Value: 315" -> "Node: 56
+Value: 69";
+    "Node: 53
+Value: 315" -> "Node: 58
+Value: 141";
+    "Node: 54
+Value: 123" -> "Node: 55
+Value: 41";
+    "Node: 56
+Value: 69" -> "Node: 57
+Value: 23";
+    "Node: 58
+Value: 141" -> "Node: 59
+Value: 47";
+    "Node: 60
+Value: 516" -> "Node: 61
+Value: 120";
+    "Node: 60
+Value: 516" -> "Node: 63
+Value: 156";
+    "Node: 60
+Value: 516" -> "Node: 65
+Value: 93";
+    "Node: 61
+Value: 120" -> "Node: 62
+Value: 40";
+    "Node: 63
+Value: 156" -> "Node: 64
+Value: 39";
+    "Node: 65
+Value: 93" -> "Node: 66
+Value: 31";
+    "Node: 67
+Value: 1196" -> "Node: 68
+Value: 312";
+    "Node: 67
+Value: 1196" -> "Node: 75
+Value: 245";
+    "Node: 67
+Value: 1196" -> "Node: 82
+Value: 362";
+    "Node: 67
+Value: 1196" -> "Node: 89
+Value: 299";
+    "Node: 68
+Value: 312" -> "Node: 69
+Value: 104";
+    "Node: 68
+Value: 312" -> "Node: 71
+Value: 240";
+    "Node: 68
+Value: 312" -> "Node: 73
+Value: 170";
+    "Node: 69
+Value: 104" -> "Node: 70
+Value: 26";
+    "Node: 71
+Value: 240" -> "Node: 72
+Value: 48";
+    "Node: 73
+Value: 170" -> "Node: 74
+Value: 34";
+    "Node: 75
+Value: 245" -> "Node: 76
+Value: 129";
+    "Node: 75
+Value: 245" -> "Node: 78
+Value: 165";
+    "Node: 75
+Value: 245" -> "Node: 80
+Value: 80";
+    "Node: 76
+Value: 129" -> "Node: 77
+Value: 43";
+    "Node: 78
+Value: 165" -> "Node: 79
+Value: 33";
+    "Node: 80
+Value: 80" -> "Node: 81
+Value: 20";
+    "Node: 82
+Value: 362" -> "Node: 83
+Value: 81";
+    "Node: 82
+Value: 362" -> "Node: 85
+Value: 200";
+    "Node: 82
+Value: 362" -> "Node: 87
+Value: 36";
+    "Node: 83
+Value: 81" -> "Node: 84
+Value: 27";
+    "Node: 85
+Value: 200" -> "Node: 86
+Value: 50";
+    "Node: 87
+Value: 36" -> "Node: 88
+Value: 36";
+    "Node: 89
+Value: 299" -> "Node: 90
+Value: 159";
+    "Node: 89
+Value: 299" -> "Node: 92
+Value: 54";
+    "Node: 89
+Value: 299" -> "Node: 94
+Value: 86";
+    "Node: 90
+Value: 159" -> "Node: 91
+Value: 53";
+    "Node: 92
+Value: 54" -> "Node: 93
+Value: 27";
+    "Node: 94
+Value: 86" -> "Node: 95
+Value: 43";
+    "Node: 96
+Value: 912" -> "Node: 97
+Value: 618";
+    "Node: 96
+Value: 912" -> "Node: 104
+Value: 346";
+    "Node: 96
+Value: 912" -> "Node: 111
+Value: 382";
+    "Node: 96
+Value: 912" -> "Node: 118
+Value: 414";
+    "Node: 96
+Value: 912" -> "Node: 125
+Value: 152";
+    "Node: 97
+Value: 618" -> "Node: 98
+Value: 168";
+    "Node: 97
+Value: 618" -> "Node: 100
+Value: 150";
+    "Node: 97
+Value: 618" -> "Node: 102
+Value: 96";
+    "Node: 98
+Value: 168" -> "Node: 99
+Value: 42";
+    "Node: 100
+Value: 150" -> "Node: 101
+Value: 50";
+    "Node: 102
+Value: 96" -> "Node: 103
+Value: 48";
+    "Node: 104
+Value: 346" -> "Node: 105
+Value: 94";
+    "Node: 104
+Value: 346" -> "Node: 107
+Value: 60";
+    "Node: 104
+Value: 346" -> "Node: 109
+Value: 192";
+    "Node: 105
+Value: 94" -> "Node: 106
+Value: 47";
+    "Node: 107
+Value: 60" -> "Node: 108
+Value: 20";
+    "Node: 109
+Value: 192" -> "Node: 110
+Value: 48";
+    "Node: 111
+Value: 382" -> "Node: 112
+Value: 252";
+    "Node: 111
+Value: 382" -> "Node: 114
+Value: 140";
+    "Node: 111
+Value: 382" -> "Node: 116
+Value: 51";
+    "Node: 112
+Value: 252" -> "Node: 113
+Value: 42";
+    "Node: 114
+Value: 140" -> "Node: 115
+Value: 35";
+    "Node: 116
+Value: 51" -> "Node: 117
+Value: 17";
+    "Node: 118
+Value: 414" -> "Node: 119
+Value: 132";
+    "Node: 118
+Value: 414" -> "Node: 121
+Value: 180";
+    "Node: 118
+Value: 414" -> "Node: 123
+Value: 102";
+    "Node: 119
+Value: 132" -> "Node: 120
+Value: 44";
+    "Node: 121
+Value: 180" -> "Node: 122
+Value: 45";
+    "Node: 123
+Value: 102" -> "Node: 124
+Value: 51";
+    "Node: 125
+Value: 152" -> "Node: 126
+Value: 195";
+    "Node: 125
+Value: 152" -> "Node: 128
+Value: 92";
+    "Node: 125
+Value: 152" -> "Node: 130
+Value: 60";
+    "Node: 126
+Value: 195" -> "Node: 127
+Value: 39";
+    "Node: 128
+Value: 92" -> "Node: 129
+Value: 23";
+    "Node: 130
+Value: 60" -> "Node: 131
+Value: 30";
+    "Node: 132
+Value: 1205" -> "Node: 133
+Value: 65";
+    "Node: 132
+Value: 1205" -> "Node: 140
+Value: 228";
+    "Node: 132
+Value: 1205" -> "Node: 147
+Value: 620";
+    "Node: 132
+Value: 1205" -> "Node: 154
+Value: 468";
+    "Node: 132
+Value: 1205" -> "Node: 161
+Value: 357";
+    "Node: 133
+Value: 65" -> "Node: 134
+Value: 88";
+    "Node: 133
+Value: 65" -> "Node: 136
+Value: 30";
+    "Node: 133
+Value: 65" -> "Node: 138
+Value: 35";
+    "Node: 134
+Value: 88" -> "Node: 135
+Value: 22";
+    "Node: 136
+Value: 30" -> "Node: 137
+Value: 30";
+    "Node: 138
+Value: 35" -> "Node: 139
+Value: 35";
+    "Node: 140
+Value: 228" -> "Node: 141
+Value: 49";
+    "Node: 140
+Value: 228" -> "Node: 143
+Value: 70";
+    "Node: 140
+Value: 228" -> "Node: 145
+Value: 60";
+    "Node: 141
+Value: 49" -> "Node: 142
+Value: 49";
+    "Node: 143
+Value: 70" -> "Node: 144
+Value: 35";
+    "Node: 145
+Value: 60" -> "Node: 146
+Value: 30";
+    "Node: 147
+Value: 620" -> "Node: 148
+Value: 92";
+    "Node: 147
+Value: 620" -> "Node: 150
+Value: 132";
+    "Node: 147
+Value: 620" -> "Node: 152
+Value: 132";
+    "Node: 148
+Value: 92" -> "Node: 149
+Value: 23";
+    "Node: 150
+Value: 132" -> "Node: 151
+Value: 44";
+    "Node: 152
+Value: 132" -> "Node: 153
+Value: 33";
+    "Node: 154
+Value: 468" -> "Node: 155
+Value: 86";
+    "Node: 154
+Value: 468" -> "Node: 157
+Value: 150";
+    "Node: 154
+Value: 468" -> "Node: 159
+Value: 82";
+    "Node: 155
+Value: 86" -> "Node: 156
+Value: 43";
+    "Node: 157
+Value: 150" -> "Node: 158
+Value: 30";
+    "Node: 159
+Value: 82" -> "Node: 160
+Value: 41";
+    "Node: 161
+Value: 357" -> "Node: 162
+Value: 45";
+    "Node: 161
+Value: 357" -> "Node: 164
+Value: 50";
+    "Node: 161
+Value: 357" -> "Node: 166
+Value: 212";
+    "Node: 162
+Value: 45" -> "Node: 163
+Value: 45";
+    "Node: 164
+Value: 50" -> "Node: 165
+Value: 25";
+    "Node: 166
+Value: 212" -> "Node: 167
+Value: 53";
+    "Node: 168
+Value: 1196" -> "Node: 169
+Value: 306";
+    "Node: 168
+Value: 1196" -> "Node: 176
+Value: 291";
+    "Node: 168
+Value: 1196" -> "Node: 183
+Value: 348";
+    "Node: 168
+Value: 1196" -> "Node: 190
+Value: 852";
+    "Node: 168
+Value: 1196" -> "Node: 197
+Value: 848";
+    "Node: 169
+Value: 306" -> "Node: 170
+Value: 216";
+    "Node: 169
+Value: 306" -> "Node: 172
+Value: 84";
+    "Node: 169
+Value: 306" -> "Node: 174
+Value: 30";
+    "Node: 170
+Value: 216" -> "Node: 171
+Value: 54";
+    "Node: 172
+Value: 84" -> "Node: 173
+Value: 42";
+    "Node: 174
+Value: 30" -> "Node: 175
+Value: 15";
+    "Node: 176
+Value: 291" -> "Node: 177
+Value: 117";
+    "Node: 176
+Value: 291" -> "Node: 179
+Value: 108";
+    "Node: 176
+Value: 291" -> "Node: 181
+Value: 66";
+    "Node: 177
+Value: 117" -> "Node: 178
+Value: 39";
+    "Node: 179
+Value: 108" -> "Node: 180
+Value: 27";
+    "Node: 181
+Value: 66" -> "Node: 182
+Value: 33";
+    "Node: 183
+Value: 348" -> "Node: 184
+Value: 42";
+    "Node: 183
+Value: 348" -> "Node: 186
+Value: 144";
+    "Node: 183
+Value: 348" -> "Node: 188
+Value: 68";
+    "Node: 184
+Value: 42" -> "Node: 185
+Value: 21";
+    "Node: 186
+Value: 144" -> "Node: 187
+Value: 48";
+    "Node: 188
+Value: 68" -> "Node: 189
+Value: 34";
+    "Node: 190
+Value: 852" -> "Node: 191
+Value: 18";
+    "Node: 190
+Value: 852" -> "Node: 193
+Value: 300";
+    "Node: 190
+Value: 852" -> "Node: 195
+Value: 84";
+    "Node: 191
+Value: 18" -> "Node: 192
+Value: 18";
+    "Node: 193
+Value: 300" -> "Node: 194
+Value: 60";
+    "Node: 195
+Value: 84" -> "Node: 196
+Value: 42";
+    "Node: 197
+Value: 848" -> "Node: 198
+Value: 132";
+    "Node: 197
+Value: 848" -> "Node: 200
+Value: 165";
+    "Node: 197
+Value: 848" -> "Node: 202
+Value: 259";
+    "Node: 198
+Value: 132" -> "Node: 199
+Value: 33";
+    "Node: 200
+Value: 165" -> "Node: 201
+Value: 55";
+    "Node: 202
+Value: 259" -> "Node: 203
+Value: 37";
+    "Node: 204
+Value: 1179" -> "Node: 205
+Value: 170";
+    "Node: 204
+Value: 1179" -> "Node: 212
+Value: 648";
+    "Node: 204
+Value: 1179" -> "Node: 219
+Value: 335";
+    "Node: 204
+Value: 1179" -> "Node: 226
+Value: 422";
+    "Node: 205
+Value: 170" -> "Node: 206
+Value: 96";
+    "Node: 205
+Value: 170" -> "Node: 208
+Value: 60";
+    "Node: 205
+Value: 170" -> "Node: 210
+Value: 110";
+    "Node: 206
+Value: 96" -> "Node: 207
+Value: 32";
+    "Node: 208
+Value: 60" -> "Node: 209
+Value: 30";
+    "Node: 210
+Value: 110" -> "Node: 211
+Value: 22";
+    "Node: 212
+Value: 648" -> "Node: 213
+Value: 96";
+    "Node: 212
+Value: 648" -> "Node: 215
+Value: 104";
+    "Node: 212
+Value: 648" -> "Node: 217
+Value: 120";
+    "Node: 213
+Value: 96" -> "Node: 214
+Value: 48";
+    "Node: 215
+Value: 104" -> "Node: 216
+Value: 26";
+    "Node: 217
+Value: 120" -> "Node: 218
+Value: 40";
+    "Node: 219
+Value: 335" -> "Node: 220
+Value: 144";
+    "Node: 219
+Value: 335" -> "Node: 222
+Value: 153";
+    "Node: 219
+Value: 335" -> "Node: 224
+Value: 38";
+    "Node: 220
+Value: 144" -> "Node: 221
+Value: 48";
+    "Node: 222
+Value: 153" -> "Node: 223
+Value: 51";
+    "Node: 224
+Value: 38" -> "Node: 225
+Value: 19";
+    "Node: 226
+Value: 422" -> "Node: 227
+Value: 192";
+    "Node: 226
+Value: 422" -> "Node: 229
+Value: 58";
+    "Node: 226
+Value: 422" -> "Node: 231
+Value: 230";
+    "Node: 227
+Value: 192" -> "Node: 228
+Value: 48";
+    "Node: 229
+Value: 58" -> "Node: 230
+Value: 29";
+    "Node: 231
+Value: 230" -> "Node: 232
+Value: 46";
+    "Node: 233
+Value: 2649" -> "Node: 234
+Value: 1032";
+    "Node: 233
+Value: 2649" -> "Node: 270
+Value: 789";
+    "Node: 233
+Value: 2649" -> "Node: 306
+Value: 1268";
+    "Node: 233
+Value: 2649" -> "Node: 335
+Value: 953";
+    "Node: 233
+Value: 2649" -> "Node: 371
+Value: 2760";
+    "Node: 233
+Value: 2649" -> "Node: 407
+Value: 907";
+    "Node: 234
+Value: 1032" -> "Node: 235
+Value: 242";
+    "Node: 234
+Value: 1032" -> "Node: 242
+Value: 615";
+    "Node: 234
+Value: 1032" -> "Node: 249
+Value: 318";
+    "Node: 234
+Value: 1032" -> "Node: 256
+Value: 222";
+    "Node: 234
+Value: 1032" -> "Node: 263
+Value: 246";
+    "Node: 235
+Value: 242" -> "Node: 236
+Value: 104";
+    "Node: 235
+Value: 242" -> "Node: 238
+Value: 57";
+    "Node: 235
+Value: 242" -> "Node: 240
+Value: 81";
+    "Node: 236
+Value: 104" -> "Node: 237
+Value: 52";
+    "Node: 238
+Value: 57" -> "Node: 239
+Value: 19";
+    "Node: 240
+Value: 81" -> "Node: 241
+Value: 27";
+    "Node: 242
+Value: 615" -> "Node: 243
+Value: 129";
+    "Node: 242
+Value: 615" -> "Node: 245
+Value: 123";
+    "Node: 242
+Value: 615" -> "Node: 247
+Value: 240";
+    "Node: 243
+Value: 129" -> "Node: 244
+Value: 43";
+    "Node: 245
+Value: 123" -> "Node: 246
+Value: 41";
+    "Node: 247
+Value: 240" -> "Node: 248
+Value: 48";
+    "Node: 249
+Value: 318" -> "Node: 250
+Value: 51";
+    "Node: 249
+Value: 318" -> "Node: 252
+Value: 72";
+    "Node: 249
+Value: 318" -> "Node: 254
+Value: 129";
+    "Node: 250
+Value: 51" -> "Node: 251
+Value: 51";
+    "Node: 252
+Value: 72" -> "Node: 253
+Value: 24";
+    "Node: 254
+Value: 129" -> "Node: 255
+Value: 43";
+    "Node: 256
+Value: 222" -> "Node: 257
+Value: 210";
+    "Node: 256
+Value: 222" -> "Node: 259
+Value: 192";
+    "Node: 256
+Value: 222" -> "Node: 261
+Value: 30";
+    "Node: 257
+Value: 210" -> "Node: 258
+Value: 35";
+    "Node: 259
+Value: 192" -> "Node: 260
+Value: 48";
+    "Node: 261
+Value: 30" -> "Node: 262
+Value: 30";
+    "Node: 263
+Value: 246" -> "Node: 264
+Value: 84";
+    "Node: 263
+Value: 246" -> "Node: 266
+Value: 110";
+    "Node: 263
+Value: 246" -> "Node: 268
+Value: 68";
+    "Node: 264
+Value: 84" -> "Node: 265
+Value: 42";
+    "Node: 266
+Value: 110" -> "Node: 267
+Value: 55";
+    "Node: 268
+Value: 68" -> "Node: 269
+Value: 34";
+    "Node: 270
+Value: 789" -> "Node: 271
+Value: 150";
+    "Node: 270
+Value: 789" -> "Node: 278
+Value: 258";
+    "Node: 270
+Value: 789" -> "Node: 285
+Value: 480";
+    "Node: 270
+Value: 789" -> "Node: 292
+Value: 131";
+    "Node: 270
+Value: 789" -> "Node: 299
+Value: 400";
+    "Node: 271
+Value: 150" -> "Node: 272
+Value: 75";
+    "Node: 271
+Value: 150" -> "Node: 274
+Value: 98";
+    "Node: 271
+Value: 150" -> "Node: 276
+Value: 84";
+    "Node: 272
+Value: 75" -> "Node: 273
+Value: 25";
+    "Node: 274
+Value: 98" -> "Node: 275
+Value: 49";
+    "Node: 276
+Value: 84" -> "Node: 277
+Value: 42";
+    "Node: 278
+Value: 258" -> "Node: 279
+Value: 126";
+    "Node: 278
+Value: 258" -> "Node: 281
+Value: 33";
+    "Node: 278
+Value: 258" -> "Node: 283
+Value: 132";
+    "Node: 279
+Value: 126" -> "Node: 280
+Value: 42";
+    "Node: 281
+Value: 33" -> "Node: 282
+Value: 33";
+    "Node: 283
+Value: 132" -> "Node: 284
+Value: 44";
+    "Node: 285
+Value: 480" -> "Node: 286
+Value: 264";
+    "Node: 285
+Value: 480" -> "Node: 288
+Value: 27";
+    "Node: 285
+Value: 480" -> "Node: 290
+Value: 108";
+    "Node: 286
+Value: 264" -> "Node: 287
+Value: 44";
+    "Node: 288
+Value: 27" -> "Node: 289
+Value: 27";
+    "Node: 290
+Value: 108" -> "Node: 291
+Value: 54";
+    "Node: 292
+Value: 131" -> "Node: 293
+Value: 19";
+    "Node: 292
+Value: 131" -> "Node: 295
+Value: 48";
+    "Node: 292
+Value: 131" -> "Node: 297
+Value: 64";
+    "Node: 293
+Value: 19" -> "Node: 294
+Value: 19";
+    "Node: 295
+Value: 48" -> "Node: 296
+Value: 24";
+    "Node: 297
+Value: 64" -> "Node: 298
+Value: 32";
+    "Node: 299
+Value: 400" -> "Node: 300
+Value: 116";
+    "Node: 299
+Value: 400" -> "Node: 302
+Value: 168";
+    "Node: 299
+Value: 400" -> "Node: 304
+Value: 70";
+    "Node: 300
+Value: 116" -> "Node: 301
+Value: 29";
+    "Node: 302
+Value: 168" -> "Node: 303
+Value: 42";
+    "Node: 304
+Value: 70" -> "Node: 305
+Value: 35";
+    "Node: 306
+Value: 1268" -> "Node: 307
+Value: 620";
+    "Node: 306
+Value: 1268" -> "Node: 314
+Value: 324";
+    "Node: 306
+Value: 1268" -> "Node: 321
+Value: 362";
+    "Node: 306
+Value: 1268" -> "Node: 328
+Value: 792";
+    "Node: 307
+Value: 620" -> "Node: 308
+Value: 100";
+    "Node: 307
+Value: 620" -> "Node: 310
+Value: 195";
+    "Node: 307
+Value: 620" -> "Node: 312
+Value: 230";
+    "Node: 308
+Value: 100" -> "Node: 309
+Value: 25";
+    "Node: 310
+Value: 195" -> "Node: 311
+Value: 39";
+    "Node: 312
+Value: 230" -> "Node: 313
+Value: 46";
+    "Node: 314
+Value: 324" -> "Node: 315
+Value: 105";
+    "Node: 314
+Value: 324" -> "Node: 317
+Value: 42";
+    "Node: 314
+Value: 324" -> "Node: 319
+Value: 72";
+    "Node: 315
+Value: 105" -> "Node: 316
+Value: 35";
+    "Node: 317
+Value: 42" -> "Node: 318
+Value: 21";
+    "Node: 319
+Value: 72" -> "Node: 320
+Value: 36";
+    "Node: 321
+Value: 362" -> "Node: 322
+Value: 140";
+    "Node: 321
+Value: 362" -> "Node: 324
+Value: 108";
+    "Node: 321
+Value: 362" -> "Node: 326
+Value: 82";
+    "Node: 322
+Value: 140" -> "Node: 323
+Value: 28";
+    "Node: 324
+Value: 108" -> "Node: 325
+Value: 36";
+    "Node: 326
+Value: 82" -> "Node: 327
+Value: 41";
+    "Node: 328
+Value: 792" -> "Node: 329
+Value: 141";
+    "Node: 328
+Value: 792" -> "Node: 331
+Value: 84";
+    "Node: 328
+Value: 792" -> "Node: 333
+Value: 144";
+    "Node: 329
+Value: 141" -> "Node: 330
+Value: 47";
+    "Node: 331
+Value: 84" -> "Node: 332
+Value: 28";
+    "Node: 333
+Value: 144" -> "Node: 334
+Value: 24";
+    "Node: 335
+Value: 953" -> "Node: 336
+Value: 537";
+    "Node: 335
+Value: 953" -> "Node: 343
+Value: 503";
+    "Node: 335
+Value: 953" -> "Node: 350
+Value: 794";
+    "Node: 335
+Value: 953" -> "Node: 357
+Value: 288";
+    "Node: 335
+Value: 953" -> "Node: 364
+Value: 416";
+    "Node: 336
+Value: 537" -> "Node: 337
+Value: 102";
+    "Node: 336
+Value: 537" -> "Node: 339
+Value: 111";
+    "Node: 336
+Value: 537" -> "Node: 341
+Value: 72";
+    "Node: 337
+Value: 102" -> "Node: 338
+Value: 34";
+    "Node: 339
+Value: 111" -> "Node: 340
+Value: 37";
+    "Node: 341
+Value: 72" -> "Node: 342
+Value: 18";
+    "Node: 343
+Value: 503" -> "Node: 344
+Value: 111";
+    "Node: 343
+Value: 503" -> "Node: 346
+Value: 196";
+    "Node: 343
+Value: 503" -> "Node: 348
+Value: 165";
+    "Node: 344
+Value: 111" -> "Node: 345
+Value: 37";
+    "Node: 346
+Value: 196" -> "Node: 347
+Value: 49";
+    "Node: 348
+Value: 165" -> "Node: 349
+Value: 55";
+    "Node: 350
+Value: 794" -> "Node: 351
+Value: 220";
+    "Node: 350
+Value: 794" -> "Node: 353
+Value: 57";
+    "Node: 350
+Value: 794" -> "Node: 355
+Value: 120";
+    "Node: 351
+Value: 220" -> "Node: 352
+Value: 44";
+    "Node: 353
+Value: 57" -> "Node: 354
+Value: 57";
+    "Node: 355
+Value: 120" -> "Node: 356
+Value: 40";
+    "Node: 357
+Value: 288" -> "Node: 358
+Value: 162";
+    "Node: 357
+Value: 288" -> "Node: 360
+Value: 63";
+    "Node: 357
+Value: 288" -> "Node: 362
+Value: 140";
+    "Node: 358
+Value: 162" -> "Node: 359
+Value: 54";
+    "Node: 360
+Value: 63" -> "Node: 361
+Value: 21";
+    "Node: 362
+Value: 140" -> "Node: 363
+Value: 35";
+    "Node: 364
+Value: 416" -> "Node: 365
+Value: 50";
+    "Node: 364
+Value: 416" -> "Node: 367
+Value: 40";
+    "Node: 364
+Value: 416" -> "Node: 369
+Value: 138";
+    "Node: 365
+Value: 50" -> "Node: 366
+Value: 25";
+    "Node: 367
+Value: 40" -> "Node: 368
+Value: 20";
+    "Node: 369
+Value: 138" -> "Node: 370
+Value: 46";
+    "Node: 371
+Value: 2760" -> "Node: 372
+Value: 420";
+    "Node: 371
+Value: 2760" -> "Node: 379
+Value: 1380";
+    "Node: 371
+Value: 2760" -> "Node: 386
+Value: 628";
+    "Node: 371
+Value: 2760" -> "Node: 393
+Value: 488";
+    "Node: 371
+Value: 2760" -> "Node: 400
+Value: 752";
+    "Node: 372
+Value: 420" -> "Node: 373
+Value: 155";
+    "Node: 372
+Value: 420" -> "Node: 375
+Value: 210";
+    "Node: 372
+Value: 420" -> "Node: 377
+Value: 54";
+    "Node: 373
+Value: 155" -> "Node: 374
+Value: 31";
+    "Node: 375
+Value: 210" -> "Node: 376
+Value: 42";
+    "Node: 377
+Value: 54" -> "Node: 378
+Value: 54";
+    "Node: 379
+Value: 1380" -> "Node: 380
+Value: 329";
+    "Node: 379
+Value: 1380" -> "Node: 382
+Value: 22";
+    "Node: 379
+Value: 1380" -> "Node: 384
+Value: 42";
+    "Node: 380
+Value: 329" -> "Node: 381
+Value: 47";
+    "Node: 382
+Value: 22" -> "Node: 383
+Value: 22";
+    "Node: 384
+Value: 42" -> "Node: 385
+Value: 21";
+    "Node: 386
+Value: 628" -> "Node: 387
+Value: 98";
+    "Node: 386
+Value: 628" -> "Node: 389
+Value: 120";
+    "Node: 386
+Value: 628" -> "Node: 391
+Value: 265";
+    "Node: 387
+Value: 98" -> "Node: 388
+Value: 49";
+    "Node: 389
+Value: 120" -> "Node: 390
+Value: 30";
+    "Node: 391
+Value: 265" -> "Node: 392
+Value: 53";
+    "Node: 393
+Value: 488" -> "Node: 394
+Value: 312";
+    "Node: 393
+Value: 488" -> "Node: 396
+Value: 128";
+    "Node: 393
+Value: 488" -> "Node: 398
+Value: 180";
+    "Node: 394
+Value: 312" -> "Node: 395
+Value: 52";
+    "Node: 396
+Value: 128" -> "Node: 397
+Value: 32";
+    "Node: 398
+Value: 180" -> "Node: 399
+Value: 45";
+    "Node: 400
+Value: 752" -> "Node: 401
+Value: 310";
+    "Node: 400
+Value: 752" -> "Node: 403
+Value: 29";
+    "Node: 400
+Value: 752" -> "Node: 405
+Value: 66";
+    "Node: 401
+Value: 310" -> "Node: 402
+Value: 62";
+    "Node: 403
+Value: 29" -> "Node: 404
+Value: 29";
+    "Node: 405
+Value: 66" -> "Node: 406
+Value: 22";
+    "Node: 407
+Value: 907" -> "Node: 408
+Value: 268";
+    "Node: 407
+Value: 907" -> "Node: 415
+Value: 342";
+    "Node: 407
+Value: 907" -> "Node: 422
+Value: 472";
+    "Node: 407
+Value: 907" -> "Node: 429
+Value: 404";
+    "Node: 407
+Value: 907" -> "Node: 436
+Value: 93";
+    "Node: 408
+Value: 268" -> "Node: 409
+Value: 100";
+    "Node: 408
+Value: 268" -> "Node: 411
+Value: 28";
+    "Node: 408
+Value: 268" -> "Node: 413
+Value: 120";
+    "Node: 409
+Value: 100" -> "Node: 410
+Value: 50";
+    "Node: 411
+Value: 28" -> "Node: 412
+Value: 28";
+    "Node: 413
+Value: 120" -> "Node: 414
+Value: 30";
+    "Node: 415
+Value: 342" -> "Node: 416
+Value: 74";
+    "Node: 415
+Value: 342" -> "Node: 418
+Value: 114";
+    "Node: 415
+Value: 342" -> "Node: 420
+Value: 37";
+    "Node: 416
+Value: 74" -> "Node: 417
+Value: 37";
+    "Node: 418
+Value: 114" -> "Node: 419
+Value: 57";
+    "Node: 420
+Value: 37" -> "Node: 421
+Value: 37";
+    "Node: 422
+Value: 472" -> "Node: 423
+Value: 96";
+    "Node: 422
+Value: 472" -> "Node: 425
+Value: 48";
+    "Node: 422
+Value: 472" -> "Node: 427
+Value: 184";
+    "Node: 423
+Value: 96" -> "Node: 424
+Value: 24";
+    "Node: 425
+Value: 48" -> "Node: 426
+Value: 16";
+    "Node: 427
+Value: 184" -> "Node: 428
+Value: 46";
+    "Node: 429
+Value: 404" -> "Node: 430
+Value: 88";
+    "Node: 429
+Value: 404" -> "Node: 432
+Value: 114";
+    "Node: 429
+Value: 404" -> "Node: 434
+Value: 34";
+    "Node: 430
+Value: 88" -> "Node: 431
+Value: 22";
+    "Node: 432
+Value: 114" -> "Node: 433
+Value: 38";
+    "Node: 434
+Value: 34" -> "Node: 435
+Value: 34";
+    "Node: 436
+Value: 93" -> "Node: 437
+Value: 72";
+    "Node: 436
+Value: 93" -> "Node: 439
+Value: 29";
+    "Node: 436
+Value: 93" -> "Node: 441
+Value: 64";
+    "Node: 437
+Value: 72" -> "Node: 438
+Value: 36";
+    "Node: 439
+Value: 29" -> "Node: 440
+Value: 29";
+    "Node: 441
+Value: 64" -> "Node: 442
+Value: 32";
+    "Node: 443
+Value: 1767" -> "Node: 444
+Value: 1767";
+    "Node: 443
+Value: 1767" -> "Node: 480
+Value: 1088";
+    "Node: 443
+Value: 1767" -> "Node: 516
+Value: 1234";
+    "Node: 443
+Value: 1767" -> "Node: 545
+Value: 1532";
+    "Node: 443
+Value: 1767" -> "Node: 581
+Value: 591";
+    "Node: 443
+Value: 1767" -> "Node: 617
+Value: 864";
+    "Node: 443
+Value: 1767" -> "Node: 653
+Value: 800";
+    "Node: 444
+Value: 1767" -> "Node: 445
+Value: 291";
+    "Node: 444
+Value: 1767" -> "Node: 452
+Value: 418";
+    "Node: 444
+Value: 1767" -> "Node: 459
+Value: 212";
+    "Node: 444
+Value: 1767" -> "Node: 466
+Value: 1052";
+    "Node: 444
+Value: 1767" -> "Node: 473
+Value: 263";
+    "Node: 445
+Value: 291" -> "Node: 446
+Value: 66";
+    "Node: 445
+Value: 291" -> "Node: 448
+Value: 81";
+    "Node: 445
+Value: 291" -> "Node: 450
+Value: 72";
+    "Node: 446
+Value: 66" -> "Node: 447
+Value: 33";
+    "Node: 448
+Value: 81" -> "Node: 449
+Value: 27";
+    "Node: 450
+Value: 72" -> "Node: 451
+Value: 36";
+    "Node: 452
+Value: 418" -> "Node: 453
+Value: 94";
+    "Node: 452
+Value: 418" -> "Node: 455
+Value: 41";
+    "Node: 452
+Value: 418" -> "Node: 457
+Value: 108";
+    "Node: 453
+Value: 94" -> "Node: 454
+Value: 47";
+    "Node: 455
+Value: 41" -> "Node: 456
+Value: 41";
+    "Node: 457
+Value: 108" -> "Node: 458
+Value: 36";
+    "Node: 459
+Value: 212" -> "Node: 460
+Value: 130";
+    "Node: 459
+Value: 212" -> "Node: 462
+Value: 43";
+    "Node: 459
+Value: 212" -> "Node: 464
+Value: 126";
+    "Node: 460
+Value: 130" -> "Node: 461
+Value: 26";
+    "Node: 462
+Value: 43" -> "Node: 463
+Value: 43";
+    "Node: 464
+Value: 126" -> "Node: 465
+Value: 42";
+    "Node: 466
+Value: 1052" -> "Node: 467
+Value: 69";
+    "Node: 466
+Value: 1052" -> "Node: 469
+Value: 232";
+    "Node: 466
+Value: 1052" -> "Node: 471
+Value: 62";
+    "Node: 467
+Value: 69" -> "Node: 468
+Value: 23";
+    "Node: 469
+Value: 232" -> "Node: 470
+Value: 58";
+    "Node: 471
+Value: 62" -> "Node: 472
+Value: 31";
+    "Node: 473
+Value: 263" -> "Node: 474
+Value: 78";
+    "Node: 473
+Value: 263" -> "Node: 476
+Value: 128";
+    "Node: 473
+Value: 263" -> "Node: 478
+Value: 57";
+    "Node: 474
+Value: 78" -> "Node: 475
+Value: 26";
+    "Node: 476
+Value: 128" -> "Node: 477
+Value: 32";
+    "Node: 478
+Value: 57" -> "Node: 479
+Value: 19";
+    "Node: 480
+Value: 1088" -> "Node: 481
+Value: 375";
+    "Node: 480
+Value: 1088" -> "Node: 488
+Value: 334";
+    "Node: 480
+Value: 1088" -> "Node: 495
+Value: 390";
+    "Node: 480
+Value: 1088" -> "Node: 502
+Value: 108";
+    "Node: 480
+Value: 1088" -> "Node: 509
+Value: 490";
+    "Node: 481
+Value: 375" -> "Node: 482
+Value: 183";
+    "Node: 481
+Value: 375" -> "Node: 484
+Value: 72";
+    "Node: 481
+Value: 375" -> "Node: 486
+Value: 120";
+    "Node: 482
+Value: 183" -> "Node: 483
+Value: 61";
+    "Node: 484
+Value: 72" -> "Node: 485
+Value: 36";
+    "Node: 486
+Value: 120" -> "Node: 487
+Value: 60";
+    "Node: 488
+Value: 334" -> "Node: 489
+Value: 54";
+    "Node: 488
+Value: 334" -> "Node: 491
+Value: 140";
+    "Node: 488
+Value: 334" -> "Node: 493
+Value: 54";
+    "Node: 489
+Value: 54" -> "Node: 490
+Value: 54";
+    "Node: 491
+Value: 140" -> "Node: 492
+Value: 35";
+    "Node: 493
+Value: 54" -> "Node: 494
+Value: 27";
+    "Node: 495
+Value: 390" -> "Node: 496
+Value: 126";
+    "Node: 495
+Value: 390" -> "Node: 498
+Value: 132";
+    "Node: 495
+Value: 390" -> "Node: 500
+Value: 150";
+    "Node: 496
+Value: 126" -> "Node: 497
+Value: 42";
+    "Node: 498
+Value: 132" -> "Node: 499
+Value: 33";
+    "Node: 500
+Value: 150" -> "Node: 501
+Value: 25";
+    "Node: 502
+Value: 108" -> "Node: 503
+Value: 60";
+    "Node: 502
+Value: 108" -> "Node: 505
+Value: 54";
+    "Node: 502
+Value: 108" -> "Node: 507
+Value: 87";
+    "Node: 503
+Value: 60" -> "Node: 504
+Value: 30";
+    "Node: 505
+Value: 54" -> "Node: 506
+Value: 27";
+    "Node: 507
+Value: 87" -> "Node: 508
+Value: 29";
+    "Node: 509
+Value: 490" -> "Node: 510
+Value: 20";
+    "Node: 509
+Value: 490" -> "Node: 512
+Value: 128";
+    "Node: 509
+Value: 490" -> "Node: 514
+Value: 117";
+    "Node: 510
+Value: 20" -> "Node: 511
+Value: 20";
+    "Node: 512
+Value: 128" -> "Node: 513
+Value: 32";
+    "Node: 514
+Value: 117" -> "Node: 515
+Value: 39";
+    "Node: 516
+Value: 1234" -> "Node: 517
+Value: 230";
+    "Node: 516
+Value: 1234" -> "Node: 524
+Value: 330";
+    "Node: 516
+Value: 1234" -> "Node: 531
+Value: 235";
+    "Node: 516
+Value: 1234" -> "Node: 538
+Value: 452";
+    "Node: 517
+Value: 230" -> "Node: 518
+Value: 80";
+    "Node: 517
+Value: 230" -> "Node: 520
+Value: 180";
+    "Node: 517
+Value: 230" -> "Node: 522
+Value: 75";
+    "Node: 518
+Value: 80" -> "Node: 519
+Value: 20";
+    "Node: 520
+Value: 180" -> "Node: 521
+Value: 45";
+    "Node: 522
+Value: 75" -> "Node: 523
+Value: 25";
+    "Node: 524
+Value: 330" -> "Node: 525
+Value: 54";
+    "Node: 524
+Value: 330" -> "Node: 527
+Value: 111";
+    "Node: 524
+Value: 330" -> "Node: 529
+Value: 155";
+    "Node: 525
+Value: 54" -> "Node: 526
+Value: 18";
+    "Node: 527
+Value: 111" -> "Node: 528
+Value: 37";
+    "Node: 529
+Value: 155" -> "Node: 530
+Value: 31";
+    "Node: 531
+Value: 235" -> "Node: 532
+Value: 69";
+    "Node: 531
+Value: 235" -> "Node: 534
+Value: 70";
+    "Node: 531
+Value: 235" -> "Node: 536
+Value: 96";
+    "Node: 532
+Value: 69" -> "Node: 533
+Value: 23";
+    "Node: 534
+Value: 70" -> "Node: 535
+Value: 35";
+    "Node: 536
+Value: 96" -> "Node: 537
+Value: 32";
+    "Node: 538
+Value: 452" -> "Node: 539
+Value: 36";
+    "Node: 538
+Value: 452" -> "Node: 541
+Value: 82";
+    "Node: 538
+Value: 452" -> "Node: 543
+Value: 72";
+    "Node: 539
+Value: 36" -> "Node: 540
+Value: 36";
+    "Node: 541
+Value: 82" -> "Node: 542
+Value: 41";
+    "Node: 543
+Value: 72" -> "Node: 544
+Value: 18";
+    "Node: 545
+Value: 1532" -> "Node: 546
+Value: 684";
+    "Node: 545
+Value: 1532" -> "Node: 553
+Value: 164";
+    "Node: 545
+Value: 1532" -> "Node: 560
+Value: 448";
+    "Node: 545
+Value: 1532" -> "Node: 567
+Value: 508";
+    "Node: 545
+Value: 1532" -> "Node: 574
+Value: 684";
+    "Node: 546
+Value: 684" -> "Node: 547
+Value: 54";
+    "Node: 546
+Value: 684" -> "Node: 549
+Value: 126";
+    "Node: 546
+Value: 684" -> "Node: 551
+Value: 102";
+    "Node: 547
+Value: 54" -> "Node: 548
+Value: 27";
+    "Node: 549
+Value: 126" -> "Node: 550
+Value: 63";
+    "Node: 551
+Value: 102" -> "Node: 552
+Value: 34";
+    "Node: 553
+Value: 164" -> "Node: 554
+Value: 60";
+    "Node: 553
+Value: 164" -> "Node: 556
+Value: 52";
+    "Node: 553
+Value: 164" -> "Node: 558
+Value: 84";
+    "Node: 554
+Value: 60" -> "Node: 555
+Value: 30";
+    "Node: 556
+Value: 52" -> "Node: 557
+Value: 26";
+    "Node: 558
+Value: 84" -> "Node: 559
+Value: 28";
+    "Node: 560
+Value: 448" -> "Node: 561
+Value: 124";
+    "Node: 560
+Value: 448" -> "Node: 563
+Value: 112";
+    "Node: 560
+Value: 448" -> "Node: 565
+Value: 124";
+    "Node: 561
+Value: 124" -> "Node: 562
+Value: 62";
+    "Node: 563
+Value: 112" -> "Node: 564
+Value: 28";
+    "Node: 565
+Value: 124" -> "Node: 566
+Value: 31";
+    "Node: 567
+Value: 508" -> "Node: 568
+Value: 160";
+    "Node: 567
+Value: 508" -> "Node: 570
+Value: 184";
+    "Node: 567
+Value: 508" -> "Node: 572
+Value: 70";
+    "Node: 568
+Value: 160" -> "Node: 569
+Value: 40";
+    "Node: 570
+Value: 184" -> "Node: 571
+Value: 46";
+    "Node: 572
+Value: 70" -> "Node: 573
+Value: 35";
+    "Node: 574
+Value: 684" -> "Node: 575
+Value: 98";
+    "Node: 574
+Value: 684" -> "Node: 577
+Value: 180";
+    "Node: 574
+Value: 684" -> "Node: 579
+Value: 126";
+    "Node: 575
+Value: 98" -> "Node: 576
+Value: 49";
+    "Node: 577
+Value: 180" -> "Node: 578
+Value: 60";
+    "Node: 579
+Value: 126" -> "Node: 580
+Value: 42";
+    "Node: 581
+Value: 591" -> "Node: 582
+Value: 312";
+    "Node: 581
+Value: 591" -> "Node: 589
+Value: 470";
+    "Node: 581
+Value: 591" -> "Node: 596
+Value: 599";
+    "Node: 581
+Value: 591" -> "Node: 603
+Value: 148";
+    "Node: 581
+Value: 591" -> "Node: 610
+Value: 279";
+    "Node: 582
+Value: 312" -> "Node: 583
+Value: 60";
+    "Node: 582
+Value: 312" -> "Node: 585
+Value: 96";
+    "Node: 582
+Value: 312" -> "Node: 587
+Value: 60";
+    "Node: 583
+Value: 60" -> "Node: 584
+Value: 20";
+    "Node: 585
+Value: 96" -> "Node: 586
+Value: 48";
+    "Node: 587
+Value: 60" -> "Node: 588
+Value: 30";
+    "Node: 589
+Value: 470" -> "Node: 590
+Value: 185";
+    "Node: 589
+Value: 470" -> "Node: 592
+Value: 87";
+    "Node: 589
+Value: 470" -> "Node: 594
+Value: 100";
+    "Node: 590
+Value: 185" -> "Node: 591
+Value: 37";
+    "Node: 592
+Value: 87" -> "Node: 593
+Value: 29";
+    "Node: 594
+Value: 100" -> "Node: 595
+Value: 50";
+    "Node: 596
+Value: 599" -> "Node: 597
+Value: 156";
+    "Node: 596
+Value: 599" -> "Node: 599
+Value: 75";
+    "Node: 596
+Value: 599" -> "Node: 601
+Value: 184";
+    "Node: 597
+Value: 156" -> "Node: 598
+Value: 52";
+    "Node: 599
+Value: 75" -> "Node: 600
+Value: 25";
+    "Node: 601
+Value: 184" -> "Node: 602
+Value: 46";
+    "Node: 603
+Value: 148" -> "Node: 604
+Value: 148";
+    "Node: 603
+Value: 148" -> "Node: 606
+Value: 76";
+    "Node: 603
+Value: 148" -> "Node: 608
+Value: 100";
+    "Node: 604
+Value: 148" -> "Node: 605
+Value: 37";
+    "Node: 606
+Value: 76" -> "Node: 607
+Value: 38";
+    "Node: 608
+Value: 100" -> "Node: 609
+Value: 50";
+    "Node: 610
+Value: 279" -> "Node: 611
+Value: 162";
+    "Node: 610
+Value: 279" -> "Node: 613
+Value: 180";
+    "Node: 610
+Value: 279" -> "Node: 615
+Value: 33";
+    "Node: 611
+Value: 162" -> "Node: 612
+Value: 54";
+    "Node: 613
+Value: 180" -> "Node: 614
+Value: 36";
+    "Node: 615
+Value: 33" -> "Node: 616
+Value: 33";
+    "Node: 617
+Value: 864" -> "Node: 618
+Value: 336";
+    "Node: 617
+Value: 864" -> "Node: 625
+Value: 575";
+    "Node: 617
+Value: 864" -> "Node: 632
+Value: 252";
+    "Node: 617
+Value: 864" -> "Node: 639
+Value: 528";
+    "Node: 617
+Value: 864" -> "Node: 646
+Value: 392";
+    "Node: 618
+Value: 336" -> "Node: 619
+Value: 84";
+    "Node: 618
+Value: 336" -> "Node: 621
+Value: 56";
+    "Node: 618
+Value: 336" -> "Node: 623
+Value: 42";
+    "Node: 619
+Value: 84" -> "Node: 620
+Value: 42";
+    "Node: 621
+Value: 56" -> "Node: 622
+Value: 28";
+    "Node: 623
+Value: 42" -> "Node: 624
+Value: 42";
+    "Node: 625
+Value: 575" -> "Node: 626
+Value: 93";
+    "Node: 625
+Value: 575" -> "Node: 628
+Value: 105";
+    "Node: 625
+Value: 575" -> "Node: 630
+Value: 260";
+    "Node: 626
+Value: 93" -> "Node: 627
+Value: 31";
+    "Node: 628
+Value: 105" -> "Node: 629
+Value: 35";
+    "Node: 630
+Value: 260" -> "Node: 631
+Value: 52";
+    "Node: 632
+Value: 252" -> "Node: 633
+Value: 96";
+    "Node: 632
+Value: 252" -> "Node: 635
+Value: 21";
+    "Node: 632
+Value: 252" -> "Node: 637
+Value: 105";
+    "Node: 633
+Value: 96" -> "Node: 634
+Value: 32";
+    "Node: 635
+Value: 21" -> "Node: 636
+Value: 21";
+    "Node: 637
+Value: 105" -> "Node: 638
+Value: 35";
+    "Node: 639
+Value: 528" -> "Node: 640
+Value: 228";
+    "Node: 639
+Value: 528" -> "Node: 642
+Value: 72";
+    "Node: 639
+Value: 528" -> "Node: 644
+Value: 152";
+    "Node: 640
+Value: 228" -> "Node: 641
+Value: 57";
+    "Node: 642
+Value: 72" -> "Node: 643
+Value: 36";
+    "Node: 644
+Value: 152" -> "Node: 645
+Value: 38";
+    "Node: 646
+Value: 392" -> "Node: 647
+Value: 76";
+    "Node: 646
+Value: 392" -> "Node: 649
+Value: 104";
+    "Node: 646
+Value: 392" -> "Node: 651
+Value: 68";
+    "Node: 647
+Value: 76" -> "Node: 648
+Value: 19";
+    "Node: 649
+Value: 104" -> "Node: 650
+Value: 52";
+    "Node: 651
+Value: 68" -> "Node: 652
+Value: 34";
+    "Node: 653
+Value: 800" -> "Node: 654
+Value: 140";
+    "Node: 653
+Value: 800" -> "Node: 661
+Value: 504";
+    "Node: 653
+Value: 800" -> "Node: 668
+Value: 108";
+    "Node: 653
+Value: 800" -> "Node: 675
+Value: 224";
+    "Node: 653
+Value: 800" -> "Node: 682
+Value: 330";
+    "Node: 654
+Value: 140" -> "Node: 655
+Value: 44";
+    "Node: 654
+Value: 140" -> "Node: 657
+Value: 96";
+    "Node: 654
+Value: 140" -> "Node: 659
+Value: 36";
+    "Node: 655
+Value: 44" -> "Node: 656
+Value: 44";
+    "Node: 657
+Value: 96" -> "Node: 658
+Value: 32";
+    "Node: 659
+Value: 36" -> "Node: 660
+Value: 36";
+    "Node: 661
+Value: 504" -> "Node: 662
+Value: 156";
+    "Node: 661
+Value: 504" -> "Node: 664
+Value: 140";
+    "Node: 661
+Value: 504" -> "Node: 666
+Value: 48";
+    "Node: 662
+Value: 156" -> "Node: 663
+Value: 52";
+    "Node: 664
+Value: 140" -> "Node: 665
+Value: 35";
+    "Node: 666
+Value: 48" -> "Node: 667
+Value: 24";
+    "Node: 668
+Value: 108" -> "Node: 669
+Value: 108";
+    "Node: 668
+Value: 108" -> "Node: 671
+Value: 124";
+    "Node: 668
+Value: 108" -> "Node: 673
+Value: 117";
+    "Node: 669
+Value: 108" -> "Node: 670
+Value: 36";
+    "Node: 671
+Value: 124" -> "Node: 672
+Value: 62";
+    "Node: 673
+Value: 117" -> "Node: 674
+Value: 39";
+    "Node: 675
+Value: 224" -> "Node: 676
+Value: 78";
+    "Node: 675
+Value: 224" -> "Node: 678
+Value: 68";
+    "Node: 675
+Value: 224" -> "Node: 680
+Value: 114";
+    "Node: 676
+Value: 78" -> "Node: 677
+Value: 26";
+    "Node: 678
+Value: 68" -> "Node: 679
+Value: 34";
+    "Node: 680
+Value: 114" -> "Node: 681
+Value: 19";
+    "Node: 682
+Value: 330" -> "Node: 683
+Value: 78";
+    "Node: 682
+Value: 330" -> "Node: 685
+Value: 138";
+    "Node: 682
+Value: 330" -> "Node: 687
+Value: 96";
+    "Node: 683
+Value: 78" -> "Node: 684
+Value: 26";
+    "Node: 685
+Value: 138" -> "Node: 686
+Value: 46";
+    "Node: 687
+Value: 96" -> "Node: 688
+Value: 48";
+    "Node: 689
+Value: 1239" -> "Node: 690
+Value: 448";
+    "Node: 689
+Value: 1239" -> "Node: 719
+Value: 1239";
+    "Node: 689
+Value: 1239" -> "Node: 755
+Value: 814";
+    "Node: 689
+Value: 1239" -> "Node: 791
+Value: 1694";
+    "Node: 689
+Value: 1239" -> "Node: 827
+Value: 1644";
+    "Node: 689
+Value: 1239" -> "Node: 863
+Value: 2884";
+    "Node: 690
+Value: 448" -> "Node: 691
+Value: 52";
+    "Node: 690
+Value: 448" -> "Node: 698
+Value: 396";
+    "Node: 690
+Value: 448" -> "Node: 705
+Value: 412";
+    "Node: 690
+Value: 448" -> "Node: 712
+Value: 347";
+    "Node: 691
+Value: 52" -> "Node: 692
+Value: 105";
+    "Node: 691
+Value: 52" -> "Node: 694
+Value: 120";
+    "Node: 691
+Value: 52" -> "Node: 696
+Value: 52";
+    "Node: 692
+Value: 105" -> "Node: 693
+Value: 35";
+    "Node: 694
+Value: 120" -> "Node: 695
+Value: 40";
+    "Node: 696
+Value: 52" -> "Node: 697
+Value: 26";
+    "Node: 698
+Value: 396" -> "Node: 699
+Value: 96";
+    "Node: 698
+Value: 396" -> "Node: 701
+Value: 46";
+    "Node: 698
+Value: 396" -> "Node: 703
+Value: 112";
+    "Node: 699
+Value: 96" -> "Node: 700
+Value: 32";
+    "Node: 701
+Value: 46" -> "Node: 702
+Value: 46";
+    "Node: 703
+Value: 112" -> "Node: 704
+Value: 28";
+    "Node: 705
+Value: 412" -> "Node: 706
+Value: 81";
+    "Node: 705
+Value: 412" -> "Node: 708
+Value: 120";
+    "Node: 705
+Value: 412" -> "Node: 710
+Value: 86";
+    "Node: 706
+Value: 81" -> "Node: 707
+Value: 27";
+    "Node: 708
+Value: 120" -> "Node: 709
+Value: 30";
+    "Node: 710
+Value: 86" -> "Node: 711
+Value: 43";
+    "Node: 712
+Value: 347" -> "Node: 713
+Value: 215";
+    "Node: 712
+Value: 347" -> "Node: 715
+Value: 132";
+    "Node: 712
+Value: 347" -> "Node: 717
+Value: 29";
+    "Node: 713
+Value: 215" -> "Node: 714
+Value: 43";
+    "Node: 715
+Value: 132" -> "Node: 716
+Value: 44";
+    "Node: 717
+Value: 29" -> "Node: 718
+Value: 29";
+    "Node: 719
+Value: 1239" -> "Node: 720
+Value: 476";
+    "Node: 719
+Value: 1239" -> "Node: 727
+Value: 262";
+    "Node: 719
+Value: 1239" -> "Node: 734
+Value: 396";
+    "Node: 719
+Value: 1239" -> "Node: 741
+Value: 447";
+    "Node: 719
+Value: 1239" -> "Node: 748
+Value: 412";
+    "Node: 720
+Value: 476" -> "Node: 721
+Value: 82";
+    "Node: 720
+Value: 476" -> "Node: 723
+Value: 135";
+    "Node: 720
+Value: 476" -> "Node: 725
+Value: 156";
+    "Node: 721
+Value: 82" -> "Node: 722
+Value: 41";
+    "Node: 723
+Value: 135" -> "Node: 724
+Value: 45";
+    "Node: 725
+Value: 156" -> "Node: 726
+Value: 26";
+    "Node: 727
+Value: 262" -> "Node: 728
+Value: 180";
+    "Node: 727
+Value: 262" -> "Node: 730
+Value: 32";
+    "Node: 727
+Value: 262" -> "Node: 732
+Value: 82";
+    "Node: 728
+Value: 180" -> "Node: 729
+Value: 36";
+    "Node: 730
+Value: 32" -> "Node: 731
+Value: 32";
+    "Node: 732
+Value: 82" -> "Node: 733
+Value: 41";
+    "Node: 734
+Value: 396" -> "Node: 735
+Value: 66";
+    "Node: 734
+Value: 396" -> "Node: 737
+Value: 228";
+    "Node: 734
+Value: 396" -> "Node: 739
+Value: 84";
+    "Node: 735
+Value: 66" -> "Node: 736
+Value: 33";
+    "Node: 737
+Value: 228" -> "Node: 738
+Value: 57";
+    "Node: 739
+Value: 84" -> "Node: 740
+Value: 42";
+    "Node: 741
+Value: 447" -> "Node: 742
+Value: 99";
+    "Node: 741
+Value: 447" -> "Node: 744
+Value: 108";
+    "Node: 741
+Value: 447" -> "Node: 746
+Value: 80";
+    "Node: 742
+Value: 99" -> "Node: 743
+Value: 33";
+    "Node: 744
+Value: 108" -> "Node: 745
+Value: 36";
+    "Node: 746
+Value: 80" -> "Node: 747
+Value: 40";
+    "Node: 748
+Value: 412" -> "Node: 749
+Value: 42";
+    "Node: 748
+Value: 412" -> "Node: 751
+Value: 100";
+    "Node: 748
+Value: 412" -> "Node: 753
+Value: 90";
+    "Node: 749
+Value: 42" -> "Node: 750
+Value: 42";
+    "Node: 751
+Value: 100" -> "Node: 752
+Value: 25";
+    "Node: 753
+Value: 90" -> "Node: 754
+Value: 18";
+    "Node: 755
+Value: 814" -> "Node: 756
+Value: 429";
+    "Node: 755
+Value: 814" -> "Node: 763
+Value: 492";
+    "Node: 755
+Value: 814" -> "Node: 770
+Value: 234";
+    "Node: 755
+Value: 814" -> "Node: 777
+Value: 152";
+    "Node: 755
+Value: 814" -> "Node: 784
+Value: 88";
+    "Node: 756
+Value: 429" -> "Node: 757
+Value: 33";
+    "Node: 756
+Value: 429" -> "Node: 759
+Value: 102";
+    "Node: 756
+Value: 429" -> "Node: 761
+Value: 147";
+    "Node: 757
+Value: 33" -> "Node: 758
+Value: 33";
+    "Node: 759
+Value: 102" -> "Node: 760
+Value: 34";
+    "Node: 761
+Value: 147" -> "Node: 762
+Value: 49";
+    "Node: 763
+Value: 492" -> "Node: 764
+Value: 52";
+    "Node: 763
+Value: 492" -> "Node: 766
+Value: 72";
+    "Node: 763
+Value: 492" -> "Node: 768
+Value: 220";
+    "Node: 764
+Value: 52" -> "Node: 765
+Value: 26";
+    "Node: 766
+Value: 72" -> "Node: 767
+Value: 36";
+    "Node: 768
+Value: 220" -> "Node: 769
+Value: 44";
+    "Node: 770
+Value: 234" -> "Node: 771
+Value: 54";
+    "Node: 770
+Value: 234" -> "Node: 773
+Value: 108";
+    "Node: 770
+Value: 234" -> "Node: 775
+Value: 126";
+    "Node: 771
+Value: 54" -> "Node: 772
+Value: 27";
+    "Node: 773
+Value: 108" -> "Node: 774
+Value: 27";
+    "Node: 775
+Value: 126" -> "Node: 776
+Value: 42";
+    "Node: 777
+Value: 152" -> "Node: 778
+Value: 86";
+    "Node: 777
+Value: 152" -> "Node: 780
+Value: 90";
+    "Node: 777
+Value: 152" -> "Node: 782
+Value: 66";
+    "Node: 778
+Value: 86" -> "Node: 779
+Value: 43";
+    "Node: 780
+Value: 90" -> "Node: 781
+Value: 30";
+    "Node: 782
+Value: 66" -> "Node: 783
+Value: 22";
+    "Node: 784
+Value: 88" -> "Node: 785
+Value: 44";
+    "Node: 784
+Value: 88" -> "Node: 787
+Value: 208";
+    "Node: 784
+Value: 88" -> "Node: 789
+Value: 53";
+    "Node: 785
+Value: 44" -> "Node: 786
+Value: 44";
+    "Node: 787
+Value: 208" -> "Node: 788
+Value: 52";
+    "Node: 789
+Value: 53" -> "Node: 790
+Value: 53";
+    "Node: 791
+Value: 1694" -> "Node: 792
+Value: 174";
+    "Node: 791
+Value: 1694" -> "Node: 799
+Value: 236";
+    "Node: 791
+Value: 1694" -> "Node: 806
+Value: 248";
+    "Node: 791
+Value: 1694" -> "Node: 813
+Value: 760";
+    "Node: 791
+Value: 1694" -> "Node: 820
+Value: 516";
+    "Node: 792
+Value: 174" -> "Node: 793
+Value: 102";
+    "Node: 792
+Value: 174" -> "Node: 795
+Value: 46";
+    "Node: 792
+Value: 174" -> "Node: 797
+Value: 36";
+    "Node: 793
+Value: 102" -> "Node: 794
+Value: 34";
+    "Node: 795
+Value: 46" -> "Node: 796
+Value: 23";
+    "Node: 797
+Value: 36" -> "Node: 798
+Value: 36";
+    "Node: 799
+Value: 236" -> "Node: 800
+Value: 60";
+    "Node: 799
+Value: 236" -> "Node: 802
+Value: 184";
+    "Node: 799
+Value: 236" -> "Node: 804
+Value: 176";
+    "Node: 800
+Value: 60" -> "Node: 801
+Value: 30";
+    "Node: 802
+Value: 184" -> "Node: 803
+Value: 46";
+    "Node: 804
+Value: 176" -> "Node: 805
+Value: 44";
+    "Node: 806
+Value: 248" -> "Node: 807
+Value: 82";
+    "Node: 806
+Value: 248" -> "Node: 809
+Value: 84";
+    "Node: 806
+Value: 248" -> "Node: 811
+Value: 164";
+    "Node: 807
+Value: 82" -> "Node: 808
+Value: 41";
+    "Node: 809
+Value: 84" -> "Node: 810
+Value: 28";
+    "Node: 811
+Value: 164" -> "Node: 812
+Value: 41";
+    "Node: 813
+Value: 760" -> "Node: 814
+Value: 138";
+    "Node: 813
+Value: 760" -> "Node: 816
+Value: 210";
+    "Node: 813
+Value: 760" -> "Node: 818
+Value: 64";
+    "Node: 814
+Value: 138" -> "Node: 815
+Value: 46";
+    "Node: 816
+Value: 210" -> "Node: 817
+Value: 42";
+    "Node: 818
+Value: 64" -> "Node: 819
+Value: 32";
+    "Node: 820
+Value: 516" -> "Node: 821
+Value: 195";
+    "Node: 820
+Value: 516" -> "Node: 823
+Value: 165";
+    "Node: 820
+Value: 516" -> "Node: 825
+Value: 52";
+    "Node: 821
+Value: 195" -> "Node: 822
+Value: 39";
+    "Node: 823
+Value: 165" -> "Node: 824
+Value: 33";
+    "Node: 825
+Value: 52" -> "Node: 826
+Value: 52";
+    "Node: 827
+Value: 1644" -> "Node: 828
+Value: 164";
+    "Node: 827
+Value: 1644" -> "Node: 835
+Value: 360";
+    "Node: 827
+Value: 1644" -> "Node: 842
+Value: 778";
+    "Node: 827
+Value: 1644" -> "Node: 849
+Value: 438";
+    "Node: 827
+Value: 1644" -> "Node: 856
+Value: 264";
+    "Node: 828
+Value: 164" -> "Node: 829
+Value: 152";
+    "Node: 828
+Value: 164" -> "Node: 831
+Value: 68";
+    "Node: 828
+Value: 164" -> "Node: 833
+Value: 28";
+    "Node: 829
+Value: 152" -> "Node: 830
+Value: 38";
+    "Node: 831
+Value: 68" -> "Node: 832
+Value: 34";
+    "Node: 833
+Value: 28" -> "Node: 834
+Value: 28";
+    "Node: 835
+Value: 360" -> "Node: 836
+Value: 145";
+    "Node: 835
+Value: 360" -> "Node: 838
+Value: 132";
+    "Node: 835
+Value: 360" -> "Node: 840
+Value: 90";
+    "Node: 836
+Value: 145" -> "Node: 837
+Value: 29";
+    "Node: 838
+Value: 132" -> "Node: 839
+Value: 44";
+    "Node: 840
+Value: 90" -> "Node: 841
+Value: 15";
+    "Node: 842
+Value: 778" -> "Node: 843
+Value: 86";
+    "Node: 842
+Value: 778" -> "Node: 845
+Value: 120";
+    "Node: 842
+Value: 778" -> "Node: 847
+Value: 200";
+    "Node: 843
+Value: 86" -> "Node: 844
+Value: 43";
+    "Node: 845
+Value: 120" -> "Node: 846
+Value: 40";
+    "Node: 847
+Value: 200" -> "Node: 848
+Value: 40";
+    "Node: 849
+Value: 438" -> "Node: 850
+Value: 120";
+    "Node: 849
+Value: 438" -> "Node: 852
+Value: 78";
+    "Node: 849
+Value: 438" -> "Node: 854
+Value: 123";
+    "Node: 850
+Value: 120" -> "Node: 851
+Value: 30";
+    "Node: 852
+Value: 78" -> "Node: 853
+Value: 26";
+    "Node: 854
+Value: 123" -> "Node: 855
+Value: 41";
+    "Node: 856
+Value: 264" -> "Node: 857
+Value: 90";
+    "Node: 856
+Value: 264" -> "Node: 859
+Value: 174";
+    "Node: 856
+Value: 264" -> "Node: 861
+Value: 87";
+    "Node: 857
+Value: 90" -> "Node: 858
+Value: 45";
+    "Node: 859
+Value: 174" -> "Node: 860
+Value: 29";
+    "Node: 861
+Value: 87" -> "Node: 862
+Value: 29";
+    "Node: 863
+Value: 2884" -> "Node: 864
+Value: 992";
+    "Node: 863
+Value: 2884" -> "Node: 871
+Value: 528";
+    "Node: 863
+Value: 2884" -> "Node: 878
+Value: 372";
+    "Node: 863
+Value: 2884" -> "Node: 885
+Value: 306";
+    "Node: 864
+Value: 992" -> "Node: 865
+Value: 183";
+    "Node: 864
+Value: 992" -> "Node: 867
+Value: 54";
+    "Node: 864
+Value: 992" -> "Node: 869
+Value: 248";
+    "Node: 865
+Value: 183" -> "Node: 866
+Value: 61";
+    "Node: 867
+Value: 54" -> "Node: 868
+Value: 27";
+    "Node: 869
+Value: 248" -> "Node: 870
+Value: 62";
+    "Node: 871
+Value: 528" -> "Node: 872
+Value: 144";
+    "Node: 871
+Value: 528" -> "Node: 874
+Value: 123";
+    "Node: 871
+Value: 528" -> "Node: 876
+Value: 117";
+    "Node: 872
+Value: 144" -> "Node: 873
+Value: 36";
+    "Node: 874
+Value: 123" -> "Node: 875
+Value: 41";
+    "Node: 876
+Value: 117" -> "Node: 877
+Value: 39";
+    "Node: 878
+Value: 372" -> "Node: 879
+Value: 42";
+    "Node: 878
+Value: 372" -> "Node: 881
+Value: 140";
+    "Node: 878
+Value: 372" -> "Node: 883
+Value: 50";
+    "Node: 879
+Value: 42" -> "Node: 880
+Value: 21";
+    "Node: 881
+Value: 140" -> "Node: 882
+Value: 35";
+    "Node: 883
+Value: 50" -> "Node: 884
+Value: 25";
+    "Node: 885
+Value: 306" -> "Node: 886
+Value: 108";
+    "Node: 885
+Value: 306" -> "Node: 888
+Value: 112";
+    "Node: 885
+Value: 306" -> "Node: 890
+Value: 102";
+    "Node: 886
+Value: 108" -> "Node: 887
+Value: 27";
+    "Node: 888
+Value: 112" -> "Node: 889
+Value: 56";
+    "Node: 890
+Value: 102" -> "Node: 891
+Value: 34";
+    "Node: 892
+Value: 2328" -> "Node: 893
+Value: 2106";
+    "Node: 892
+Value: 2328" -> "Node: 929
+Value: 486";
+    "Node: 892
+Value: 2328" -> "Node: 965
+Value: 1776";
+    "Node: 892
+Value: 2328" -> "Node: 1001
+Value: 1378";
+    "Node: 892
+Value: 2328" -> "Node: 1037
+Value: 1854";
+    "Node: 892
+Value: 2328" -> "Node: 1073
+Value: 2098";
+    "Node: 892
+Value: 2328" -> "Node: 1109
+Value: 2328";
+    "Node: 893
+Value: 2106" -> "Node: 894
+Value: 604";
+    "Node: 893
+Value: 2106" -> "Node: 901
+Value: 570";
+    "Node: 893
+Value: 2106" -> "Node: 908
+Value: 966";
+    "Node: 893
+Value: 2106" -> "Node: 915
+Value: 570";
+    "Node: 893
+Value: 2106" -> "Node: 922
+Value: 156";
+    "Node: 894
+Value: 604" -> "Node: 895
+Value: 48";
+    "Node: 894
+Value: 604" -> "Node: 897
+Value: 164";
+    "Node: 894
+Value: 604" -> "Node: 899
+Value: 64";
+    "Node: 895
+Value: 48" -> "Node: 896
+Value: 24";
+    "Node: 897
+Value: 164" -> "Node: 898
+Value: 41";
+    "Node: 899
+Value: 64" -> "Node: 900
+Value: 32";
+    "Node: 901
+Value: 570" -> "Node: 902
+Value: 150";
+    "Node: 901
+Value: 570" -> "Node: 904
+Value: 114";
+    "Node: 901
+Value: 570" -> "Node: 906
+Value: 120";
+    "Node: 902
+Value: 150" -> "Node: 903
+Value: 50";
+    "Node: 904
+Value: 114" -> "Node: 905
+Value: 38";
+    "Node: 906
+Value: 120" -> "Node: 907
+Value: 30";
+    "Node: 908
+Value: 966" -> "Node: 909
+Value: 96";
+    "Node: 908
+Value: 966" -> "Node: 911
+Value: 41";
+    "Node: 908
+Value: 966" -> "Node: 913
+Value: 258";
+    "Node: 909
+Value: 96" -> "Node: 910
+Value: 24";
+    "Node: 911
+Value: 41" -> "Node: 912
+Value: 41";
+    "Node: 913
+Value: 258" -> "Node: 914
+Value: 43";
+    "Node: 915
+Value: 570" -> "Node: 916
+Value: 190";
+    "Node: 915
+Value: 570" -> "Node: 918
+Value: 84";
+    "Node: 915
+Value: 570" -> "Node: 920
+Value: 225";
+    "Node: 916
+Value: 190" -> "Node: 917
+Value: 38";
+    "Node: 918
+Value: 84" -> "Node: 919
+Value: 21";
+    "Node: 920
+Value: 225" -> "Node: 921
+Value: 45";
+    "Node: 922
+Value: 156" -> "Node: 923
+Value: 32";
+    "Node: 922
+Value: 156" -> "Node: 925
+Value: 70";
+    "Node: 922
+Value: 156" -> "Node: 927
+Value: 54";
+    "Node: 923
+Value: 32" -> "Node: 924
+Value: 32";
+    "Node: 925
+Value: 70" -> "Node: 926
+Value: 35";
+    "Node: 927
+Value: 54" -> "Node: 928
+Value: 27";
+    "Node: 929
+Value: 486" -> "Node: 930
+Value: 1096";
+    "Node: 929
+Value: 486" -> "Node: 937
+Value: 776";
+    "Node: 929
+Value: 486" -> "Node: 944
+Value: 252";
+    "Node: 929
+Value: 486" -> "Node: 951
+Value: 234";
+    "Node: 929
+Value: 486" -> "Node: 958
+Value: 190";
+    "Node: 930
+Value: 1096" -> "Node: 931
+Value: 88";
+    "Node: 930
+Value: 1096" -> "Node: 933
+Value: 170";
+    "Node: 930
+Value: 1096" -> "Node: 935
+Value: 252";
+    "Node: 931
+Value: 88" -> "Node: 932
+Value: 44";
+    "Node: 933
+Value: 170" -> "Node: 934
+Value: 34";
+    "Node: 935
+Value: 252" -> "Node: 936
+Value: 63";
+    "Node: 937
+Value: 776" -> "Node: 938
+Value: 62";
+    "Node: 937
+Value: 776" -> "Node: 940
+Value: 212";
+    "Node: 937
+Value: 776" -> "Node: 942
+Value: 78";
+    "Node: 938
+Value: 62" -> "Node: 939
+Value: 31";
+    "Node: 940
+Value: 212" -> "Node: 941
+Value: 53";
+    "Node: 942
+Value: 78" -> "Node: 943
+Value: 26";
+    "Node: 944
+Value: 252" -> "Node: 945
+Value: 46";
+    "Node: 944
+Value: 252" -> "Node: 947
+Value: 160";
+    "Node: 944
+Value: 252" -> "Node: 949
+Value: 100";
+    "Node: 945
+Value: 46" -> "Node: 946
+Value: 23";
+    "Node: 947
+Value: 160" -> "Node: 948
+Value: 40";
+    "Node: 949
+Value: 100" -> "Node: 950
+Value: 25";
+    "Node: 951
+Value: 234" -> "Node: 952
+Value: 60";
+    "Node: 951
+Value: 234" -> "Node: 954
+Value: 36";
+    "Node: 951
+Value: 234" -> "Node: 956
+Value: 102";
+    "Node: 952
+Value: 60" -> "Node: 953
+Value: 30";
+    "Node: 954
+Value: 36" -> "Node: 955
+Value: 36";
+    "Node: 956
+Value: 102" -> "Node: 957
+Value: 34";
+    "Node: 958
+Value: 190" -> "Node: 959
+Value: 80";
+    "Node: 958
+Value: 190" -> "Node: 961
+Value: 265";
+    "Node: 958
+Value: 190" -> "Node: 963
+Value: 30";
+    "Node: 959
+Value: 80" -> "Node: 960
+Value: 20";
+    "Node: 961
+Value: 265" -> "Node: 962
+Value: 53";
+    "Node: 963
+Value: 30" -> "Node: 964
+Value: 30";
+    "Node: 965
+Value: 1776" -> "Node: 966
+Value: 345";
+    "Node: 965
+Value: 1776" -> "Node: 973
+Value: 272";
+    "Node: 965
+Value: 1776" -> "Node: 980
+Value: 278";
+    "Node: 965
+Value: 1776" -> "Node: 987
+Value: 613";
+    "Node: 965
+Value: 1776" -> "Node: 994
+Value: 136";
+    "Node: 966
+Value: 345" -> "Node: 967
+Value: 46";
+    "Node: 966
+Value: 345" -> "Node: 969
+Value: 115";
+    "Node: 966
+Value: 345" -> "Node: 971
+Value: 38";
+    "Node: 967
+Value: 46" -> "Node: 968
+Value: 23";
+    "Node: 969
+Value: 115" -> "Node: 970
+Value: 23";
+    "Node: 971
+Value: 38" -> "Node: 972
+Value: 38";
+    "Node: 973
+Value: 272" -> "Node: 974
+Value: 51";
+    "Node: 973
+Value: 272" -> "Node: 976
+Value: 80";
+    "Node: 973
+Value: 272" -> "Node: 978
+Value: 136";
+    "Node: 974
+Value: 51" -> "Node: 975
+Value: 51";
+    "Node: 976
+Value: 80" -> "Node: 977
+Value: 40";
+    "Node: 978
+Value: 136" -> "Node: 979
+Value: 34";
+    "Node: 980
+Value: 278" -> "Node: 981
+Value: 90";
+    "Node: 980
+Value: 278" -> "Node: 983
+Value: 98";
+    "Node: 980
+Value: 278" -> "Node: 985
+Value: 141";
+    "Node: 981
+Value: 90" -> "Node: 982
+Value: 30";
+    "Node: 983
+Value: 98" -> "Node: 984
+Value: 49";
+    "Node: 985
+Value: 141" -> "Node: 986
+Value: 47";
+    "Node: 987
+Value: 613" -> "Node: 988
+Value: 117";
+    "Node: 987
+Value: 613" -> "Node: 990
+Value: 120";
+    "Node: 987
+Value: 613" -> "Node: 992
+Value: 136";
+    "Node: 988
+Value: 117" -> "Node: 989
+Value: 39";
+    "Node: 990
+Value: 120" -> "Node: 991
+Value: 40";
+    "Node: 992
+Value: 136" -> "Node: 993
+Value: 34";
+    "Node: 994
+Value: 136" -> "Node: 995
+Value: 220";
+    "Node: 994
+Value: 136" -> "Node: 997
+Value: 42";
+    "Node: 994
+Value: 136" -> "Node: 999
+Value: 26";
+    "Node: 995
+Value: 220" -> "Node: 996
+Value: 55";
+    "Node: 997
+Value: 42" -> "Node: 998
+Value: 42";
+    "Node: 999
+Value: 26" -> "Node: 1000
+Value: 13";
+    "Node: 1001
+Value: 1378" -> "Node: 1002
+Value: 607";
+    "Node: 1001
+Value: 1378" -> "Node: 1009
+Value: 708";
+    "Node: 1001
+Value: 1378" -> "Node: 1016
+Value: 164";
+    "Node: 1001
+Value: 1378" -> "Node: 1023
+Value: 452";
+    "Node: 1001
+Value: 1378" -> "Node: 1030
+Value: 744";
+    "Node: 1002
+Value: 607" -> "Node: 1003
+Value: 29";
+    "Node: 1002
+Value: 607" -> "Node: 1005
+Value: 102";
+    "Node: 1002
+Value: 607" -> "Node: 1007
+Value: 272";
+    "Node: 1003
+Value: 29" -> "Node: 1004
+Value: 29";
+    "Node: 1005
+Value: 102" -> "Node: 1006
+Value: 34";
+    "Node: 1007
+Value: 272" -> "Node: 1008
+Value: 68";
+    "Node: 1009
+Value: 708" -> "Node: 1010
+Value: 108";
+    "Node: 1009
+Value: 708" -> "Node: 1012
+Value: 96";
+    "Node: 1009
+Value: 708" -> "Node: 1014
+Value: 204";
+    "Node: 1010
+Value: 108" -> "Node: 1011
+Value: 36";
+    "Node: 1012
+Value: 96" -> "Node: 1013
+Value: 32";
+    "Node: 1014
+Value: 204" -> "Node: 1015
+Value: 68";
+    "Node: 1016
+Value: 164" -> "Node: 1017
+Value: 80";
+    "Node: 1016
+Value: 164" -> "Node: 1019
+Value: 34";
+    "Node: 1016
+Value: 164" -> "Node: 1021
+Value: 82";
+    "Node: 1017
+Value: 80" -> "Node: 1018
+Value: 40";
+    "Node: 1019
+Value: 34" -> "Node: 1020
+Value: 34";
+    "Node: 1021
+Value: 82" -> "Node: 1022
+Value: 41";
+    "Node: 1023
+Value: 452" -> "Node: 1024
+Value: 136";
+    "Node: 1023
+Value: 452" -> "Node: 1026
+Value: 188";
+    "Node: 1023
+Value: 452" -> "Node: 1028
+Value: 132";
+    "Node: 1024
+Value: 136" -> "Node: 1025
+Value: 34";
+    "Node: 1026
+Value: 188" -> "Node: 1027
+Value: 47";
+    "Node: 1028
+Value: 132" -> "Node: 1029
+Value: 33";
+    "Node: 1030
+Value: 744" -> "Node: 1031
+Value: 114";
+    "Node: 1030
+Value: 744" -> "Node: 1033
+Value: 144";
+    "Node: 1030
+Value: 744" -> "Node: 1035
+Value: 42";
+    "Node: 1031
+Value: 114" -> "Node: 1032
+Value: 38";
+    "Node: 1033
+Value: 144" -> "Node: 1034
+Value: 36";
+    "Node: 1035
+Value: 42" -> "Node: 1036
+Value: 21";
+    "Node: 1037
+Value: 1854" -> "Node: 1038
+Value: 378";
+    "Node: 1037
+Value: 1854" -> "Node: 1045
+Value: 588";
+    "Node: 1037
+Value: 1854" -> "Node: 1052
+Value: 490";
+    "Node: 1037
+Value: 1854" -> "Node: 1059
+Value: 436";
+    "Node: 1037
+Value: 1854" -> "Node: 1066
+Value: 888";
+    "Node: 1038
+Value: 378" -> "Node: 1039
+Value: 81";
+    "Node: 1038
+Value: 378" -> "Node: 1041
+Value: 40";
+    "Node: 1038
+Value: 378" -> "Node: 1043
+Value: 108";
+    "Node: 1039
+Value: 81" -> "Node: 1040
+Value: 27";
+    "Node: 1041
+Value: 40" -> "Node: 1042
+Value: 40";
+    "Node: 1043
+Value: 108" -> "Node: 1044
+Value: 36";
+    "Node: 1045
+Value: 588" -> "Node: 1046
+Value: 270";
+    "Node: 1045
+Value: 588" -> "Node: 1048
+Value: 48";
+    "Node: 1045
+Value: 588" -> "Node: 1050
+Value: 47";
+    "Node: 1046
+Value: 270" -> "Node: 1047
+Value: 54";
+    "Node: 1048
+Value: 48" -> "Node: 1049
+Value: 24";
+    "Node: 1050
+Value: 47" -> "Node: 1051
+Value: 47";
+    "Node: 1052
+Value: 490" -> "Node: 1053
+Value: 80";
+    "Node: 1052
+Value: 490" -> "Node: 1055
+Value: 76";
+    "Node: 1052
+Value: 490" -> "Node: 1057
+Value: 138";
+    "Node: 1053
+Value: 80" -> "Node: 1054
+Value: 40";
+    "Node: 1055
+Value: 76" -> "Node: 1056
+Value: 38";
+    "Node: 1057
+Value: 138" -> "Node: 1058
+Value: 46";
+    "Node: 1059
+Value: 436" -> "Node: 1060
+Value: 156";
+    "Node: 1059
+Value: 436" -> "Node: 1062
+Value: 136";
+    "Node: 1059
+Value: 436" -> "Node: 1064
+Value: 144";
+    "Node: 1060
+Value: 156" -> "Node: 1061
+Value: 52";
+    "Node: 1062
+Value: 136" -> "Node: 1063
+Value: 34";
+    "Node: 1064
+Value: 144" -> "Node: 1065
+Value: 36";
+    "Node: 1066
+Value: 888" -> "Node: 1067
+Value: 50";
+    "Node: 1066
+Value: 888" -> "Node: 1069
+Value: 140";
+    "Node: 1066
+Value: 888" -> "Node: 1071
+Value: 152";
+    "Node: 1067
+Value: 50" -> "Node: 1068
+Value: 25";
+    "Node: 1069
+Value: 140" -> "Node: 1070
+Value: 35";
+    "Node: 1071
+Value: 152" -> "Node: 1072
+Value: 38";
+    "Node: 1073
+Value: 2098" -> "Node: 1074
+Value: 557";
+    "Node: 1073
+Value: 2098" -> "Node: 1081
+Value: 600";
+    "Node: 1073
+Value: 2098" -> "Node: 1088
+Value: 599";
+    "Node: 1073
+Value: 2098" -> "Node: 1095
+Value: 450";
+    "Node: 1073
+Value: 2098" -> "Node: 1102
+Value: 470";
+    "Node: 1074
+Value: 557" -> "Node: 1075
+Value: 160";
+    "Node: 1074
+Value: 557" -> "Node: 1077
+Value: 159";
+    "Node: 1074
+Value: 557" -> "Node: 1079
+Value: 78";
+    "Node: 1075
+Value: 160" -> "Node: 1076
+Value: 32";
+    "Node: 1077
+Value: 159" -> "Node: 1078
+Value: 53";
+    "Node: 1079
+Value: 78" -> "Node: 1080
+Value: 39";
+    "Node: 1081
+Value: 600" -> "Node: 1082
+Value: 196";
+    "Node: 1081
+Value: 600" -> "Node: 1084
+Value: 188";
+    "Node: 1081
+Value: 600" -> "Node: 1086
+Value: 108";
+    "Node: 1082
+Value: 196" -> "Node: 1083
+Value: 49";
+    "Node: 1084
+Value: 188" -> "Node: 1085
+Value: 47";
+    "Node: 1086
+Value: 108" -> "Node: 1087
+Value: 36";
+    "Node: 1088
+Value: 599" -> "Node: 1089
+Value: 25";
+    "Node: 1088
+Value: 599" -> "Node: 1091
+Value: 162";
+    "Node: 1088
+Value: 599" -> "Node: 1093
+Value: 88";
+    "Node: 1089
+Value: 25" -> "Node: 1090
+Value: 25";
+    "Node: 1091
+Value: 162" -> "Node: 1092
+Value: 54";
+    "Node: 1093
+Value: 88" -> "Node: 1094
+Value: 44";
+    "Node: 1095
+Value: 450" -> "Node: 1096
+Value: 114";
+    "Node: 1095
+Value: 450" -> "Node: 1098
+Value: 64";
+    "Node: 1095
+Value: 450" -> "Node: 1100
+Value: 80";
+    "Node: 1096
+Value: 114" -> "Node: 1097
+Value: 57";
+    "Node: 1098
+Value: 64" -> "Node: 1099
+Value: 32";
+    "Node: 1100
+Value: 80" -> "Node: 1101
+Value: 40";
+    "Node: 1102
+Value: 470" -> "Node: 1103
+Value: 66";
+    "Node: 1102
+Value: 470" -> "Node: 1105
+Value: 105";
+    "Node: 1102
+Value: 470" -> "Node: 1107
+Value: 235";
+    "Node: 1103
+Value: 66" -> "Node: 1104
+Value: 33";
+    "Node: 1105
+Value: 105" -> "Node: 1106
+Value: 21";
+    "Node: 1107
+Value: 235" -> "Node: 1108
+Value: 47";
+    "Node: 1109
+Value: 2328" -> "Node: 1110
+Value: 351";
+    "Node: 1109
+Value: 2328" -> "Node: 1117
+Value: 267";
+    "Node: 1109
+Value: 2328" -> "Node: 1124
+Value: 654";
+    "Node: 1109
+Value: 2328" -> "Node: 1131
+Value: 522";
+    "Node: 1109
+Value: 2328" -> "Node: 1138
+Value: 801";
+    "Node: 1110
+Value: 351" -> "Node: 1111
+Value: 117";
+    "Node: 1110
+Value: 351" -> "Node: 1113
+Value: 94";
+    "Node: 1110
+Value: 351" -> "Node: 1115
+Value: 288";
+    "Node: 1111
+Value: 117" -> "Node: 1112
+Value: 39";
+    "Node: 1113
+Value: 94" -> "Node: 1114
+Value: 47";
+    "Node: 1115
+Value: 288" -> "Node: 1116
+Value: 48";
+    "Node: 1117
+Value: 267" -> "Node: 1118
+Value: 270";
+    "Node: 1117
+Value: 267" -> "Node: 1120
+Value: 39";
+    "Node: 1117
+Value: 267" -> "Node: 1122
+Value: 75";
+    "Node: 1118
+Value: 270" -> "Node: 1119
+Value: 54";
+    "Node: 1120
+Value: 39" -> "Node: 1121
+Value: 39";
+    "Node: 1122
+Value: 75" -> "Node: 1123
+Value: 15";
+    "Node: 1124
+Value: 654" -> "Node: 1125
+Value: 210";
+    "Node: 1124
+Value: 654" -> "Node: 1127
+Value: 93";
+    "Node: 1124
+Value: 654" -> "Node: 1129
+Value: 24";
+    "Node: 1125
+Value: 210" -> "Node: 1126
+Value: 42";
+    "Node: 1127
+Value: 93" -> "Node: 1128
+Value: 31";
+    "Node: 1129
+Value: 24" -> "Node: 1130
+Value: 24";
+    "Node: 1131
+Value: 522" -> "Node: 1132
+Value: 135";
+    "Node: 1131
+Value: 522" -> "Node: 1134
+Value: 66";
+    "Node: 1131
+Value: 522" -> "Node: 1136
+Value: 93";
+    "Node: 1132
+Value: 135" -> "Node: 1133
+Value: 45";
+    "Node: 1134
+Value: 66" -> "Node: 1135
+Value: 33";
+    "Node: 1136
+Value: 93" -> "Node: 1137
+Value: 31";
+    "Node: 1138
+Value: 801" -> "Node: 1139
+Value: 81";
+    "Node: 1138
+Value: 801" -> "Node: 1141
+Value: 148";
+    "Node: 1138
+Value: 801" -> "Node: 1143
+Value: 212";
+    "Node: 1139
+Value: 81" -> "Node: 1140
+Value: 27";
+    "Node: 1141
+Value: 148" -> "Node: 1142
+Value: 37";
+    "Node: 1143
+Value: 212" -> "Node: 1144
+Value: 53";
+    "Node: 1145
+Value: 3253" -> "Node: 1146
+Value: 1213";
+    "Node: 1145
+Value: 3253" -> "Node: 1182
+Value: 914";
+    "Node: 1145
+Value: 3253" -> "Node: 1211
+Value: 1250";
+    "Node: 1145
+Value: 3253" -> "Node: 1240
+Value: 2010";
+    "Node: 1145
+Value: 3253" -> "Node: 1276
+Value: 1243";
+    "Node: 1145
+Value: 3253" -> "Node: 1312
+Value: 877";
+    "Node: 1145
+Value: 3253" -> "Node: 1348
+Value: 917";
+    "Node: 1146
+Value: 1213" -> "Node: 1147
+Value: 220";
+    "Node: 1146
+Value: 1213" -> "Node: 1154
+Value: 296";
+    "Node: 1146
+Value: 1213" -> "Node: 1161
+Value: 414";
+    "Node: 1146
+Value: 1213" -> "Node: 1168
+Value: 483";
+    "Node: 1146
+Value: 1213" -> "Node: 1175
+Value: 96";
+    "Node: 1147
+Value: 220" -> "Node: 1148
+Value: 26";
+    "Node: 1147
+Value: 220" -> "Node: 1150
+Value: 84";
+    "Node: 1147
+Value: 220" -> "Node: 1152
+Value: 245";
+    "Node: 1148
+Value: 26" -> "Node: 1149
+Value: 26";
+    "Node: 1150
+Value: 84" -> "Node: 1151
+Value: 28";
+    "Node: 1152
+Value: 245" -> "Node: 1153
+Value: 49";
+    "Node: 1154
+Value: 296" -> "Node: 1155
+Value: 68";
+    "Node: 1154
+Value: 296" -> "Node: 1157
+Value: 135";
+    "Node: 1154
+Value: 296" -> "Node: 1159
+Value: 80";
+    "Node: 1155
+Value: 68" -> "Node: 1156
+Value: 34";
+    "Node: 1157
+Value: 135" -> "Node: 1158
+Value: 45";
+    "Node: 1159
+Value: 80" -> "Node: 1160
+Value: 40";
+    "Node: 1161
+Value: 414" -> "Node: 1162
+Value: 102";
+    "Node: 1161
+Value: 414" -> "Node: 1164
+Value: 88";
+    "Node: 1161
+Value: 414" -> "Node: 1166
+Value: 34";
+    "Node: 1162
+Value: 102" -> "Node: 1163
+Value: 34";
+    "Node: 1164
+Value: 88" -> "Node: 1165
+Value: 44";
+    "Node: 1166
+Value: 34" -> "Node: 1167
+Value: 34";
+    "Node: 1168
+Value: 483" -> "Node: 1169
+Value: 160";
+    "Node: 1168
+Value: 483" -> "Node: 1171
+Value: 120";
+    "Node: 1168
+Value: 483" -> "Node: 1173
+Value: 43";
+    "Node: 1169
+Value: 160" -> "Node: 1170
+Value: 40";
+    "Node: 1171
+Value: 120" -> "Node: 1172
+Value: 30";
+    "Node: 1173
+Value: 43" -> "Node: 1174
+Value: 43";
+    "Node: 1175
+Value: 96" -> "Node: 1176
+Value: 36";
+    "Node: 1175
+Value: 96" -> "Node: 1178
+Value: 66";
+    "Node: 1175
+Value: 96" -> "Node: 1180
+Value: 60";
+    "Node: 1176
+Value: 36" -> "Node: 1177
+Value: 36";
+    "Node: 1178
+Value: 66" -> "Node: 1179
+Value: 33";
+    "Node: 1180
+Value: 60" -> "Node: 1181
+Value: 30";
+    "Node: 1182
+Value: 914" -> "Node: 1183
+Value: 546";
+    "Node: 1182
+Value: 914" -> "Node: 1190
+Value: 358";
+    "Node: 1182
+Value: 914" -> "Node: 1197
+Value: 282";
+    "Node: 1182
+Value: 914" -> "Node: 1204
+Value: 368";
+    "Node: 1183
+Value: 546" -> "Node: 1184
+Value: 98";
+    "Node: 1183
+Value: 546" -> "Node: 1186
+Value: 189";
+    "Node: 1183
+Value: 546" -> "Node: 1188
+Value: 70";
+    "Node: 1184
+Value: 98" -> "Node: 1185
+Value: 49";
+    "Node: 1186
+Value: 189" -> "Node: 1187
+Value: 63";
+    "Node: 1188
+Value: 70" -> "Node: 1189
+Value: 35";
+    "Node: 1190
+Value: 358" -> "Node: 1191
+Value: 288";
+    "Node: 1190
+Value: 358" -> "Node: 1193
+Value: 70";
+    "Node: 1190
+Value: 358" -> "Node: 1195
+Value: 64";
+    "Node: 1191
+Value: 288" -> "Node: 1192
+Value: 48";
+    "Node: 1193
+Value: 70" -> "Node: 1194
+Value: 35";
+    "Node: 1195
+Value: 64" -> "Node: 1196
+Value: 32";
+    "Node: 1197
+Value: 282" -> "Node: 1198
+Value: 60";
+    "Node: 1197
+Value: 282" -> "Node: 1200
+Value: 114";
+    "Node: 1197
+Value: 282" -> "Node: 1202
+Value: 84";
+    "Node: 1198
+Value: 60" -> "Node: 1199
+Value: 20";
+    "Node: 1200
+Value: 114" -> "Node: 1201
+Value: 57";
+    "Node: 1202
+Value: 84" -> "Node: 1203
+Value: 42";
+    "Node: 1204
+Value: 368" -> "Node: 1205
+Value: 58";
+    "Node: 1204
+Value: 368" -> "Node: 1207
+Value: 84";
+    "Node: 1204
+Value: 368" -> "Node: 1209
+Value: 88";
+    "Node: 1205
+Value: 58" -> "Node: 1206
+Value: 29";
+    "Node: 1207
+Value: 84" -> "Node: 1208
+Value: 28";
+    "Node: 1209
+Value: 88" -> "Node: 1210
+Value: 44";
+    "Node: 1211
+Value: 1250" -> "Node: 1212
+Value: 858";
+    "Node: 1211
+Value: 1250" -> "Node: 1219
+Value: 271";
+    "Node: 1211
+Value: 1250" -> "Node: 1226
+Value: 490";
+    "Node: 1211
+Value: 1250" -> "Node: 1233
+Value: 489";
+    "Node: 1212
+Value: 858" -> "Node: 1213
+Value: 204";
+    "Node: 1212
+Value: 858" -> "Node: 1215
+Value: 225";
+    "Node: 1212
+Value: 858" -> "Node: 1217
+Value: 204";
+    "Node: 1213
+Value: 204" -> "Node: 1214
+Value: 51";
+    "Node: 1215
+Value: 225" -> "Node: 1216
+Value: 45";
+    "Node: 1217
+Value: 204" -> "Node: 1218
+Value: 34";
+    "Node: 1219
+Value: 271" -> "Node: 1220
+Value: 104";
+    "Node: 1219
+Value: 271" -> "Node: 1222
+Value: 105";
+    "Node: 1219
+Value: 271" -> "Node: 1224
+Value: 62";
+    "Node: 1220
+Value: 104" -> "Node: 1221
+Value: 52";
+    "Node: 1222
+Value: 105" -> "Node: 1223
+Value: 35";
+    "Node: 1224
+Value: 62" -> "Node: 1225
+Value: 62";
+    "Node: 1226
+Value: 490" -> "Node: 1227
+Value: 50";
+    "Node: 1226
+Value: 490" -> "Node: 1229
+Value: 50";
+    "Node: 1226
+Value: 490" -> "Node: 1231
+Value: 130";
+    "Node: 1227
+Value: 50" -> "Node: 1228
+Value: 50";
+    "Node: 1229
+Value: 50" -> "Node: 1230
+Value: 25";
+    "Node: 1231
+Value: 130" -> "Node: 1232
+Value: 26";
+    "Node: 1233
+Value: 489" -> "Node: 1234
+Value: 129";
+    "Node: 1233
+Value: 489" -> "Node: 1236
+Value: 76";
+    "Node: 1233
+Value: 489" -> "Node: 1238
+Value: 104";
+    "Node: 1234
+Value: 129" -> "Node: 1235
+Value: 43";
+    "Node: 1236
+Value: 76" -> "Node: 1237
+Value: 19";
+    "Node: 1238
+Value: 104" -> "Node: 1239
+Value: 52";
+    "Node: 1240
+Value: 2010" -> "Node: 1241
+Value: 643";
+    "Node: 1240
+Value: 2010" -> "Node: 1248
+Value: 159";
+    "Node: 1240
+Value: 2010" -> "Node: 1255
+Value: 311";
+    "Node: 1240
+Value: 2010" -> "Node: 1262
+Value: 908";
+    "Node: 1240
+Value: 2010" -> "Node: 1269
+Value: 564";
+    "Node: 1241
+Value: 643" -> "Node: 1242
+Value: 138";
+    "Node: 1241
+Value: 643" -> "Node: 1244
+Value: 175";
+    "Node: 1241
+Value: 643" -> "Node: 1246
+Value: 192";
+    "Node: 1242
+Value: 138" -> "Node: 1243
+Value: 46";
+    "Node: 1244
+Value: 175" -> "Node: 1245
+Value: 35";
+    "Node: 1246
+Value: 192" -> "Node: 1247
+Value: 48";
+    "Node: 1248
+Value: 159" -> "Node: 1249
+Value: 75";
+    "Node: 1248
+Value: 159" -> "Node: 1251
+Value: 84";
+    "Node: 1248
+Value: 159" -> "Node: 1253
+Value: 84";
+    "Node: 1249
+Value: 75" -> "Node: 1250
+Value: 25";
+    "Node: 1251
+Value: 84" -> "Node: 1252
+Value: 28";
+    "Node: 1253
+Value: 84" -> "Node: 1254
+Value: 42";
+    "Node: 1255
+Value: 311" -> "Node: 1256
+Value: 84";
+    "Node: 1255
+Value: 311" -> "Node: 1258
+Value: 33";
+    "Node: 1255
+Value: 311" -> "Node: 1260
+Value: 110";
+    "Node: 1256
+Value: 84" -> "Node: 1257
+Value: 42";
+    "Node: 1258
+Value: 33" -> "Node: 1259
+Value: 33";
+    "Node: 1260
+Value: 110" -> "Node: 1261
+Value: 55";
+    "Node: 1262
+Value: 908" -> "Node: 1263
+Value: 168";
+    "Node: 1262
+Value: 908" -> "Node: 1265
+Value: 62";
+    "Node: 1262
+Value: 908" -> "Node: 1267
+Value: 255";
+    "Node: 1263
+Value: 168" -> "Node: 1264
+Value: 56";
+    "Node: 1265
+Value: 62" -> "Node: 1266
+Value: 31";
+    "Node: 1267
+Value: 255" -> "Node: 1268
+Value: 51";
+    "Node: 1269
+Value: 564" -> "Node: 1270
+Value: 102";
+    "Node: 1269
+Value: 564" -> "Node: 1272
+Value: 138";
+    "Node: 1269
+Value: 564" -> "Node: 1274
+Value: 162";
+    "Node: 1270
+Value: 102" -> "Node: 1271
+Value: 34";
+    "Node: 1272
+Value: 138" -> "Node: 1273
+Value: 46";
+    "Node: 1274
+Value: 162" -> "Node: 1275
+Value: 27";
+    "Node: 1276
+Value: 1243" -> "Node: 1277
+Value: 437";
+    "Node: 1276
+Value: 1243" -> "Node: 1284
+Value: 236";
+    "Node: 1276
+Value: 1243" -> "Node: 1291
+Value: 570";
+    "Node: 1276
+Value: 1243" -> "Node: 1298
+Value: 715";
+    "Node: 1276
+Value: 1243" -> "Node: 1305
+Value: 676";
+    "Node: 1277
+Value: 437" -> "Node: 1278
+Value: 50";
+    "Node: 1277
+Value: 437" -> "Node: 1280
+Value: 129";
+    "Node: 1277
+Value: 437" -> "Node: 1282
+Value: 144";
+    "Node: 1278
+Value: 50" -> "Node: 1279
+Value: 25";
+    "Node: 1280
+Value: 129" -> "Node: 1281
+Value: 43";
+    "Node: 1282
+Value: 144" -> "Node: 1283
+Value: 48";
+    "Node: 1284
+Value: 236" -> "Node: 1285
+Value: 64";
+    "Node: 1284
+Value: 236" -> "Node: 1287
+Value: 78";
+    "Node: 1284
+Value: 236" -> "Node: 1289
+Value: 94";
+    "Node: 1285
+Value: 64" -> "Node: 1286
+Value: 32";
+    "Node: 1287
+Value: 78" -> "Node: 1288
+Value: 26";
+    "Node: 1289
+Value: 94" -> "Node: 1290
+Value: 47";
+    "Node: 1291
+Value: 570" -> "Node: 1292
+Value: 126";
+    "Node: 1291
+Value: 570" -> "Node: 1294
+Value: 52";
+    "Node: 1291
+Value: 570" -> "Node: 1296
+Value: 96";
+    "Node: 1292
+Value: 126" -> "Node: 1293
+Value: 42";
+    "Node: 1294
+Value: 52" -> "Node: 1295
+Value: 26";
+    "Node: 1296
+Value: 96" -> "Node: 1297
+Value: 32";
+    "Node: 1298
+Value: 715" -> "Node: 1299
+Value: 120";
+    "Node: 1298
+Value: 715" -> "Node: 1301
+Value: 175";
+    "Node: 1298
+Value: 715" -> "Node: 1303
+Value: 70";
+    "Node: 1299
+Value: 120" -> "Node: 1300
+Value: 40";
+    "Node: 1301
+Value: 175" -> "Node: 1302
+Value: 35";
+    "Node: 1303
+Value: 70" -> "Node: 1304
+Value: 35";
+    "Node: 1305
+Value: 676" -> "Node: 1306
+Value: 38";
+    "Node: 1305
+Value: 676" -> "Node: 1308
+Value: 108";
+    "Node: 1305
+Value: 676" -> "Node: 1310
+Value: 230";
+    "Node: 1306
+Value: 38" -> "Node: 1307
+Value: 19";
+    "Node: 1308
+Value: 108" -> "Node: 1309
+Value: 54";
+    "Node: 1310
+Value: 230" -> "Node: 1311
+Value: 46";
+    "Node: 1312
+Value: 877" -> "Node: 1313
+Value: 195";
+    "Node: 1312
+Value: 877" -> "Node: 1320
+Value: 138";
+    "Node: 1312
+Value: 877" -> "Node: 1327
+Value: 468";
+    "Node: 1312
+Value: 877" -> "Node: 1334
+Value: 214";
+    "Node: 1312
+Value: 877" -> "Node: 1341
+Value: 148";
+    "Node: 1313
+Value: 195" -> "Node: 1314
+Value: 60";
+    "Node: 1313
+Value: 195" -> "Node: 1316
+Value: 114";
+    "Node: 1313
+Value: 195" -> "Node: 1318
+Value: 81";
+    "Node: 1314
+Value: 60" -> "Node: 1315
+Value: 30";
+    "Node: 1316
+Value: 114" -> "Node: 1317
+Value: 38";
+    "Node: 1318
+Value: 81" -> "Node: 1319
+Value: 27";
+    "Node: 1320
+Value: 138" -> "Node: 1321
+Value: 32";
+    "Node: 1320
+Value: 138" -> "Node: 1323
+Value: 74";
+    "Node: 1320
+Value: 138" -> "Node: 1325
+Value: 135";
+    "Node: 1321
+Value: 32" -> "Node: 1322
+Value: 16";
+    "Node: 1323
+Value: 74" -> "Node: 1324
+Value: 37";
+    "Node: 1325
+Value: 135" -> "Node: 1326
+Value: 45";
+    "Node: 1327
+Value: 468" -> "Node: 1328
+Value: 102";
+    "Node: 1327
+Value: 468" -> "Node: 1330
+Value: 88";
+    "Node: 1327
+Value: 468" -> "Node: 1332
+Value: 138";
+    "Node: 1328
+Value: 102" -> "Node: 1329
+Value: 34";
+    "Node: 1330
+Value: 88" -> "Node: 1331
+Value: 44";
+    "Node: 1332
+Value: 138" -> "Node: 1333
+Value: 46";
+    "Node: 1334
+Value: 214" -> "Node: 1335
+Value: 105";
+    "Node: 1334
+Value: 214" -> "Node: 1337
+Value: 34";
+    "Node: 1334
+Value: 214" -> "Node: 1339
+Value: 112";
+    "Node: 1335
+Value: 105" -> "Node: 1336
+Value: 35";
+    "Node: 1337
+Value: 34" -> "Node: 1338
+Value: 34";
+    "Node: 1339
+Value: 112" -> "Node: 1340
+Value: 56";
+    "Node: 1341
+Value: 148" -> "Node: 1342
+Value: 82";
+    "Node: 1341
+Value: 148" -> "Node: 1344
+Value: 66";
+    "Node: 1341
+Value: 148" -> "Node: 1346
+Value: 66";
+    "Node: 1342
+Value: 82" -> "Node: 1343
+Value: 41";
+    "Node: 1344
+Value: 66" -> "Node: 1345
+Value: 33";
+    "Node: 1346
+Value: 66" -> "Node: 1347
+Value: 33";
+    "Node: 1348
+Value: 917" -> "Node: 1349
+Value: 168";
+    "Node: 1348
+Value: 917" -> "Node: 1356
+Value: 749";
+    "Node: 1348
+Value: 917" -> "Node: 1363
+Value: 365";
+    "Node: 1348
+Value: 917" -> "Node: 1370
+Value: 62";
+    "Node: 1348
+Value: 917" -> "Node: 1377
+Value: 384";
+    "Node: 1349
+Value: 168" -> "Node: 1350
+Value: 168";
+    "Node: 1349
+Value: 168" -> "Node: 1352
+Value: 28";
+    "Node: 1349
+Value: 168" -> "Node: 1354
+Value: 112";
+    "Node: 1350
+Value: 168" -> "Node: 1351
+Value: 56";
+    "Node: 1352
+Value: 28" -> "Node: 1353
+Value: 28";
+    "Node: 1354
+Value: 112" -> "Node: 1355
+Value: 56";
+    "Node: 1356
+Value: 749" -> "Node: 1357
+Value: 246";
+    "Node: 1356
+Value: 749" -> "Node: 1359
+Value: 117";
+    "Node: 1356
+Value: 749" -> "Node: 1361
+Value: 140";
+    "Node: 1357
+Value: 246" -> "Node: 1358
+Value: 41";
+    "Node: 1359
+Value: 117" -> "Node: 1360
+Value: 39";
+    "Node: 1361
+Value: 140" -> "Node: 1362
+Value: 35";
+    "Node: 1363
+Value: 365" -> "Node: 1364
+Value: 230";
+    "Node: 1363
+Value: 365" -> "Node: 1366
+Value: 93";
+    "Node: 1363
+Value: 365" -> "Node: 1368
+Value: 135";
+    "Node: 1364
+Value: 230" -> "Node: 1365
+Value: 46";
+    "Node: 1366
+Value: 93" -> "Node: 1367
+Value: 31";
+    "Node: 1368
+Value: 135" -> "Node: 1369
+Value: 45";
+    "Node: 1370
+Value: 62" -> "Node: 1371
+Value: 70";
+    "Node: 1370
+Value: 62" -> "Node: 1373
+Value: 160";
+    "Node: 1370
+Value: 62" -> "Node: 1375
+Value: 62";
+    "Node: 1371
+Value: 70" -> "Node: 1372
+Value: 35";
+    "Node: 1373
+Value: 160" -> "Node: 1374
+Value: 32";
+    "Node: 1375
+Value: 62" -> "Node: 1376
+Value: 31";
+    "Node: 1377
+Value: 384" -> "Node: 1378
+Value: 106";
+    "Node: 1377
+Value: 384" -> "Node: 1380
+Value: 192";
+    "Node: 1377
+Value: 384" -> "Node: 1382
+Value: 50";
+    "Node: 1378
+Value: 106" -> "Node: 1379
+Value: 53";
+    "Node: 1380
+Value: 192" -> "Node: 1381
+Value: 32";
+    "Node: 1382
+Value: 50" -> "Node: 1383
+Value: 50";
+    "Node: 1384
+Value: 1515" -> "Node: 1385
+Value: 1354";
+    "Node: 1384
+Value: 1515" -> "Node: 1421
+Value: 1009";
+    "Node: 1384
+Value: 1515" -> "Node: 1450
+Value: 1284";
+    "Node: 1384
+Value: 1515" -> "Node: 1486
+Value: 1117";
+    "Node: 1384
+Value: 1515" -> "Node: 1522
+Value: 1515";
+    "Node: 1384
+Value: 1515" -> "Node: 1558
+Value: 2465";
+    "Node: 1385
+Value: 1354" -> "Node: 1386
+Value: 299";
+    "Node: 1385
+Value: 1354" -> "Node: 1393
+Value: 597";
+    "Node: 1385
+Value: 1354" -> "Node: 1400
+Value: 354";
+    "Node: 1385
+Value: 1354" -> "Node: 1407
+Value: 862";
+    "Node: 1385
+Value: 1354" -> "Node: 1414
+Value: 138";
+    "Node: 1386
+Value: 299" -> "Node: 1387
+Value: 80";
+    "Node: 1386
+Value: 299" -> "Node: 1389
+Value: 195";
+    "Node: 1386
+Value: 299" -> "Node: 1391
+Value: 52";
+    "Node: 1387
+Value: 80" -> "Node: 1388
+Value: 20";
+    "Node: 1389
+Value: 195" -> "Node: 1390
+Value: 39";
+    "Node: 1391
+Value: 52" -> "Node: 1392
+Value: 52";
+    "Node: 1393
+Value: 597" -> "Node: 1394
+Value: 52";
+    "Node: 1393
+Value: 597" -> "Node: 1396
+Value: 141";
+    "Node: 1393
+Value: 597" -> "Node: 1398
+Value: 152";
+    "Node: 1394
+Value: 52" -> "Node: 1395
+Value: 26";
+    "Node: 1396
+Value: 141" -> "Node: 1397
+Value: 47";
+    "Node: 1398
+Value: 152" -> "Node: 1399
+Value: 38";
+    "Node: 1400
+Value: 354" -> "Node: 1401
+Value: 88";
+    "Node: 1400
+Value: 354" -> "Node: 1403
+Value: 138";
+    "Node: 1400
+Value: 354" -> "Node: 1405
+Value: 64";
+    "Node: 1401
+Value: 88" -> "Node: 1402
+Value: 22";
+    "Node: 1403
+Value: 138" -> "Node: 1404
+Value: 46";
+    "Node: 1405
+Value: 64" -> "Node: 1406
+Value: 32";
+    "Node: 1407
+Value: 862" -> "Node: 1408
+Value: 260";
+    "Node: 1407
+Value: 862" -> "Node: 1410
+Value: 94";
+    "Node: 1407
+Value: 862" -> "Node: 1412
+Value: 248";
+    "Node: 1408
+Value: 260" -> "Node: 1409
+Value: 52";
+    "Node: 1410
+Value: 94" -> "Node: 1411
+Value: 47";
+    "Node: 1412
+Value: 248" -> "Node: 1413
+Value: 62";
+    "Node: 1414
+Value: 138" -> "Node: 1415
+Value: 138";
+    "Node: 1414
+Value: 138" -> "Node: 1417
+Value: 56";
+    "Node: 1414
+Value: 138" -> "Node: 1419
+Value: 180";
+    "Node: 1415
+Value: 138" -> "Node: 1416
+Value: 46";
+    "Node: 1417
+Value: 56" -> "Node: 1418
+Value: 28";
+    "Node: 1419
+Value: 180" -> "Node: 1420
+Value: 36";
+    "Node: 1421
+Value: 1009" -> "Node: 1422
+Value: 279";
+    "Node: 1421
+Value: 1009" -> "Node: 1429
+Value: 705";
+    "Node: 1421
+Value: 1009" -> "Node: 1436
+Value: 411";
+    "Node: 1421
+Value: 1009" -> "Node: 1443
+Value: 304";
+    "Node: 1422
+Value: 279" -> "Node: 1423
+Value: 111";
+    "Node: 1422
+Value: 279" -> "Node: 1425
+Value: 162";
+    "Node: 1422
+Value: 279" -> "Node: 1427
+Value: 84";
+    "Node: 1423
+Value: 111" -> "Node: 1424
+Value: 37";
+    "Node: 1425
+Value: 162" -> "Node: 1426
+Value: 54";
+    "Node: 1427
+Value: 84" -> "Node: 1428
+Value: 42";
+    "Node: 1429
+Value: 705" -> "Node: 1430
+Value: 111";
+    "Node: 1429
+Value: 705" -> "Node: 1432
+Value: 234";
+    "Node: 1429
+Value: 705" -> "Node: 1434
+Value: 180";
+    "Node: 1430
+Value: 111" -> "Node: 1431
+Value: 37";
+    "Node: 1432
+Value: 234" -> "Node: 1433
+Value: 39";
+    "Node: 1434
+Value: 180" -> "Node: 1435
+Value: 45";
+    "Node: 1436
+Value: 411" -> "Node: 1437
+Value: 183";
+    "Node: 1436
+Value: 411" -> "Node: 1439
+Value: 123";
+    "Node: 1436
+Value: 411" -> "Node: 1441
+Value: 45";
+    "Node: 1437
+Value: 183" -> "Node: 1438
+Value: 61";
+    "Node: 1439
+Value: 123" -> "Node: 1440
+Value: 41";
+    "Node: 1441
+Value: 45" -> "Node: 1442
+Value: 45";
+    "Node: 1443
+Value: 304" -> "Node: 1444
+Value: 152";
+    "Node: 1443
+Value: 304" -> "Node: 1446
+Value: 104";
+    "Node: 1443
+Value: 304" -> "Node: 1448
+Value: 32";
+    "Node: 1444
+Value: 152" -> "Node: 1445
+Value: 38";
+    "Node: 1446
+Value: 104" -> "Node: 1447
+Value: 26";
+    "Node: 1448
+Value: 32" -> "Node: 1449
+Value: 32";
+    "Node: 1450
+Value: 1284" -> "Node: 1451
+Value: 716";
+    "Node: 1450
+Value: 1284" -> "Node: 1458
+Value: 256";
+    "Node: 1450
+Value: 1284" -> "Node: 1465
+Value: 212";
+    "Node: 1450
+Value: 1284" -> "Node: 1472
+Value: 304";
+    "Node: 1450
+Value: 1284" -> "Node: 1479
+Value: 326";
+    "Node: 1451
+Value: 716" -> "Node: 1452
+Value: 236";
+    "Node: 1451
+Value: 716" -> "Node: 1454
+Value: 144";
+    "Node: 1451
+Value: 716" -> "Node: 1456
+Value: 50";
+    "Node: 1452
+Value: 236" -> "Node: 1453
+Value: 59";
+    "Node: 1454
+Value: 144" -> "Node: 1455
+Value: 48";
+    "Node: 1456
+Value: 50" -> "Node: 1457
+Value: 50";
+    "Node: 1458
+Value: 256" -> "Node: 1459
+Value: 58";
+    "Node: 1458
+Value: 256" -> "Node: 1461
+Value: 96";
+    "Node: 1458
+Value: 256" -> "Node: 1463
+Value: 102";
+    "Node: 1459
+Value: 58" -> "Node: 1460
+Value: 29";
+    "Node: 1461
+Value: 96" -> "Node: 1462
+Value: 32";
+    "Node: 1463
+Value: 102" -> "Node: 1464
+Value: 34";
+    "Node: 1465
+Value: 212" -> "Node: 1466
+Value: 96";
+    "Node: 1465
+Value: 212" -> "Node: 1468
+Value: 170";
+    "Node: 1465
+Value: 212" -> "Node: 1470
+Value: 42";
+    "Node: 1466
+Value: 96" -> "Node: 1467
+Value: 32";
+    "Node: 1468
+Value: 170" -> "Node: 1469
+Value: 34";
+    "Node: 1470
+Value: 42" -> "Node: 1471
+Value: 21";
+    "Node: 1472
+Value: 304" -> "Node: 1473
+Value: 32";
+    "Node: 1472
+Value: 304" -> "Node: 1475
+Value: 105";
+    "Node: 1472
+Value: 304" -> "Node: 1477
+Value: 62";
+    "Node: 1473
+Value: 32" -> "Node: 1474
+Value: 32";
+    "Node: 1475
+Value: 105" -> "Node: 1476
+Value: 35";
+    "Node: 1477
+Value: 62" -> "Node: 1478
+Value: 31";
+    "Node: 1479
+Value: 326" -> "Node: 1480
+Value: 82";
+    "Node: 1479
+Value: 326" -> "Node: 1482
+Value: 94";
+    "Node: 1479
+Value: 326" -> "Node: 1484
+Value: 150";
+    "Node: 1480
+Value: 82" -> "Node: 1481
+Value: 41";
+    "Node: 1482
+Value: 94" -> "Node: 1483
+Value: 47";
+    "Node: 1484
+Value: 150" -> "Node: 1485
+Value: 30";
+    "Node: 1486
+Value: 1117" -> "Node: 1487
+Value: 356";
+    "Node: 1486
+Value: 1117" -> "Node: 1494
+Value: 385";
+    "Node: 1486
+Value: 1117" -> "Node: 1501
+Value: 596";
+    "Node: 1486
+Value: 1117" -> "Node: 1508
+Value: 376";
+    "Node: 1486
+Value: 1117" -> "Node: 1515
+Value: 552";
+    "Node: 1487
+Value: 356" -> "Node: 1488
+Value: 141";
+    "Node: 1487
+Value: 356" -> "Node: 1490
+Value: 74";
+    "Node: 1487
+Value: 356" -> "Node: 1492
+Value: 171";
+    "Node: 1488
+Value: 141" -> "Node: 1489
+Value: 47";
+    "Node: 1490
+Value: 74" -> "Node: 1491
+Value: 37";
+    "Node: 1492
+Value: 171" -> "Node: 1493
+Value: 57";
+    "Node: 1494
+Value: 385" -> "Node: 1495
+Value: 135";
+    "Node: 1494
+Value: 385" -> "Node: 1497
+Value: 49";
+    "Node: 1494
+Value: 385" -> "Node: 1499
+Value: 76";
+    "Node: 1495
+Value: 135" -> "Node: 1496
+Value: 27";
+    "Node: 1497
+Value: 49" -> "Node: 1498
+Value: 49";
+    "Node: 1499
+Value: 76" -> "Node: 1500
+Value: 38";
+    "Node: 1501
+Value: 596" -> "Node: 1502
+Value: 72";
+    "Node: 1501
+Value: 596" -> "Node: 1504
+Value: 116";
+    "Node: 1501
+Value: 596" -> "Node: 1506
+Value: 112";
+    "Node: 1502
+Value: 72" -> "Node: 1503
+Value: 36";
+    "Node: 1504
+Value: 116" -> "Node: 1505
+Value: 58";
+    "Node: 1506
+Value: 112" -> "Node: 1507
+Value: 56";
+    "Node: 1508
+Value: 376" -> "Node: 1509
+Value: 76";
+    "Node: 1508
+Value: 376" -> "Node: 1511
+Value: 148";
+    "Node: 1508
+Value: 376" -> "Node: 1513
+Value: 63";
+    "Node: 1509
+Value: 76" -> "Node: 1510
+Value: 38";
+    "Node: 1511
+Value: 148" -> "Node: 1512
+Value: 37";
+    "Node: 1513
+Value: 63" -> "Node: 1514
+Value: 21";
+    "Node: 1515
+Value: 552" -> "Node: 1516
+Value: 81";
+    "Node: 1515
+Value: 552" -> "Node: 1518
+Value: 132";
+    "Node: 1515
+Value: 552" -> "Node: 1520
+Value: 45";
+    "Node: 1516
+Value: 81" -> "Node: 1517
+Value: 27";
+    "Node: 1518
+Value: 132" -> "Node: 1519
+Value: 33";
+    "Node: 1520
+Value: 45" -> "Node: 1521
+Value: 45";
+    "Node: 1522
+Value: 1515" -> "Node: 1523
+Value: 382";
+    "Node: 1522
+Value: 1515" -> "Node: 1530
+Value: 743";
+    "Node: 1522
+Value: 1515" -> "Node: 1537
+Value: 356";
+    "Node: 1522
+Value: 1515" -> "Node: 1544
+Value: 528";
+    "Node: 1522
+Value: 1515" -> "Node: 1551
+Value: 416";
+    "Node: 1523
+Value: 382" -> "Node: 1524
+Value: 82";
+    "Node: 1523
+Value: 382" -> "Node: 1526
+Value: 240";
+    "Node: 1523
+Value: 382" -> "Node: 1528
+Value: 60";
+    "Node: 1524
+Value: 82" -> "Node: 1525
+Value: 41";
+    "Node: 1526
+Value: 240" -> "Node: 1527
+Value: 48";
+    "Node: 1528
+Value: 60" -> "Node: 1529
+Value: 30";
+    "Node: 1530
+Value: 743" -> "Node: 1531
+Value: 160";
+    "Node: 1530
+Value: 743" -> "Node: 1533
+Value: 28";
+    "Node: 1530
+Value: 743" -> "Node: 1535
+Value: 141";
+    "Node: 1531
+Value: 160" -> "Node: 1532
+Value: 40";
+    "Node: 1533
+Value: 28" -> "Node: 1534
+Value: 28";
+    "Node: 1535
+Value: 141" -> "Node: 1536
+Value: 47";
+    "Node: 1537
+Value: 356" -> "Node: 1538
+Value: 82";
+    "Node: 1537
+Value: 356" -> "Node: 1540
+Value: 96";
+    "Node: 1537
+Value: 356" -> "Node: 1542
+Value: 162";
+    "Node: 1538
+Value: 82" -> "Node: 1539
+Value: 41";
+    "Node: 1540
+Value: 96" -> "Node: 1541
+Value: 48";
+    "Node: 1542
+Value: 162" -> "Node: 1543
+Value: 54";
+    "Node: 1544
+Value: 528" -> "Node: 1545
+Value: 88";
+    "Node: 1544
+Value: 528" -> "Node: 1547
+Value: 123";
+    "Node: 1544
+Value: 528" -> "Node: 1549
+Value: 36";
+    "Node: 1545
+Value: 88" -> "Node: 1546
+Value: 44";
+    "Node: 1547
+Value: 123" -> "Node: 1548
+Value: 41";
+    "Node: 1549
+Value: 36" -> "Node: 1550
+Value: 36";
+    "Node: 1551
+Value: 416" -> "Node: 1552
+Value: 116";
+    "Node: 1551
+Value: 416" -> "Node: 1554
+Value: 44";
+    "Node: 1551
+Value: 416" -> "Node: 1556
+Value: 92";
+    "Node: 1552
+Value: 116" -> "Node: 1553
+Value: 29";
+    "Node: 1554
+Value: 44" -> "Node: 1555
+Value: 22";
+    "Node: 1556
+Value: 92" -> "Node: 1557
+Value: 23";
+    "Node: 1558
+Value: 2465" -> "Node: 1559
+Value: 766";
+    "Node: 1558
+Value: 2465" -> "Node: 1566
+Value: 933";
+    "Node: 1558
+Value: 2465" -> "Node: 1573
+Value: 132";
+    "Node: 1558
+Value: 2465" -> "Node: 1580
+Value: 162";
+    "Node: 1559
+Value: 766" -> "Node: 1560
+Value: 135";
+    "Node: 1559
+Value: 766" -> "Node: 1562
+Value: 27";
+    "Node: 1559
+Value: 766" -> "Node: 1564
+Value: 275";
+    "Node: 1560
+Value: 135" -> "Node: 1561
+Value: 45";
+    "Node: 1562
+Value: 27" -> "Node: 1563
+Value: 27";
+    "Node: 1564
+Value: 275" -> "Node: 1565
+Value: 55";
+    "Node: 1566
+Value: 933" -> "Node: 1567
+Value: 41";
+    "Node: 1566
+Value: 933" -> "Node: 1569
+Value: 76";
+    "Node: 1566
+Value: 933" -> "Node: 1571
+Value: 270";
+    "Node: 1567
+Value: 41" -> "Node: 1568
+Value: 41";
+    "Node: 1569
+Value: 76" -> "Node: 1570
+Value: 38";
+    "Node: 1571
+Value: 270" -> "Node: 1572
+Value: 45";
+    "Node: 1573
+Value: 132" -> "Node: 1574
+Value: 192";
+    "Node: 1573
+Value: 132" -> "Node: 1576
+Value: 164";
+    "Node: 1573
+Value: 132" -> "Node: 1578
+Value: 132";
+    "Node: 1574
+Value: 192" -> "Node: 1575
+Value: 48";
+    "Node: 1576
+Value: 164" -> "Node: 1577
+Value: 41";
+    "Node: 1578
+Value: 132" -> "Node: 1579
+Value: 44";
+    "Node: 1580
+Value: 162" -> "Node: 1581
+Value: 60";
+    "Node: 1580
+Value: 162" -> "Node: 1583
+Value: 153";
+    "Node: 1580
+Value: 162" -> "Node: 1585
+Value: 102";
+    "Node: 1581
+Value: 60" -> "Node: 1582
+Value: 20";
+    "Node: 1583
+Value: 153" -> "Node: 1584
+Value: 51";
+    "Node: 1585
+Value: 102" -> "Node: 1586
+Value: 34";
+    "Node: 1587
+Value: 3279" -> "Node: 1588
+Value: 1439";
+    "Node: 1587
+Value: 3279" -> "Node: 1617
+Value: 980";
+    "Node: 1587
+Value: 3279" -> "Node: 1653
+Value: 373";
+    "Node: 1587
+Value: 3279" -> "Node: 1689
+Value: 280";
+    "Node: 1587
+Value: 3279" -> "Node: 1725
+Value: 1038";
+    "Node: 1587
+Value: 3279" -> "Node: 1761
+Value: 1424";
+    "Node: 1587
+Value: 3279" -> "Node: 1797
+Value: 2241";
+    "Node: 1588
+Value: 1439" -> "Node: 1589
+Value: 341";
+    "Node: 1588
+Value: 1439" -> "Node: 1596
+Value: 334";
+    "Node: 1588
+Value: 1439" -> "Node: 1603
+Value: 198";
+    "Node: 1588
+Value: 1439" -> "Node: 1610
+Value: 232";
+    "Node: 1589
+Value: 341" -> "Node: 1590
+Value: 50";
+    "Node: 1589
+Value: 341" -> "Node: 1592
+Value: 225";
+    "Node: 1589
+Value: 341" -> "Node: 1594
+Value: 66";
+    "Node: 1590
+Value: 50" -> "Node: 1591
+Value: 25";
+    "Node: 1592
+Value: 225" -> "Node: 1593
+Value: 45";
+    "Node: 1594
+Value: 66" -> "Node: 1595
+Value: 33";
+    "Node: 1596
+Value: 334" -> "Node: 1597
+Value: 86";
+    "Node: 1596
+Value: 334" -> "Node: 1599
+Value: 156";
+    "Node: 1596
+Value: 334" -> "Node: 1601
+Value: 124";
+    "Node: 1597
+Value: 86" -> "Node: 1598
+Value: 43";
+    "Node: 1599
+Value: 156" -> "Node: 1600
+Value: 52";
+    "Node: 1601
+Value: 124" -> "Node: 1602
+Value: 31";
+    "Node: 1603
+Value: 198" -> "Node: 1604
+Value: 20";
+    "Node: 1603
+Value: 198" -> "Node: 1606
+Value: 60";
+    "Node: 1603
+Value: 198" -> "Node: 1608
+Value: 69";
+    "Node: 1604
+Value: 20" -> "Node: 1605
+Value: 20";
+    "Node: 1606
+Value: 60" -> "Node: 1607
+Value: 30";
+    "Node: 1608
+Value: 69" -> "Node: 1609
+Value: 23";
+    "Node: 1610
+Value: 232" -> "Node: 1611
+Value: 171";
+    "Node: 1610
+Value: 232" -> "Node: 1613
+Value: 172";
+    "Node: 1610
+Value: 232" -> "Node: 1615
+Value: 60";
+    "Node: 1611
+Value: 171" -> "Node: 1612
+Value: 57";
+    "Node: 1613
+Value: 172" -> "Node: 1614
+Value: 43";
+    "Node: 1615
+Value: 60" -> "Node: 1616
+Value: 30";
+    "Node: 1617
+Value: 980" -> "Node: 1618
+Value: 486";
+    "Node: 1617
+Value: 980" -> "Node: 1625
+Value: 390";
+    "Node: 1617
+Value: 980" -> "Node: 1632
+Value: 753";
+    "Node: 1617
+Value: 980" -> "Node: 1639
+Value: 104";
+    "Node: 1617
+Value: 980" -> "Node: 1646
+Value: 537";
+    "Node: 1618
+Value: 486" -> "Node: 1619
+Value: 126";
+    "Node: 1618
+Value: 486" -> "Node: 1621
+Value: 108";
+    "Node: 1618
+Value: 486" -> "Node: 1623
+Value: 210";
+    "Node: 1619
+Value: 126" -> "Node: 1620
+Value: 42";
+    "Node: 1621
+Value: 108" -> "Node: 1622
+Value: 36";
+    "Node: 1623
+Value: 210" -> "Node: 1624
+Value: 42";
+    "Node: 1625
+Value: 390" -> "Node: 1626
+Value: 78";
+    "Node: 1625
+Value: 390" -> "Node: 1628
+Value: 78";
+    "Node: 1625
+Value: 390" -> "Node: 1630
+Value: 40";
+    "Node: 1626
+Value: 78" -> "Node: 1627
+Value: 26";
+    "Node: 1628
+Value: 78" -> "Node: 1629
+Value: 26";
+    "Node: 1630
+Value: 40" -> "Node: 1631
+Value: 20";
+    "Node: 1632
+Value: 753" -> "Node: 1633
+Value: 189";
+    "Node: 1632
+Value: 753" -> "Node: 1635
+Value: 92";
+    "Node: 1632
+Value: 753" -> "Node: 1637
+Value: 188";
+    "Node: 1633
+Value: 189" -> "Node: 1634
+Value: 63";
+    "Node: 1635
+Value: 92" -> "Node: 1636
+Value: 46";
+    "Node: 1637
+Value: 188" -> "Node: 1638
+Value: 47";
+    "Node: 1639
+Value: 104" -> "Node: 1640
+Value: 70";
+    "Node: 1639
+Value: 104" -> "Node: 1642
+Value: 62";
+    "Node: 1639
+Value: 104" -> "Node: 1644
+Value: 34";
+    "Node: 1640
+Value: 70" -> "Node: 1641
+Value: 35";
+    "Node: 1642
+Value: 62" -> "Node: 1643
+Value: 31";
+    "Node: 1644
+Value: 34" -> "Node: 1645
+Value: 34";
+    "Node: 1646
+Value: 537" -> "Node: 1647
+Value: 72";
+    "Node: 1646
+Value: 537" -> "Node: 1649
+Value: 130";
+    "Node: 1646
+Value: 537" -> "Node: 1651
+Value: 205";
+    "Node: 1647
+Value: 72" -> "Node: 1648
+Value: 36";
+    "Node: 1649
+Value: 130" -> "Node: 1650
+Value: 26";
+    "Node: 1651
+Value: 205" -> "Node: 1652
+Value: 41";
+    "Node: 1653
+Value: 373" -> "Node: 1654
+Value: 373";
+    "Node: 1653
+Value: 373" -> "Node: 1661
+Value: 342";
+    "Node: 1653
+Value: 373" -> "Node: 1668
+Value: 534";
+    "Node: 1653
+Value: 373" -> "Node: 1675
+Value: 276";
+    "Node: 1653
+Value: 373" -> "Node: 1682
+Value: 551";
+    "Node: 1654
+Value: 373" -> "Node: 1655
+Value: 175";
+    "Node: 1654
+Value: 373" -> "Node: 1657
+Value: 99";
+    "Node: 1654
+Value: 373" -> "Node: 1659
+Value: 34";
+    "Node: 1655
+Value: 175" -> "Node: 1656
+Value: 35";
+    "Node: 1657
+Value: 99" -> "Node: 1658
+Value: 33";
+    "Node: 1659
+Value: 34" -> "Node: 1660
+Value: 34";
+    "Node: 1661
+Value: 342" -> "Node: 1662
+Value: 27";
+    "Node: 1661
+Value: 342" -> "Node: 1664
+Value: 108";
+    "Node: 1661
+Value: 342" -> "Node: 1666
+Value: 78";
+    "Node: 1662
+Value: 27" -> "Node: 1663
+Value: 27";
+    "Node: 1664
+Value: 108" -> "Node: 1665
+Value: 36";
+    "Node: 1666
+Value: 78" -> "Node: 1667
+Value: 39";
+    "Node: 1668
+Value: 534" -> "Node: 1669
+Value: 102";
+    "Node: 1668
+Value: 534" -> "Node: 1671
+Value: 144";
+    "Node: 1668
+Value: 534" -> "Node: 1673
+Value: 88";
+    "Node: 1669
+Value: 102" -> "Node: 1670
+Value: 51";
+    "Node: 1671
+Value: 144" -> "Node: 1672
+Value: 48";
+    "Node: 1673
+Value: 88" -> "Node: 1674
+Value: 44";
+    "Node: 1675
+Value: 276" -> "Node: 1676
+Value: 69";
+    "Node: 1675
+Value: 276" -> "Node: 1678
+Value: 124";
+    "Node: 1675
+Value: 276" -> "Node: 1680
+Value: 102";
+    "Node: 1676
+Value: 69" -> "Node: 1677
+Value: 23";
+    "Node: 1678
+Value: 124" -> "Node: 1679
+Value: 31";
+    "Node: 1680
+Value: 102" -> "Node: 1681
+Value: 51";
+    "Node: 1682
+Value: 551" -> "Node: 1683
+Value: 34";
+    "Node: 1682
+Value: 551" -> "Node: 1685
+Value: 192";
+    "Node: 1682
+Value: 551" -> "Node: 1687
+Value: 99";
+    "Node: 1683
+Value: 34" -> "Node: 1684
+Value: 34";
+    "Node: 1685
+Value: 192" -> "Node: 1686
+Value: 48";
+    "Node: 1687
+Value: 99" -> "Node: 1688
+Value: 33";
+    "Node: 1689
+Value: 280" -> "Node: 1690
+Value: 387";
+    "Node: 1689
+Value: 280" -> "Node: 1697
+Value: 516";
+    "Node: 1689
+Value: 280" -> "Node: 1704
+Value: 234";
+    "Node: 1689
+Value: 280" -> "Node: 1711
+Value: 424";
+    "Node: 1689
+Value: 280" -> "Node: 1718
+Value: 140";
+    "Node: 1690
+Value: 387" -> "Node: 1691
+Value: 132";
+    "Node: 1690
+Value: 387" -> "Node: 1693
+Value: 70";
+    "Node: 1690
+Value: 387" -> "Node: 1695
+Value: 123";
+    "Node: 1691
+Value: 132" -> "Node: 1692
+Value: 44";
+    "Node: 1693
+Value: 70" -> "Node: 1694
+Value: 35";
+    "Node: 1695
+Value: 123" -> "Node: 1696
+Value: 41";
+    "Node: 1697
+Value: 516" -> "Node: 1698
+Value: 210";
+    "Node: 1697
+Value: 516" -> "Node: 1700
+Value: 138";
+    "Node: 1697
+Value: 516" -> "Node: 1702
+Value: 153";
+    "Node: 1698
+Value: 210" -> "Node: 1699
+Value: 35";
+    "Node: 1700
+Value: 138" -> "Node: 1701
+Value: 46";
+    "Node: 1702
+Value: 153" -> "Node: 1703
+Value: 51";
+    "Node: 1704
+Value: 234" -> "Node: 1705
+Value: 37";
+    "Node: 1704
+Value: 234" -> "Node: 1707
+Value: 52";
+    "Node: 1704
+Value: 234" -> "Node: 1709
+Value: 80";
+    "Node: 1705
+Value: 37" -> "Node: 1706
+Value: 37";
+    "Node: 1707
+Value: 52" -> "Node: 1708
+Value: 26";
+    "Node: 1709
+Value: 80" -> "Node: 1710
+Value: 20";
+    "Node: 1711
+Value: 424" -> "Node: 1712
+Value: 30";
+    "Node: 1711
+Value: 424" -> "Node: 1714
+Value: 212";
+    "Node: 1711
+Value: 424" -> "Node: 1716
+Value: 104";
+    "Node: 1712
+Value: 30" -> "Node: 1713
+Value: 30";
+    "Node: 1714
+Value: 212" -> "Node: 1715
+Value: 53";
+    "Node: 1716
+Value: 104" -> "Node: 1717
+Value: 26";
+    "Node: 1718
+Value: 140" -> "Node: 1719
+Value: 88";
+    "Node: 1718
+Value: 140" -> "Node: 1721
+Value: 70";
+    "Node: 1718
+Value: 140" -> "Node: 1723
+Value: 56";
+    "Node: 1719
+Value: 88" -> "Node: 1720
+Value: 44";
+    "Node: 1721
+Value: 70" -> "Node: 1722
+Value: 35";
+    "Node: 1723
+Value: 56" -> "Node: 1724
+Value: 56";
+    "Node: 1725
+Value: 1038" -> "Node: 1726
+Value: 210";
+    "Node: 1725
+Value: 1038" -> "Node: 1733
+Value: 1001";
+    "Node: 1725
+Value: 1038" -> "Node: 1740
+Value: 1275";
+    "Node: 1725
+Value: 1038" -> "Node: 1747
+Value: 546";
+    "Node: 1725
+Value: 1038" -> "Node: 1754
+Value: 246";
+    "Node: 1726
+Value: 210" -> "Node: 1727
+Value: 74";
+    "Node: 1726
+Value: 210" -> "Node: 1729
+Value: 62";
+    "Node: 1726
+Value: 210" -> "Node: 1731
+Value: 74";
+    "Node: 1727
+Value: 74" -> "Node: 1728
+Value: 37";
+    "Node: 1729
+Value: 62" -> "Node: 1730
+Value: 31";
+    "Node: 1731
+Value: 74" -> "Node: 1732
+Value: 37";
+    "Node: 1733
+Value: 1001" -> "Node: 1734
+Value: 111";
+    "Node: 1733
+Value: 1001" -> "Node: 1736
+Value: 29";
+    "Node: 1733
+Value: 1001" -> "Node: 1738
+Value: 250";
+    "Node: 1734
+Value: 111" -> "Node: 1735
+Value: 37";
+    "Node: 1736
+Value: 29" -> "Node: 1737
+Value: 29";
+    "Node: 1738
+Value: 250" -> "Node: 1739
+Value: 50";
+    "Node: 1740
+Value: 1275" -> "Node: 1741
+Value: 120";
+    "Node: 1740
+Value: 1275" -> "Node: 1743
+Value: 54";
+    "Node: 1740
+Value: 1275" -> "Node: 1745
+Value: 385";
+    "Node: 1741
+Value: 120" -> "Node: 1742
+Value: 40";
+    "Node: 1743
+Value: 54" -> "Node: 1744
+Value: 27";
+    "Node: 1745
+Value: 385" -> "Node: 1746
+Value: 55";
+    "Node: 1747
+Value: 546" -> "Node: 1748
+Value: 141";
+    "Node: 1747
+Value: 546" -> "Node: 1750
+Value: 186";
+    "Node: 1747
+Value: 546" -> "Node: 1752
+Value: 41";
+    "Node: 1748
+Value: 141" -> "Node: 1749
+Value: 47";
+    "Node: 1750
+Value: 186" -> "Node: 1751
+Value: 62";
+    "Node: 1752
+Value: 41" -> "Node: 1753
+Value: 41";
+    "Node: 1754
+Value: 246" -> "Node: 1755
+Value: 102";
+    "Node: 1754
+Value: 246" -> "Node: 1757
+Value: 144";
+    "Node: 1754
+Value: 246" -> "Node: 1759
+Value: 45";
+    "Node: 1755
+Value: 102" -> "Node: 1756
+Value: 51";
+    "Node: 1757
+Value: 144" -> "Node: 1758
+Value: 48";
+    "Node: 1759
+Value: 45" -> "Node: 1760
+Value: 45";
+    "Node: 1761
+Value: 1424" -> "Node: 1762
+Value: 376";
+    "Node: 1761
+Value: 1424" -> "Node: 1769
+Value: 183";
+    "Node: 1761
+Value: 1424" -> "Node: 1776
+Value: 831";
+    "Node: 1761
+Value: 1424" -> "Node: 1783
+Value: 524";
+    "Node: 1761
+Value: 1424" -> "Node: 1790
+Value: 441";
+    "Node: 1762
+Value: 376" -> "Node: 1763
+Value: 132";
+    "Node: 1762
+Value: 376" -> "Node: 1765
+Value: 122";
+    "Node: 1762
+Value: 376" -> "Node: 1767
+Value: 112";
+    "Node: 1763
+Value: 132" -> "Node: 1764
+Value: 44";
+    "Node: 1765
+Value: 122" -> "Node: 1766
+Value: 61";
+    "Node: 1767
+Value: 112" -> "Node: 1768
+Value: 28";
+    "Node: 1769
+Value: 183" -> "Node: 1770
+Value: 35";
+    "Node: 1769
+Value: 183" -> "Node: 1772
+Value: 165";
+    "Node: 1769
+Value: 183" -> "Node: 1774
+Value: 148";
+    "Node: 1770
+Value: 35" -> "Node: 1771
+Value: 35";
+    "Node: 1772
+Value: 165" -> "Node: 1773
+Value: 55";
+    "Node: 1774
+Value: 148" -> "Node: 1775
+Value: 37";
+    "Node: 1776
+Value: 831" -> "Node: 1777
+Value: 224";
+    "Node: 1776
+Value: 831" -> "Node: 1779
+Value: 135";
+    "Node: 1776
+Value: 831" -> "Node: 1781
+Value: 248";
+    "Node: 1777
+Value: 224" -> "Node: 1778
+Value: 56";
+    "Node: 1779
+Value: 135" -> "Node: 1780
+Value: 45";
+    "Node: 1781
+Value: 248" -> "Node: 1782
+Value: 62";
+    "Node: 1783
+Value: 524" -> "Node: 1784
+Value: 208";
+    "Node: 1783
+Value: 524" -> "Node: 1786
+Value: 82";
+    "Node: 1783
+Value: 524" -> "Node: 1788
+Value: 76";
+    "Node: 1784
+Value: 208" -> "Node: 1785
+Value: 52";
+    "Node: 1786
+Value: 82" -> "Node: 1787
+Value: 41";
+    "Node: 1788
+Value: 76" -> "Node: 1789
+Value: 38";
+    "Node: 1790
+Value: 441" -> "Node: 1791
+Value: 132";
+    "Node: 1790
+Value: 441" -> "Node: 1793
+Value: 156";
+    "Node: 1790
+Value: 441" -> "Node: 1795
+Value: 147";
+    "Node: 1791
+Value: 132" -> "Node: 1792
+Value: 44";
+    "Node: 1793
+Value: 156" -> "Node: 1794
+Value: 39";
+    "Node: 1795
+Value: 147" -> "Node: 1796
+Value: 49";
+    "Node: 1797
+Value: 2241" -> "Node: 1798
+Value: 698";
+    "Node: 1797
+Value: 2241" -> "Node: 1805
+Value: 577";
+    "Node: 1797
+Value: 2241" -> "Node: 1812
+Value: 708";
+    "Node: 1797
+Value: 2241" -> "Node: 1819
+Value: 478";
+    "Node: 1797
+Value: 2241" -> "Node: 1826
+Value: 254";
+    "Node: 1798
+Value: 698" -> "Node: 1799
+Value: 90";
+    "Node: 1798
+Value: 698" -> "Node: 1801
+Value: 196";
+    "Node: 1798
+Value: 698" -> "Node: 1803
+Value: 102";
+    "Node: 1799
+Value: 90" -> "Node: 1800
+Value: 30";
+    "Node: 1801
+Value: 196" -> "Node: 1802
+Value: 49";
+    "Node: 1803
+Value: 102" -> "Node: 1804
+Value: 34";
+    "Node: 1805
+Value: 577" -> "Node: 1806
+Value: 117";
+    "Node: 1805
+Value: 577" -> "Node: 1808
+Value: 148";
+    "Node: 1805
+Value: 577" -> "Node: 1810
+Value: 82";
+    "Node: 1806
+Value: 117" -> "Node: 1807
+Value: 39";
+    "Node: 1808
+Value: 148" -> "Node: 1809
+Value: 37";
+    "Node: 1810
+Value: 82" -> "Node: 1811
+Value: 41";
+    "Node: 1812
+Value: 708" -> "Node: 1813
+Value: 69";
+    "Node: 1812
+Value: 708" -> "Node: 1815
+Value: 190";
+    "Node: 1812
+Value: 708" -> "Node: 1817
+Value: 132";
+    "Node: 1813
+Value: 69" -> "Node: 1814
+Value: 23";
+    "Node: 1815
+Value: 190" -> "Node: 1816
+Value: 38";
+    "Node: 1817
+Value: 132" -> "Node: 1818
+Value: 44";
+    "Node: 1819
+Value: 478" -> "Node: 1820
+Value: 195";
+    "Node: 1819
+Value: 478" -> "Node: 1822
+Value: 44";
+    "Node: 1819
+Value: 478" -> "Node: 1824
+Value: 84";
+    "Node: 1820
+Value: 195" -> "Node: 1821
+Value: 39";
+    "Node: 1822
+Value: 44" -> "Node: 1823
+Value: 22";
+    "Node: 1824
+Value: 84" -> "Node: 1825
+Value: 28";
+    "Node: 1826
+Value: 254" -> "Node: 1827
+Value: 60";
+    "Node: 1826
+Value: 254" -> "Node: 1829
+Value: 50";
+    "Node: 1826
+Value: 254" -> "Node: 1831
+Value: 102";
+    "Node: 1827
+Value: 60" -> "Node: 1828
+Value: 60";
+    "Node: 1829
+Value: 50" -> "Node: 1830
+Value: 25";
+    "Node: 1831
+Value: 102" -> "Node: 1832
+Value: 34";
+}
