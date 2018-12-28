@@ -9,7 +9,7 @@ score_list = [0] * players
 marble_deque = deque([0])
 current_player = 0
 
-for marble in range(1, last_marble + 1):
+for marble in range(1, (last_marble * 100) + 1):
     if (marble % 23) == 0:
         score_list[current_player] += marble
         marble_deque.rotate(7)
@@ -19,8 +19,7 @@ for marble in range(1, last_marble + 1):
         marble_deque.rotate(-2)
         marble_deque.append(marble)
         marble_deque.rotate(1)
-        # print(current_player + 1, marble_deque)
     current_player = (current_player + 1) % players
-    # if marble == last_marble:
-    #     print("Part 1: {}".format(max(score_list)))
-print("Part 1: {}".format(max(score_list)))
+    if marble == last_marble:
+        print("Part 1: {}".format(max(score_list)))
+print("Part 2: {}".format(max(score_list)))
