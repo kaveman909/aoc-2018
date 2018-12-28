@@ -21,9 +21,9 @@ def calc_grid():
     size_grid = x_grid * y_grid
     if size_grid < global_size_grid and size_grid < 1_000:
         global_size_grid = size_grid
-        grid = [['.' for _ in range(x_grid)] for _ in range(y_grid)]
+        grid = [[' ' for _ in range(x_grid)] for _ in range(y_grid)]
         for x, y in pos:
-            grid[y - y_min][x - x_min] = '#'
+            grid[y - y_min][x - x_min] = u"\u2588"
         global_grid = grid[:]
         return True
     return False
