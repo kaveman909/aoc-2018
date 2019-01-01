@@ -96,16 +96,10 @@ for y, line in enumerate(track):
         # replace cart with appropriate track symbol
         replacement_track = '|' if direction in 'v^' else '-'
         track[y] = track[y].replace(direction, replacement_track)
-for i, line in enumerate(track):
-    print(i, line)
 
 # main tick
-for k in range(10000):
-    # print('Iteration:', k)
-    for i, cart in enumerate(carts):
-        # if i == 14:
-        #     print(i, cart.position, cart.direction,
-        #           cart.next_turn, track[cart.y][cart.x])
+while 1:
+    for cart in carts:
         update_position(cart)
     carts_copy = carts[:]
     for i, cart in enumerate(carts_copy):
@@ -119,6 +113,4 @@ for k in range(10000):
                 carts.remove(cart2)
                 if len(carts) == 1:
                     print('Part 2: {}'.format(carts[0].position))
-                    print(carts[0].direction, carts[0].next_turn,
-                          carts[0].x, carts[0].y, carts[0].position)
                     exit()
