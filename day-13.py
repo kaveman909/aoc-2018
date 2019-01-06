@@ -8,6 +8,7 @@ class Cart:
         self.x = x
         self.y = y
         self.position = (x, y)
+        self.last_position = (x, y)
         self.direction = direction
         self.next_turn = 'l'
         self.id = g_id
@@ -15,10 +16,12 @@ class Cart:
 
     def set_x(self, x):
         self.x = x
+        self.last_position = self.position
         self.position = (self.x, self.y)
 
     def set_y(self, y):
         self.y = y
+        self.last_position = self.position
         self.position = (self.x, self.y)
 
 
@@ -95,7 +98,6 @@ for y, line in enumerate(track):
     matches = pattern.finditer(line)
     if matches:
         for match in matches:
-            print(match)
             x = int(match.span()[0])
             direction = match.group(0)
             carts.append(Cart(x, y, direction))
@@ -107,13 +109,10 @@ for y, line in enumerate(track):
 while 1:
     for cart in carts:
         update_position(cart)
-        if cart.id == 1:
-            print(cart.id, cart.position, cart.direction,
-                  cart.next_turn, track[cart.y][cart.x])
     carts_same_spot = list()
     for i, cart in enumerate(carts):
         for j in range(i + 1, len(carts)):
-            if cart.position == carts[j].position:
+            if (cart.position == carts[j].position) or (cart.position == carts[j].last_position):
                 if not solution:
                     print('Part 1: {}'.format(cart.position))
                     solution = True
@@ -121,11 +120,8 @@ while 1:
                     if c not in carts_same_spot:
                         carts_same_spot.append(c)
     if carts_same_spot != []:
-        print('Removing:')
         for cart in carts_same_spot:
-            print(cart.id, cart.position)
             carts.remove(cart)
         if len(carts) == 1:
-            print(carts[0].id)
             print('Part 2: {}'.format(carts[0].position))
             exit()
