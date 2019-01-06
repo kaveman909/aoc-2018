@@ -4,11 +4,14 @@ import sys
 
 class Cart:
     def __init__(self, x, y, direction):
+        global g_id
         self.x = x
         self.y = y
         self.position = (x, y)
         self.direction = direction
         self.next_turn = 'l'
+        self.id = g_id
+        g_id += 1
 
     def set_x(self, x):
         self.x = x
@@ -84,33 +87,45 @@ def update_position(cart):
 
 track = [i.strip('\n') for i in open('day-13.txt').readlines()]
 carts = list()
+g_id = 0
 solution = False
 # find and initialize all carts
 pattern = re.compile(r'[v^<>]')
 for y, line in enumerate(track):
-    matches = pattern.search(line)
+    matches = pattern.finditer(line)
     if matches:
-        x = int(matches.span()[0])
-        direction = matches.group(0)
-        carts.append(Cart(x, y, direction))
-        # replace cart with appropriate track symbol
-        replacement_track = '|' if direction in 'v^' else '-'
-        track[y] = track[y].replace(direction, replacement_track)
+        for match in matches:
+            print(match)
+            x = int(match.span()[0])
+            direction = match.group(0)
+            carts.append(Cart(x, y, direction))
+            # replace cart with appropriate track symbol
+            replacement_track = '|' if direction in 'v^' else '-'
+            track[y] = track[y].replace(direction, replacement_track)
 
 # main tick
 while 1:
     for cart in carts:
         update_position(cart)
-    carts_copy = carts[:]
-    for i, cart in enumerate(carts_copy):
-        for j in range(i + 1, len(carts_copy)):
-            if cart.position == carts_copy[j].position:
+        if cart.id == 1:
+            print(cart.id, cart.position, cart.direction,
+                  cart.next_turn, track[cart.y][cart.x])
+    carts_same_spot = list()
+    for i, cart in enumerate(carts):
+        for j in range(i + 1, len(carts)):
+            if cart.position == carts[j].position:
                 if not solution:
                     print('Part 1: {}'.format(cart.position))
                     solution = True
-                cart2 = carts_copy[j]
-                carts.remove(cart)
-                carts.remove(cart2)
-                if len(carts) == 1:
-                    print('Part 2: {}'.format(carts[0].position))
-                    exit()
+                for c in [cart, carts[j]]:
+                    if c not in carts_same_spot:
+                        carts_same_spot.append(c)
+    if carts_same_spot != []:
+        print('Removing:')
+        for cart in carts_same_spot:
+            print(cart.id, cart.position)
+            carts.remove(cart)
+        if len(carts) == 1:
+            print(carts[0].id)
+            print('Part 2: {}'.format(carts[0].position))
+            exit()
