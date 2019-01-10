@@ -111,12 +111,12 @@ while 1:
         update_position(cart)
     carts_same_spot = list()
     for i, cart in enumerate(carts):
-        for j in range(i + 1, len(carts)):
-            if (cart.position == carts[j].position) or (cart.position == carts[j].last_position):
+        for cart2 in carts[i + 1:]:
+            if (cart.position == cart2.position) or (cart.position == cart2.last_position):
                 if not solution:
                     print('Part 1: {}'.format(cart.position))
                     solution = True
-                for c in [cart, carts[j]]:
+                for c in [cart, cart2]:
                     if c not in carts_same_spot:
                         carts_same_spot.append(c)
     if carts_same_spot != []:
